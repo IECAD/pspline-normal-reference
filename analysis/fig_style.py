@@ -29,7 +29,7 @@ OI = {"blue": "#0072B2", "vermillion": "#D55E00", "orange": "#E69F00", "purple":
 if MODE == "bw":
     STYLE = {   # 흑백판: 밝기 단계 + 마커 채움/비움 + 선 종류. 본문·표와 같은 이름
         "PS": dict(color="#000000", marker="s", ls="-", lw=2.0, ms=4.5, label="P-spline (PS)"),
-        "cell": dict(color="#000000", marker="o", ls="-", lw=1.1, ms=4.8, mfc="white", label="cell mean"),
+        "cell": dict(color="#000000", marker="o", ls="-", lw=1.1, ms=4.8, mfc="white", label="cell mean (unit fill)"),
         "cellfill": dict(color="#555555", marker="^", ls="--", lw=1.2, ms=4.8, mfc="white", label="cell mean + row-mean fill"),
         "cellinterp": dict(color="#666666", marker="D", ls=":", lw=1.6, ms=3.8, label="cell mean + interpolation"),
         "Z1": dict(color="#000000", marker="v", ls="--", lw=1.1, ms=4.5, mfc="white", label="node mean"),
@@ -53,7 +53,7 @@ else:
     P_ = PALETTES[PALETTE]
     STYLE = {   # 컬러판: 모델별 고정 표기
         "PS": dict(color=P_["PS"], marker="s", ls="-", lw=1.8, ms=4.5, label="P-spline (PS)"),
-        "cell": dict(color=P_["cell"], marker="o", ls="-", lw=1.3, ms=4.8, mfc="white", label="cell mean"),   # 속 빈 원: 회색조에서 PS(■)와 구분
+        "cell": dict(color=P_["cell"], marker="o", ls="-", lw=1.3, ms=4.8, mfc="white", label="cell mean (unit fill)"),   # 속 빈 원: 회색조에서 PS(■)와 구분
         "cellfill": dict(color=P_["cellfill"], marker="^", ls="--", lw=1.3, ms=4.5, label="cell mean + row-mean fill"),
         "cellinterp": dict(color=P_["cellinterp"], marker="D", ls=":", lw=1.5, ms=3.8, label="cell mean + interpolation"),
         "Z1": dict(color=P_["Z1"], marker="v", ls="--", lw=1.2, ms=4.5, label="node mean"),

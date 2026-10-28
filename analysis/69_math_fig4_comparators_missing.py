@@ -41,7 +41,7 @@ ax.annotate(NAMES[low], xy=(0.97, g.loc["C:0.5", low]), xytext=(0.05, 0.52), fon
 ax.set_xticks(x); ax.set_xticklabels([XL[k] for k in ORDER])
 ax.set_xlim(-0.3, len(ORDER) - 0.7); ax.set_ylim(0.45, 1.0)
 ax.set_ylabel(f"cell AUC-PR (D1, {args.split})"); ax.set_xlabel("training-cell loss")
-h, l = ax.get_legend_handles_labels(); order = [l.index(s) for s in ("P-spline (PS)", "cell mean", "nine comparators")]
+h, l = ax.get_legend_handles_labels(); order = [l.index(s) for s in ("P-spline (PS)", "cell mean (unit fill)", "nine comparators")]
 ax.legend([h[i] for i in order], [l[i] for i in order], loc="center right", bbox_to_anchor=(1.0, 0.52), borderaxespad=0.3)
 stem = f"fig4_comparators_missing{'' if args.split == 'test' else '_' + args.split}"
 fs.save(fig, OUT, stem)

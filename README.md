@@ -82,7 +82,7 @@ Section and table numbers refer to the revised manuscript; table numbers may shi
 | Cluster bootstrap intervals (Section 3.7) | `analysis/63_math_paired_stats.py` → `analysis/76_cluster_bootstrap.py` | `results/paper/paired_*.csv` → `results/expR1/inference/` |
 | Group thresholds and false-alarm rates (Section 5) | `expR1_3_thresholds.py` | `results/expR1/thresholds/` |
 | Computing cost (Section 5) | `exp8_cost.py` | `results/exp8/` |
-| Figures and tables | `analysis/60_math_figures.py`, `64_math_fig1.py`, `69_math_fig4_comparators_missing.py`, `67_math_tables.py` | — |
+| Figures, graphical abstract and tables | `analysis/60_math_figures.py`, `64_math_fig1.py`, `69_math_fig4_comparators_missing.py`, `72_graphical_abstract.py`, `67_math_tables.py` | — |
 | Supplementary Tables S41–S49 (revision analyses) | `analysis/81_supp_revision.py` | generated from the outputs above |
 
 Each script's docstring states its registration document, options and outputs. Validation runs choose settings; the test split was scored once after the choice was fixed.

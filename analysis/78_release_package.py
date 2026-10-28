@@ -44,6 +44,7 @@ ANALYSIS = [
     "common.py", "fig_style.py", "00_fetch_d2.py", "12_d2_structure.py", "20_d3_structure.py", "21_d4_structure.py",
     "42_d2_nlos_signature.py", "47_reference_error.py", "48_d3_feasibility.py", "49_phy_loss_library.py",
     "60_math_figures.py", "61_huber_synthetic_check.py", "63_math_paired_stats.py", "64_math_fig1.py", "67_math_tables.py",
+    "72_graphical_abstract.py",
     "69_math_fig4_comparators_missing.py", "76_cluster_bootstrap.py", "77_pred_variance.py", "78_release_package.py", "81_supp_revision.py",
 ]
 ANALYSIS_OUT = [
