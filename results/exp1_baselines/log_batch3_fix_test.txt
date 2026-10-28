@@ -1,0 +1,16 @@
+  d1 classroom ANOMTRANSFIX nc {'d_model': 16}: 9.0s
+  d1 lab ANOMTRANSFIX nc {'d_model': 16}: 6.8s
+  d1 hallway ANOMTRANSFIX nc {'d_model': 16}: 8.9s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 ANOMTRANSFIX nc {'d_model': 32}: 8.6s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 ANOMTRANSFIX nc {'d_model': 32}: 6.2s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 ANOMTRANSFIX nc {'d_model': 32}: 8.6s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 ANOMTRANSFIX nc {'d_model': 32}: 5.7s
+exit 0

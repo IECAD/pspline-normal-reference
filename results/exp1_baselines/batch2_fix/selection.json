@@ -1,0 +1,71 @@
+{
+ "rule": "doc/실험1_비교모델_계획.md 1–2절 (2차 수정)",
+ "selection": {
+  "GDN": {
+   "d1": {
+    "variant": "nc",
+    "cfg": {
+     "embed": 32
+    },
+    "val_auc_pr": 0.9654659203243031
+   },
+   "d2": {
+    "variant": "nc",
+    "cfg": {
+     "embed": 16
+    },
+    "val_auc_pr": 0.8930246409585706
+   }
+  },
+  "LAPRPCA": {
+   "d1": {
+    "variant": "nc",
+    "cfg": {
+     "c": 1.0,
+     "gamma": 0.1
+    },
+    "val_auc_pr": 0.945826711548232
+   },
+   "d2": {
+    "variant": "nc",
+    "cfg": {
+     "c": 0.5,
+     "gamma": 1.0
+    },
+    "val_auc_pr": 0.5230198545757733
+   }
+  },
+  "RBCPHI": {
+   "d1": {
+    "variant": "nc",
+    "cfg": {
+     "var": 0.8
+    },
+    "val_auc_pr": 0.9643445039918354
+   },
+   "d2": {
+    "variant": "nc",
+    "cfg": {
+     "var": 0.8
+    },
+    "val_auc_pr": 0.3804272941544814
+   }
+  },
+  "USADFIX": {
+   "d1": {
+    "variant": "nc",
+    "cfg": {
+     "latent": 16
+    },
+    "val_auc_pr": 0.438466334504541
+   },
+   "d2": {
+    "variant": "raw",
+    "cfg": {
+     "latent": 16
+    },
+    "val_auc_pr": 0.1786700530460151
+   }
+  }
+ }
+}

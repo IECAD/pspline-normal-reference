@@ -1,0 +1,115 @@
+  d1 hallway base|기준 s=None CG OLS {'alpha': 0.001} nc: 0.7s
+  d1 hallway base|기준 s=None CF OLS {'alpha': 0.001} nc: 0.7s
+  d1 hallway base|기준 s=None CI OLS {'alpha': 0.001} nc: 0.7s
+  d1 hallway base|기준 s=None PS OLS {'alpha': 0.001} nc: 0.7s
+  d1 hallway base|기준 s=None (raw) OLS {'alpha': 0.001} raw: 0.6s
+  d1 hallway base|기준 s=None CG OLS {'alpha': 1.0} nc: 0.8s
+  d1 hallway base|기준 s=None CF OLS {'alpha': 1.0} nc: 0.7s
+  d1 hallway base|기준 s=None CI OLS {'alpha': 1.0} nc: 0.8s
+  d1 hallway base|기준 s=None PS OLS {'alpha': 1.0} nc: 0.7s
+  d1 hallway base|기준 s=None (raw) OLS {'alpha': 1.0} raw: 0.8s
+  d1 hallway base|기준 s=None CG OLS {'alpha': 10.0} nc: 0.9s
+  d1 hallway base|기준 s=None CF OLS {'alpha': 10.0} nc: 0.9s
+  d1 hallway base|기준 s=None CI OLS {'alpha': 10.0} nc: 0.8s
+  d1 hallway base|기준 s=None PS OLS {'alpha': 10.0} nc: 0.8s
+  d1 hallway base|기준 s=None (raw) OLS {'alpha': 10.0} raw: 0.8s
+  d1 hallway base|기준 s=None CG OLS {'alpha': 100.0} nc: 0.8s
+  d1 hallway base|기준 s=None CF OLS {'alpha': 100.0} nc: 1.2s
+  d1 hallway base|기준 s=None CI OLS {'alpha': 100.0} nc: 0.9s
+  d1 hallway base|기준 s=None PS OLS {'alpha': 100.0} nc: 0.9s
+  d1 hallway base|기준 s=None (raw) OLS {'alpha': 100.0} raw: 0.4s
+  d1 hallway base|기준 s=None CG GDN {'embed': 16} nc: 10.4s
+  d1 hallway base|기준 s=None CF GDN {'embed': 16} nc: 3.9s
+  d1 hallway base|기준 s=None CI GDN {'embed': 16} nc: 3.8s
+  d1 hallway base|기준 s=None PS GDN {'embed': 16} nc: 4.0s
+  d1 hallway base|기준 s=None (raw) GDN {'embed': 16} raw: 4.2s
+  d1 hallway base|기준 s=None CG GDN {'embed': 32} nc: 4.0s
+  d1 hallway base|기준 s=None CF GDN {'embed': 32} nc: 4.2s
+  d1 hallway base|기준 s=None CI GDN {'embed': 32} nc: 4.4s
+  d1 hallway base|기준 s=None PS GDN {'embed': 32} nc: 3.7s
+  d1 hallway base|기준 s=None (raw) GDN {'embed': 32} raw: 4.2s
+  d1 hallway base|기준 s=None CG CAE2D {'channels': 8} nc: 2.7s
+  d1 hallway base|기준 s=None CF CAE2D {'channels': 8} nc: 2.6s
+  d1 hallway base|기준 s=None CI CAE2D {'channels': 8} nc: 2.4s
+  d1 hallway base|기준 s=None PS CAE2D {'channels': 8} nc: 2.4s
+  d1 hallway base|기준 s=None (raw) CAE2D {'channels': 8} raw: 2.6s
+  d1 hallway base|기준 s=None CG CAE2D {'channels': 16} nc: 2.7s
+  d1 hallway base|기준 s=None CF CAE2D {'channels': 16} nc: 2.6s
+  d1 hallway base|기준 s=None CI CAE2D {'channels': 16} nc: 2.4s
+  d1 hallway base|기준 s=None PS CAE2D {'channels': 16} nc: 2.8s
+  d1 hallway base|기준 s=None (raw) CAE2D {'channels': 16} raw: 2.6s
+  d1 hallway base|기준 s=None CG TRANAD {'d_model': 16} nc: 24.7s
+  d1 hallway base|기준 s=None CF TRANAD {'d_model': 16} nc: 25.2s
+  d1 hallway base|기준 s=None CI TRANAD {'d_model': 16} nc: 25.2s
+  d1 hallway base|기준 s=None PS TRANAD {'d_model': 16} nc: 23.4s
+  d1 hallway base|기준 s=None (raw) TRANAD {'d_model': 16} raw: 21.8s
+  d1 hallway base|기준 s=None CG TRANAD {'d_model': 32} nc: 22.0s
+  d1 hallway base|기준 s=None CF TRANAD {'d_model': 32} nc: 23.2s
+  d1 hallway base|기준 s=None CI TRANAD {'d_model': 32} nc: 22.5s
+  d1 hallway base|기준 s=None PS TRANAD {'d_model': 32} nc: 22.3s
+  d1 hallway base|기준 s=None (raw) TRANAD {'d_model': 32} raw: 23.3s
+  d1 hallway C|0.5 s=0 CG OLS {'alpha': 0.001} nc: 0.5s
+  d1 hallway C|0.5 s=0 CF OLS {'alpha': 0.001} nc: 0.5s
+  d1 hallway C|0.5 s=0 CI OLS {'alpha': 0.001} nc: 0.6s
+  d1 hallway C|0.5 s=0 PS OLS {'alpha': 0.001} nc: 0.5s
+  d1 hallway C|0.5 s=0 (raw) OLS {'alpha': 0.001} raw: 0.5s
+  d1 hallway C|0.5 s=0 CG OLS {'alpha': 1.0} nc: 0.5s
+  d1 hallway C|0.5 s=0 CF OLS {'alpha': 1.0} nc: 0.5s
+  d1 hallway C|0.5 s=0 CI OLS {'alpha': 1.0} nc: 0.5s
+  d1 hallway C|0.5 s=0 PS OLS {'alpha': 1.0} nc: 0.6s
+  d1 hallway C|0.5 s=0 (raw) OLS {'alpha': 1.0} raw: 0.5s
+  d1 hallway C|0.5 s=0 CG OLS {'alpha': 10.0} nc: 0.6s
+  d1 hallway C|0.5 s=0 CF OLS {'alpha': 10.0} nc: 0.5s
+  d1 hallway C|0.5 s=0 CI OLS {'alpha': 10.0} nc: 0.4s
+  d1 hallway C|0.5 s=0 PS OLS {'alpha': 10.0} nc: 0.4s
+  d1 hallway C|0.5 s=0 (raw) OLS {'alpha': 10.0} raw: 0.4s
+  d1 hallway C|0.5 s=0 CG OLS {'alpha': 100.0} nc: 0.4s
+  d1 hallway C|0.5 s=0 CF OLS {'alpha': 100.0} nc: 0.4s
+  d1 hallway C|0.5 s=0 CI OLS {'alpha': 100.0} nc: 0.4s
+  d1 hallway C|0.5 s=0 PS OLS {'alpha': 100.0} nc: 0.4s
+  d1 hallway C|0.5 s=0 (raw) OLS {'alpha': 100.0} raw: 0.4s
+  d1 hallway C|0.5 s=0 CG GDN {'embed': 16} nc: 4.2s
+  d1 hallway C|0.5 s=0 CF GDN {'embed': 16} nc: 4.3s
+  d1 hallway C|0.5 s=0 CI GDN {'embed': 16} nc: 4.3s
+  d1 hallway C|0.5 s=0 PS GDN {'embed': 16} nc: 4.2s
+  d1 hallway C|0.5 s=0 (raw) GDN {'embed': 16} raw: 4.3s
+  d1 hallway C|0.5 s=0 CG GDN {'embed': 32} nc: 4.4s
+  d1 hallway C|0.5 s=0 CF GDN {'embed': 32} nc: 4.1s
+  d1 hallway C|0.5 s=0 CI GDN {'embed': 32} nc: 4.3s
+  d1 hallway C|0.5 s=0 PS GDN {'embed': 32} nc: 4.3s
+  d1 hallway C|0.5 s=0 (raw) GDN {'embed': 32} raw: 3.8s
+  d1 hallway C|0.5 s=0 CG CAE2D {'channels': 8} nc: 2.6s
+  d1 hallway C|0.5 s=0 CF CAE2D {'channels': 8} nc: 2.5s
+  d1 hallway C|0.5 s=0 CI CAE2D {'channels': 8} nc: 2.6s
+  d1 hallway C|0.5 s=0 PS CAE2D {'channels': 8} nc: 2.1s
+  d1 hallway C|0.5 s=0 (raw) CAE2D {'channels': 8} raw: 1.9s
+  d1 hallway C|0.5 s=0 CG CAE2D {'channels': 16} nc: 3.3s
+  d1 hallway C|0.5 s=0 CF CAE2D {'channels': 16} nc: 2.3s
+  d1 hallway C|0.5 s=0 CI CAE2D {'channels': 16} nc: 3.2s
+  d1 hallway C|0.5 s=0 PS CAE2D {'channels': 16} nc: 2.3s
+  d1 hallway C|0.5 s=0 (raw) CAE2D {'channels': 16} raw: 2.7s
+  d1 hallway C|0.5 s=0 CG TRANAD {'d_model': 16} nc: 24.3s
+  d1 hallway C|0.5 s=0 CF TRANAD {'d_model': 16} nc: 18.8s
+  d1 hallway C|0.5 s=0 CI TRANAD {'d_model': 16} nc: 18.8s
+  d1 hallway C|0.5 s=0 PS TRANAD {'d_model': 16} nc: 18.5s
+  d1 hallway C|0.5 s=0 (raw) TRANAD {'d_model': 16} raw: 18.2s
+  d1 hallway C|0.5 s=0 CG TRANAD {'d_model': 32} nc: 21.6s
+  d1 hallway C|0.5 s=0 CF TRANAD {'d_model': 32} nc: 21.9s
+  d1 hallway C|0.5 s=0 CI TRANAD {'d_model': 32} nc: 23.2s
+  d1 hallway C|0.5 s=0 PS TRANAD {'d_model': 32} nc: 22.9s
+Traceback (most recent call last):
+  File "<repo>\experiments\expR1_4_factorial.py", line 177, in <module>
+    main()
+  File "<repo>\experiments\expR1_4_factorial.py", line 148, in main
+    res = run_model(Dr, det, cfg, variant, split)
+  File "<repo>\experiments\exp1_baselines.py", line 109, in run_model
+    m = MODELS[mname](**cfg).fit(model_input(D, variant, D["tr"]["Xs"], D["tr"]["n"], D["tr"]["Ws"], train=True))
+  File "<repo>\src\baselines\models.py", line 677, in fit
+    xb = x[perm[i:i + self.batch].to(self.dev)]
+torch.AcceleratorError: CUDA error: an illegal memory access was encountered
+Search for `cudaErrorIllegalAddress' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+EXIT 1

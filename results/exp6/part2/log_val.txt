@@ -1,0 +1,7 @@
+F d1: 360 rows, 2.6s
+Traceback (most recent call last):
+  File "<repo>\experiments\exp6_part2.py", line 338, in <module>
+    rows += [dict(dataset=ds, space=u, **r) for r in FAMS[fam](ds, u, data[u], E, ecfg, args.splits, code)]
+  File "<repo>\experiments\exp6_part2.py", line 192, in fam_G
+    out += eval_bank(comp, bank, inj, W, nodes, rows, E["level"], family=fam, level=k, cond_seed=cs, basis=bid)
+TypeError: eval_bank() got multiple values for argument 'level'

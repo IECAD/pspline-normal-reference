@@ -1,0 +1,9 @@
+D4a = SMD (Server Machine Dataset)
+source repo : https://github.com/NetManAIOps/OmniAnomaly
+ref         : commit 7fb0e0acf89ea49908896bcc9f9e80fcfff6baf4 (master HEAD as of 2026-10-08; commit date 2021-02-12)
+archive     : https://codeload.github.com/NetManAIOps/OmniAnomaly/zip/7fb0e0acf89ea49908896bcc9f9e80fcfff6baf4
+archive sha256 : 5bcce77823a9ed2ea872c733895ccb6a7edb40476306ab8626b49481803b831e (105,339,616 bytes; archive itself not kept)
+extracted   : ServerMachineDataset/** -> this directory (train/, test/, test_label/, interpretation_label/, LICENSE)
+              repo-root LICENSE -> _repo_LICENSE, repo-root README.md -> _repo_README.md (provenance only)
+license     : MIT (ServerMachineDataset/LICENSE "Copyright (c) 2021 NetManAIOps-SMD"; repo LICENSE "Copyright (c) 2021 NetManAIOps-OmniAnomaly")
+downloaded  : 2026-10-08. No code from the repo was extracted or executed.

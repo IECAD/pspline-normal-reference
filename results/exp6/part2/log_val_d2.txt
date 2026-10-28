@@ -1,0 +1,717 @@
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+F d2: 960 rows, 16.2s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env0 base k=0.0 seed=-1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env0 G1 k=0.5 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env0 G1 k=0.5 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env0 G1 k=0.5 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env0 G1 k=1.0 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env0 G1 k=1.0 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env0 G1 k=1.0 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env0 G1 k=2.0 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env0 G1 k=2.0 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env0 G1 k=2.0 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env0 G2 k=0.5 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env0 G2 k=0.5 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env0 G2 k=0.5 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env0 G2 k=1.0 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env0 G2 k=1.0 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env0 G2 k=1.0 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env1 base k=0.0 seed=-1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env1 G1 k=0.5 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env1 G1 k=0.5 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env1 G1 k=0.5 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env1 G1 k=1.0 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env1 G1 k=1.0 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env1 G1 k=1.0 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env1 G1 k=2.0 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env1 G1 k=2.0 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env1 G1 k=2.0 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env1 G2 k=0.5 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env1 G2 k=0.5 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env1 G2 k=0.5 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env1 G2 k=1.0 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env1 G2 k=1.0 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env1 G2 k=1.0 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env2 base k=0.0 seed=-1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env2 G1 k=0.5 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env2 G1 k=0.5 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env2 G1 k=0.5 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env2 G1 k=1.0 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env2 G1 k=1.0 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env2 G1 k=1.0 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env2 G1 k=2.0 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env2 G1 k=2.0 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env2 G1 k=2.0 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env2 G2 k=0.5 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env2 G2 k=0.5 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env2 G2 k=0.5 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env2 G2 k=1.0 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env2 G2 k=1.0 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env2 G2 k=1.0 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env3 base k=0.0 seed=-1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env3 G1 k=0.5 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env3 G1 k=0.5 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env3 G1 k=0.5 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env3 G1 k=1.0 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env3 G1 k=1.0 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env3 G1 k=1.0 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env3 G1 k=2.0 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env3 G1 k=2.0 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env3 G1 k=2.0 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env3 G2 k=0.5 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env3 G2 k=0.5 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env3 G2 k=0.5 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env3 G2 k=1.0 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env3 G2 k=1.0 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  G d2 env3 G2 k=1.0 seed=2
+G d2: 3840 rows, 206.2s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env0 subset=(1, 2, 3, 4, 5, 6, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env0 subset=(2, 3, 4, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env0 subset=(1, 2, 3, 5)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env0 subset=(2, 4, 6, 7)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env0 subset=(2, 6, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env0 subset=(1, 3, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env0 subset=(3, 4, 5, 6, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env0 subset=(1, 2, 3, 5, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env0 subset=(1, 3, 4, 6, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env0 subset=(2, 3, 4, 5, 6, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env0 subset=(1, 2, 4, 5, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env1 subset=(1, 2, 3, 4, 5, 6, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env1 subset=(2, 3, 4, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env1 subset=(1, 2, 3, 5)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env1 subset=(2, 4, 6, 7)
+  H d2 env1 subset=(2, 6, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env1 subset=(1, 3, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env1 subset=(3, 4, 5, 6, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env1 subset=(1, 2, 3, 5, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env1 subset=(1, 3, 4, 6, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env1 subset=(2, 3, 4, 5, 6, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env1 subset=(1, 2, 4, 5, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env2 subset=(1, 2, 3, 4, 5, 6, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env2 subset=(2, 3, 4, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env2 subset=(1, 2, 3, 5)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env2 subset=(2, 4, 6, 7)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env2 subset=(2, 6, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env2 subset=(1, 3, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env2 subset=(3, 4, 5, 6, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env2 subset=(1, 2, 3, 5, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env2 subset=(1, 3, 4, 6, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env2 subset=(2, 3, 4, 5, 6, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env2 subset=(1, 2, 4, 5, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env3 subset=(1, 2, 3, 4, 5, 6, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env3 subset=(2, 3, 4, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env3 subset=(1, 2, 3, 5)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env3 subset=(2, 4, 6, 7)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env3 subset=(2, 6, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env3 subset=(1, 3, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env3 subset=(3, 4, 5, 6, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env3 subset=(1, 2, 3, 5, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env3 subset=(1, 3, 4, 6, 7, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env3 subset=(2, 3, 4, 5, 6, 8)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  H d2 env3 subset=(1, 2, 4, 5, 7, 8)
+H d2: 3960 rows, 131.8s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  I d2 env0 6v12
+  I d2 env0 24v12
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  I d2 env1 6v12
+  I d2 env1 24v12
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  I d2 env2 6v12
+  I d2 env2 24v12
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  I d2 env3 6v12
+  I d2 env3 24v12
+I d2: 960 rows, 35.1s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env0 base p=0.0 seed=-1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env0 J1 p=0.1 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env0 J1 p=0.1 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env0 J1 p=0.1 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env0 J1 p=0.3 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env0 J1 p=0.3 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env0 J1 p=0.3 seed=2
+  J d2 env0 J2 p=1.0 seed=-1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env1 base p=0.0 seed=-1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env1 J1 p=0.1 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env1 J1 p=0.1 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env1 J1 p=0.1 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env1 J1 p=0.3 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env1 J1 p=0.3 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env1 J1 p=0.3 seed=2
+  J d2 env1 J2 p=1.0 seed=-1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env2 base p=0.0 seed=-1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env2 J1 p=0.1 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env2 J1 p=0.1 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env2 J1 p=0.1 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env2 J1 p=0.3 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env2 J1 p=0.3 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env2 J1 p=0.3 seed=2
+  J d2 env2 J2 p=1.0 seed=-1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env3 base p=0.0 seed=-1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env3 J1 p=0.1 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env3 J1 p=0.1 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env3 J1 p=0.1 seed=2
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env3 J1 p=0.3 seed=0
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env3 J1 p=0.3 seed=1
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  J d2 env3 J1 p=0.3 seed=2
+  J d2 env3 J2 p=1.0 seed=-1
+J d2: 1920 rows, 95.7s

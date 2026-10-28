@@ -1,0 +1,972 @@
+{
+ "d1": {
+  "C|0.5": {
+   "CF": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9508343160120372,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9574033280053411,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 10.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9578980325656016,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9541252091819827,
+     "n_cfg": 4
+    }
+   },
+   "CG": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.7922786226125427,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.7872367606691553,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 100.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.7876905359411304,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.783532426565484,
+     "n_cfg": 4
+    }
+   },
+   "CI": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9507658360435284,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9574085493788531,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 100.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9578844754289146,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9540982672240015,
+     "n_cfg": 4
+    }
+   },
+   "PS": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9548584481402002,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9706081872612567,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 100.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9710609961737539,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9689620444486748,
+     "n_cfg": 4
+    }
+   }
+  },
+  "C|0.7": {
+   "CF": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9455648896981076,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9495684325576643,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 1.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.94970080616538,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9467613400157747,
+     "n_cfg": 4
+    }
+   },
+   "CG": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.6237801950901007,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.6240486223596725,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 100.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.6232370892328704,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.6204664985663735,
+     "n_cfg": 4
+    }
+   },
+   "CI": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9444349871616161,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9485048311419011,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 1.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9488529678767106,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9459936629695369,
+     "n_cfg": 4
+    }
+   },
+   "PS": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9547278353021201,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9687267838417991,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 10.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9687201072747048,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9668133275557992,
+     "n_cfg": 4
+    }
+   }
+  },
+  "D|pi=0.7,L=4": {
+   "CF": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9390162611569589,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9460772850620367,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 0.001
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9459730112216103,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.942622906339724,
+     "n_cfg": 4
+    }
+   },
+   "CG": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.5997095895081356,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.6047297833605116,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 1.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.6031697916331769,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.601065831952131,
+     "n_cfg": 4
+    }
+   },
+   "CI": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9369779579476298,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9441332888496398,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 0.001
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9435733558380317,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9401854856427782,
+     "n_cfg": 4
+    }
+   },
+   "PS": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9564517300055545,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9667506959504505,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 100.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9664205880638155,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9643971579603555,
+     "n_cfg": 4
+    }
+   }
+  },
+  "P|P3": {
+   "CF": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9426124347206092,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9447530717538747,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 100.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.946332905123288,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 32
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9441467422740567,
+     "n_cfg": 4
+    }
+   },
+   "CG": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.5629080822307923,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.5641122242989492,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 0.001
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.566822297005165,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.5626435648367014,
+     "n_cfg": 4
+    }
+   },
+   "CI": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.939584312369226,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9415803316439649,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 10.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9433115249848036,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 32
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9409730212548167,
+     "n_cfg": 4
+    }
+   },
+   "PS": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9567867636897154,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 32
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.964207084781554,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 0.001
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9658892671819421,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9645160062801363,
+     "n_cfg": 4
+    }
+   }
+  },
+  "base|기준": {
+   "CF": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9421763720362406,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 32
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9654659203243031,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 0.001
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9658169273279886,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9611985761140476,
+     "n_cfg": 4
+    }
+   },
+   "CG": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9421763720362406,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 32
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9654659203243031,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 0.001
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9658169273279886,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9611985761140476,
+     "n_cfg": 4
+    }
+   },
+   "CI": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9421763720362406,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 32
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9654659203243031,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 0.001
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9658169273279886,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9611985761140476,
+     "n_cfg": 4
+    }
+   },
+   "PS": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9395222886076309,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 32
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9710036889654812,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 1.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9721254637267653,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9687707730317731,
+     "n_cfg": 4
+    }
+   }
+  }
+ },
+ "d2": {
+  "C|0.7": {
+   "CF": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.3812291486864985,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.8492204983269845,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 100.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9435943957610589,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 32
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.8558176105995108,
+     "n_cfg": 4
+    }
+   },
+   "CG": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.38067059546965965,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.824449663564851,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 100.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9241635009990515,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 32
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.8261693115747475,
+     "n_cfg": 4
+    }
+   },
+   "CI": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.3795006529887393,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.8593191333966376,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 100.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9528123726079409,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 32
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.8599486580142542,
+     "n_cfg": 4
+    }
+   },
+   "PS": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.3734223049005399,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.7085883636503313,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 100.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9457519287097006,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 32
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.8586147090154697,
+     "n_cfg": 4
+    }
+   }
+  },
+  "base|기준": {
+   "CF": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.41620046449173276,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9048715412593892,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 100.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.956400312231035,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 32
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.8646799196198264,
+     "n_cfg": 4
+    }
+   },
+   "CG": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.414585913759517,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9051962111728474,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 100.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9563687650409093,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 32
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.8657107797548176,
+     "n_cfg": 4
+    }
+   },
+   "CI": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.4153012054444014,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9073730694159431,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 100.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9564617710074526,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 32
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.8650754953748467,
+     "n_cfg": 4
+    }
+   },
+   "PS": {
+    "CAE2D": {
+     "cfg": {
+      "channels": 8
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.3438832505138402,
+     "n_cfg": 4
+    },
+    "GDN": {
+     "cfg": {
+      "embed": 16
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.7885247923081631,
+     "n_cfg": 4
+    },
+    "OLS": {
+     "cfg": {
+      "alpha": 100.0
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.9562921095399763,
+     "n_cfg": 8
+    },
+    "TRANAD": {
+     "cfg": {
+      "d_model": 32
+     },
+     "variant": "nc",
+     "val_auc_pr": 0.8667291860809251,
+     "n_cfg": 4
+    }
+   }
+  }
+ }
+}

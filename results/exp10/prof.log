@@ -1,0 +1,10 @@
+loaded (1320, 40, 12)
+connected 0.0s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+build PS 0.5s
+inject 0.0s
+transform+score 0.0s
+anchor_scores 0.0s
+evaluate_light 0.0s {'auc_pr': 0.078, 'hitrate': 0.347, 'cell_f1': 0.021, 'smearing': 0.928, 'pos_rate': 0.022, 'n_eval': 45800}
+win_auc 0.0s

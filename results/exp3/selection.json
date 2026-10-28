@@ -1,0 +1,503 @@
+{
+ "metric": "val AUC-PR",
+ "tie_chain": "tolerance",
+ "tol_rule": "max(B0 의 주입 시드 간 표준편차, 0.01)",
+ "axes_source": {
+  "V": {
+   "dataset": "d2",
+   "scen": "^SC\\dm$"
+  },
+  "S": {
+   "dataset": "d1",
+   "scen": null
+  },
+  "O": {
+   "dataset": "d1",
+   "scen": null
+  },
+  "T": {
+   "dataset": "d1",
+   "scen": null
+  }
+ },
+ "by_rule": {
+  "tolerance_chain": {
+   "axes": {
+    "V": {
+     "best": "V5",
+     "best_id": "E04",
+     "second": "V1",
+     "second_id": "E01",
+     "tied": [
+      "V5"
+     ],
+     "candidates": [
+      {
+       "option": "V5",
+       "id": "E04",
+       "auc": 0.9208,
+       "hit": 0.9826,
+       "smear": 0.0814,
+       "simple": 1
+      },
+      {
+       "option": "V1",
+       "id": "E01",
+       "auc": 0.9145,
+       "hit": 0.9678,
+       "smear": 0.0533,
+       "simple": 0
+      },
+      {
+       "option": "V4",
+       "id": "E03",
+       "auc": 0.9039,
+       "hit": 0.9801,
+       "smear": 0.1165,
+       "simple": 4
+      },
+      {
+       "option": "V3",
+       "id": "B0",
+       "auc": 0.9009,
+       "hit": 0.9794,
+       "smear": 0.1131,
+       "simple": 3
+      },
+      {
+       "option": "V2",
+       "id": "E02",
+       "auc": 0.8407,
+       "hit": 0.957,
+       "smear": 0.0914,
+       "simple": 2
+      }
+     ],
+     "tolerances": {
+      "auc": 0.017083680421845385,
+      "hitrate": 0.01,
+      "smearing": 0.01
+     },
+     "source": {
+      "dataset": "d2",
+      "scen": "^SC\\dm$"
+     }
+    },
+    "S": {
+     "best": "S1",
+     "best_id": "B0",
+     "second": "S2",
+     "second_id": "E06",
+     "tied": [
+      "S1",
+      "S2",
+      "S3",
+      "S4"
+     ],
+     "candidates": [
+      {
+       "option": "S2",
+       "id": "E06",
+       "auc": 0.9192,
+       "hit": 0.9724,
+       "smear": 0.1174,
+       "simple": 1
+      },
+      {
+       "option": "S1",
+       "id": "B0",
+       "auc": 0.9192,
+       "hit": 0.973,
+       "smear": 0.1171,
+       "simple": 0
+      },
+      {
+       "option": "S3",
+       "id": "E07",
+       "auc": 0.919,
+       "hit": 0.9722,
+       "smear": 0.1155,
+       "simple": 2
+      },
+      {
+       "option": "S4",
+       "id": "E08",
+       "auc": 0.9187,
+       "hit": 0.9716,
+       "smear": 0.1172,
+       "simple": 3
+      }
+     ],
+     "tolerances": {
+      "auc": 0.016488462073068744,
+      "hitrate": 0.01,
+      "smearing": 0.011708055532638645
+     },
+     "source": {
+      "dataset": "d1",
+      "scen": null
+     }
+    },
+    "O": {
+     "best": "O1",
+     "best_id": "E09",
+     "second": "O2",
+     "second_id": "B0",
+     "tied": [
+      "O1",
+      "O2",
+      "O4"
+     ],
+     "candidates": [
+      {
+       "option": "O2",
+       "id": "B0",
+       "auc": 0.9192,
+       "hit": 0.973,
+       "smear": 0.1171,
+       "simple": 1
+      },
+      {
+       "option": "O4",
+       "id": "E11",
+       "auc": 0.9189,
+       "hit": 0.9717,
+       "smear": 0.1156,
+       "simple": 2
+      },
+      {
+       "option": "O1",
+       "id": "E09",
+       "auc": 0.9186,
+       "hit": 0.9714,
+       "smear": 0.1149,
+       "simple": 0
+      }
+     ],
+     "tolerances": {
+      "auc": 0.016488462073068744,
+      "hitrate": 0.01,
+      "smearing": 0.011708055532638645
+     },
+     "source": {
+      "dataset": "d1",
+      "scen": null
+     }
+    },
+    "T": {
+     "best": "T4",
+     "best_id": "E14",
+     "second": "T2",
+     "second_id": "B0",
+     "tied": [
+      "T4",
+      "T2",
+      "T1",
+      "T3"
+     ],
+     "candidates": [
+      {
+       "option": "T2",
+       "id": "B0",
+       "auc": 0.9192,
+       "hit": 0.973,
+       "smear": 0.1171,
+       "simple": 1
+      },
+      {
+       "option": "T4",
+       "id": "E14",
+       "auc": 0.9187,
+       "hit": 0.9718,
+       "smear": 0.1166,
+       "simple": 0
+      },
+      {
+       "option": "T3",
+       "id": "E13",
+       "auc": 0.9183,
+       "hit": 0.9706,
+       "smear": 0.1146,
+       "simple": 3
+      },
+      {
+       "option": "T1",
+       "id": "E12",
+       "auc": 0.9178,
+       "hit": 0.9704,
+       "smear": 0.1148,
+       "simple": 2
+      }
+     ],
+     "tolerances": {
+      "auc": 0.016488462073068744,
+      "hitrate": 0.01,
+      "smearing": 0.011708055532638645
+     },
+     "source": {
+      "dataset": "d1",
+      "scen": null
+     }
+    }
+   },
+   "F01": {
+    "V": "V5",
+    "S": "S1",
+    "O": "O1",
+    "T": "T4"
+   },
+   "F02": {
+    "V": "V1",
+    "S": "S2",
+    "O": "O2",
+    "T": "T2"
+   }
+  },
+  "strict": {
+   "axes": {
+    "V": {
+     "best": "V5",
+     "best_id": "E04",
+     "second": "V1",
+     "second_id": "E01",
+     "tied": [
+      "V5",
+      "V4",
+      "V1"
+     ],
+     "candidates": [
+      {
+       "option": "V5",
+       "id": "E04",
+       "auc": 0.9208,
+       "hit": 0.9826,
+       "smear": 0.0814,
+       "simple": 1
+      },
+      {
+       "option": "V1",
+       "id": "E01",
+       "auc": 0.9145,
+       "hit": 0.9678,
+       "smear": 0.0533,
+       "simple": 0
+      },
+      {
+       "option": "V4",
+       "id": "E03",
+       "auc": 0.9039,
+       "hit": 0.9801,
+       "smear": 0.1165,
+       "simple": 4
+      },
+      {
+       "option": "V3",
+       "id": "B0",
+       "auc": 0.9009,
+       "hit": 0.9794,
+       "smear": 0.1131,
+       "simple": 3
+      },
+      {
+       "option": "V2",
+       "id": "E02",
+       "auc": 0.8407,
+       "hit": 0.957,
+       "smear": 0.0914,
+       "simple": 2
+      }
+     ],
+     "tolerances": {
+      "auc": 0.017083680421845385,
+      "hitrate": 0.01,
+      "smearing": 0.01
+     },
+     "source": {
+      "dataset": "d2",
+      "scen": "^SC\\dm$"
+     }
+    },
+    "S": {
+     "best": "S1",
+     "best_id": "B0",
+     "second": "S2",
+     "second_id": "E06",
+     "tied": [
+      "S1",
+      "S2",
+      "S3",
+      "S4"
+     ],
+     "candidates": [
+      {
+       "option": "S2",
+       "id": "E06",
+       "auc": 0.9192,
+       "hit": 0.9724,
+       "smear": 0.1174,
+       "simple": 1
+      },
+      {
+       "option": "S1",
+       "id": "B0",
+       "auc": 0.9192,
+       "hit": 0.973,
+       "smear": 0.1171,
+       "simple": 0
+      },
+      {
+       "option": "S3",
+       "id": "E07",
+       "auc": 0.919,
+       "hit": 0.9722,
+       "smear": 0.1155,
+       "simple": 2
+      },
+      {
+       "option": "S4",
+       "id": "E08",
+       "auc": 0.9187,
+       "hit": 0.9716,
+       "smear": 0.1172,
+       "simple": 3
+      }
+     ],
+     "tolerances": {
+      "auc": 0.016488462073068744,
+      "hitrate": 0.01,
+      "smearing": 0.011708055532638645
+     },
+     "source": {
+      "dataset": "d1",
+      "scen": null
+     }
+    },
+    "O": {
+     "best": "O2",
+     "best_id": "B0",
+     "second": "O4",
+     "second_id": "E11",
+     "tied": [
+      "O2",
+      "O4",
+      "O1"
+     ],
+     "candidates": [
+      {
+       "option": "O2",
+       "id": "B0",
+       "auc": 0.9192,
+       "hit": 0.973,
+       "smear": 0.1171,
+       "simple": 1
+      },
+      {
+       "option": "O4",
+       "id": "E11",
+       "auc": 0.9189,
+       "hit": 0.9717,
+       "smear": 0.1156,
+       "simple": 2
+      },
+      {
+       "option": "O1",
+       "id": "E09",
+       "auc": 0.9186,
+       "hit": 0.9714,
+       "smear": 0.1149,
+       "simple": 0
+      }
+     ],
+     "tolerances": {
+      "auc": 0.016488462073068744,
+      "hitrate": 0.01,
+      "smearing": 0.011708055532638645
+     },
+     "source": {
+      "dataset": "d1",
+      "scen": null
+     }
+    },
+    "T": {
+     "best": "T2",
+     "best_id": "B0",
+     "second": "T4",
+     "second_id": "E14",
+     "tied": [
+      "T2",
+      "T4",
+      "T3",
+      "T1"
+     ],
+     "candidates": [
+      {
+       "option": "T2",
+       "id": "B0",
+       "auc": 0.9192,
+       "hit": 0.973,
+       "smear": 0.1171,
+       "simple": 1
+      },
+      {
+       "option": "T4",
+       "id": "E14",
+       "auc": 0.9187,
+       "hit": 0.9718,
+       "smear": 0.1166,
+       "simple": 0
+      },
+      {
+       "option": "T3",
+       "id": "E13",
+       "auc": 0.9183,
+       "hit": 0.9706,
+       "smear": 0.1146,
+       "simple": 3
+      },
+      {
+       "option": "T1",
+       "id": "E12",
+       "auc": 0.9178,
+       "hit": 0.9704,
+       "smear": 0.1148,
+       "simple": 2
+      }
+     ],
+     "tolerances": {
+      "auc": 0.016488462073068744,
+      "hitrate": 0.01,
+      "smearing": 0.011708055532638645
+     },
+     "source": {
+      "dataset": "d1",
+      "scen": null
+     }
+    }
+   },
+   "F01": {
+    "V": "V5",
+    "S": "S1",
+    "O": "O2",
+    "T": "T2"
+   },
+   "F02": {
+    "V": "V1",
+    "S": "S2",
+    "O": "O4",
+    "T": "T4"
+   }
+  }
+ },
+ "F01": {
+  "V": "V5",
+  "S": "S1",
+  "O": "O1",
+  "T": "T4"
+ },
+ "F02": {
+  "V": "V1",
+  "S": "S2",
+  "O": "O2",
+  "T": "T2"
+ }
+}

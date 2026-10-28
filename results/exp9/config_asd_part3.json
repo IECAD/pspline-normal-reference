@@ -1,0 +1,9 @@
+{
+ "plan": "doc/실험9_계획.md",
+ "configs": {
+  "USADFIX2": {
+   "latent": 16
+  }
+ },
+ "banks": null
+}

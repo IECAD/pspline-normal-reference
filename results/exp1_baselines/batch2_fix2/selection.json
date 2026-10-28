@@ -1,0 +1,21 @@
+{
+ "rule": "doc/실험1_비교모델_계획.md 1–2절 (2차 수정 추가: USADFIX2)",
+ "selection": {
+  "USADFIX2": {
+   "d1": {
+    "variant": "nc",
+    "cfg": {
+     "latent": 16
+    },
+    "val_auc_pr": 0.8682762313515563
+   },
+   "d2": {
+    "variant": "nc",
+    "cfg": {
+     "latent": 16
+    },
+    "val_auc_pr": 0.6321376231418853
+   }
+  }
+ }
+}

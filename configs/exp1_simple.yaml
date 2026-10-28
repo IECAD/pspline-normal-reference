@@ -1,0 +1,14 @@
+# 단순 기준선 사다리 (doc/결정기록_실험3이후.md 2절, 사전 등록 2026-10-10)
+# 평가 설정(데이터, 시나리오, 주입 시드, 임계 백분위)은 configs/exp3.yaml 을 그대로 쓴다 -> 주입 데이터가 실험 3 과 같다
+base: F01                # 합성 코드 (configs/exp3.yaml ids): V5 (D1 V1), S1, O1, T4
+splits: [val]            # 테스트는 실험 4 로 최종 모델을 정한 뒤 실험 1 에서 한 번만
+variants:                # node: node = 노드별 Bank, global = 공간(환경)당 노드 1개
+  Z0:   {node: global, time_basis: const,   stats: val}     # 전역 평균
+  Z0s:  {node: global, time_basis: pspline, stats: val}     # 전역 P-spline
+  Z1:   {node: node,   time_basis: const,   stats: val}     # 노드×행 평균
+  Z1t:  {node: node,   time_basis: const,   stats: train}   # 노드×행 평균 + 고전 z-score 표준화
+  Z2:   {node: node,   time_basis: cell,    stats: val}     # 노드×행×시간 평균 (λ_t = 0)
+  ZF01: {node: node,   time_basis: pspline, stats: val}     # F01 재현 확인
+compare_to: F01          # results/F01/base 의 실험 3 결과와 짝지어 비교
+tolerance: {d1: 0.0165, d2: 0.0171}   # 실험 3 AUC 허용오차 (results/exp3/selection.json)
+primary_baseline: {d1: Z1, d2: Z2}

@@ -1,0 +1,12 @@
+D4b = ASD (Application Server Dataset), from the InterFusion (KDD 2021) repository
+source repo : https://github.com/zhhlee/InterFusion
+ref         : commit 8c85d511c1f070669ba8c5cf097b8fa4a202d15b (main HEAD as of 2026-10-08; commit date 2021-09-02)
+archive     : https://codeload.github.com/zhhlee/InterFusion/zip/8c85d511c1f070669ba8c5cf097b8fa4a202d15b
+archive sha256 : 45be5fe0d67767b9d32c7d8bb19ca33d0d32de5733a715cd2e81a6fb79f3ccee (45,358,486 bytes; archive itself not kept)
+extracted   : data/** -> this directory (processed/*.pkl, interpretation_label/*.txt, "Dataset Description.pdf")
+              processed/ also contains machine-*.pkl = 12-machine SMD subset used in the InterFusion paper (not ASD)
+              repo-root LICENSE -> _repo_LICENSE, repo-root README.md -> _repo_README.md (provenance only)
+license     : MIT (repo LICENSE "Copyright (c) 2021 zhhlee"); no separate data license file in data/
+format note : processed/*.pkl are Python pickles (protocol 3) of numpy ndarrays. Do NOT pickle.load them;
+              analysis/21_d4_structure.py decodes them with a static whitelisted opcode parser (no unpickling).
+downloaded  : 2026-10-08. No code from the repo was extracted or executed.

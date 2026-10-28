@@ -1,0 +1,54 @@
+  d1 classroom USADFIX2 raw {'latent': 8}: 6.8s
+  d1 classroom USADFIX2 nc {'latent': 8}: 4.2s
+  d1 classroom USADFIX2 raw {'latent': 16}: 3.7s
+  d1 classroom USADFIX2 nc {'latent': 16}: 3.7s
+  d1 lab USADFIX2 raw {'latent': 8}: 3.4s
+  d1 lab USADFIX2 nc {'latent': 8}: 3.4s
+  d1 lab USADFIX2 raw {'latent': 16}: 3.5s
+  d1 lab USADFIX2 nc {'latent': 16}: 3.3s
+  d1 hallway USADFIX2 raw {'latent': 8}: 4.5s
+  d1 hallway USADFIX2 nc {'latent': 8}: 4.9s
+  d1 hallway USADFIX2 raw {'latent': 16}: 4.7s
+  d1 hallway USADFIX2 nc {'latent': 16}: 4.6s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 USADFIX2 raw {'latent': 8}: 5.0s
+  d2 env0 USADFIX2 nc {'latent': 8}: 4.8s
+  d2 env0 USADFIX2 raw {'latent': 16}: 4.7s
+  d2 env0 USADFIX2 nc {'latent': 16}: 5.2s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 USADFIX2 raw {'latent': 8}: 3.9s
+  d2 env1 USADFIX2 nc {'latent': 8}: 4.1s
+  d2 env1 USADFIX2 raw {'latent': 16}: 4.4s
+  d2 env1 USADFIX2 nc {'latent': 16}: 4.0s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 USADFIX2 raw {'latent': 8}: 5.0s
+  d2 env2 USADFIX2 nc {'latent': 8}: 5.2s
+  d2 env2 USADFIX2 raw {'latent': 16}: 4.7s
+  d2 env2 USADFIX2 nc {'latent': 16}: 5.2s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 USADFIX2 raw {'latent': 8}: 4.2s
+  d2 env3 USADFIX2 nc {'latent': 8}: 4.0s
+  d2 env3 USADFIX2 raw {'latent': 16}: 4.2s
+  d2 env3 USADFIX2 nc {'latent': 16}: 3.9s
+{
+ "USADFIX2": {
+  "d1": {
+   "variant": "nc",
+   "cfg": {
+    "latent": 16
+   },
+   "val_auc_pr": 0.8682762313515563
+  },
+  "d2": {
+   "variant": "nc",
+   "cfg": {
+    "latent": 16
+   },
+   "val_auc_pr": 0.6321376231418853
+  }
+ }
+}

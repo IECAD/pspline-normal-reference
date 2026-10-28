@@ -1,0 +1,326 @@
+  d1 classroom LAPRPCA raw {'c': 0.5, 'gamma': 0.1}: 0.2s
+  d1 classroom LAPRPCA nc {'c': 0.5, 'gamma': 0.1}: 0.2s
+  d1 classroom LAPRPCA raw {'c': 0.5, 'gamma': 1.0}: 0.2s
+  d1 classroom LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 0.2s
+  d1 classroom LAPRPCA raw {'c': 1.0, 'gamma': 0.1}: 0.2s
+  d1 classroom LAPRPCA nc {'c': 1.0, 'gamma': 0.1}: 0.2s
+  d1 classroom LAPRPCA raw {'c': 1.0, 'gamma': 1.0}: 0.2s
+  d1 classroom LAPRPCA nc {'c': 1.0, 'gamma': 1.0}: 0.2s
+  d1 classroom RRR raw {'rank': 1}: 0.2s
+  d1 classroom RRR nc {'rank': 1}: 0.2s
+  d1 classroom RRR raw {'rank': 2}: 0.2s
+  d1 classroom RRR nc {'rank': 2}: 0.2s
+  d1 classroom RRR raw {'rank': 4}: 0.2s
+  d1 classroom RRR nc {'rank': 4}: 0.2s
+  d1 classroom TRANS raw {'d_model': 16}: 5.8s
+  d1 classroom TRANS nc {'d_model': 16}: 3.3s
+  d1 classroom TRANS raw {'d_model': 32}: 3.2s
+  d1 classroom TRANS nc {'d_model': 32}: 3.4s
+  d1 classroom CAE2D raw {'channels': 8}: 1.2s
+  d1 classroom CAE2D nc {'channels': 8}: 1.1s
+  d1 classroom CAE2D raw {'channels': 16}: 1.1s
+  d1 classroom CAE2D nc {'channels': 16}: 1.2s
+  d1 classroom GDN raw {'embed': 16}: 1.7s
+  d1 classroom GDN nc {'embed': 16}: 1.6s
+  d1 classroom GDN raw {'embed': 32}: 1.7s
+  d1 classroom GDN nc {'embed': 32}: 1.7s
+  d1 classroom OMNI raw {'latent': 3}: 178.2s
+  d1 classroom OMNI nc {'latent': 3}: 178.3s
+  d1 classroom OMNI raw {'latent': 8}: 177.7s
+  d1 classroom OMNI nc {'latent': 8}: 193.3s
+  d1 lab LAPRPCA raw {'c': 0.5, 'gamma': 0.1}: 0.2s
+  d1 lab LAPRPCA nc {'c': 0.5, 'gamma': 0.1}: 0.2s
+  d1 lab LAPRPCA raw {'c': 0.5, 'gamma': 1.0}: 0.2s
+  d1 lab LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 0.2s
+  d1 lab LAPRPCA raw {'c': 1.0, 'gamma': 0.1}: 0.2s
+  d1 lab LAPRPCA nc {'c': 1.0, 'gamma': 0.1}: 0.2s
+  d1 lab LAPRPCA raw {'c': 1.0, 'gamma': 1.0}: 0.2s
+  d1 lab LAPRPCA nc {'c': 1.0, 'gamma': 1.0}: 0.2s
+  d1 lab RRR raw {'rank': 1}: 0.2s
+  d1 lab RRR nc {'rank': 1}: 0.2s
+  d1 lab RRR raw {'rank': 2}: 0.2s
+  d1 lab RRR nc {'rank': 2}: 0.2s
+  d1 lab RRR raw {'rank': 4}: 0.2s
+  d1 lab RRR nc {'rank': 4}: 0.2s
+  d1 lab TRANS raw {'d_model': 16}: 3.6s
+  d1 lab TRANS nc {'d_model': 16}: 3.6s
+  d1 lab TRANS raw {'d_model': 32}: 3.5s
+  d1 lab TRANS nc {'d_model': 32}: 3.3s
+  d1 lab CAE2D raw {'channels': 8}: 1.0s
+  d1 lab CAE2D nc {'channels': 8}: 1.0s
+  d1 lab CAE2D raw {'channels': 16}: 1.0s
+  d1 lab CAE2D nc {'channels': 16}: 1.1s
+  d1 lab GDN raw {'embed': 16}: 1.6s
+  d1 lab GDN nc {'embed': 16}: 1.6s
+  d1 lab GDN raw {'embed': 32}: 1.6s
+  d1 lab GDN nc {'embed': 32}: 1.6s
+  d1 lab OMNI raw {'latent': 3}: 174.7s
+  d1 lab OMNI nc {'latent': 3}: 181.7s
+  d1 lab OMNI raw {'latent': 8}: 181.7s
+  d1 lab OMNI nc {'latent': 8}: 180.4s
+  d1 hallway LAPRPCA raw {'c': 0.5, 'gamma': 0.1}: 0.3s
+  d1 hallway LAPRPCA nc {'c': 0.5, 'gamma': 0.1}: 0.3s
+  d1 hallway LAPRPCA raw {'c': 0.5, 'gamma': 1.0}: 0.3s
+  d1 hallway LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 0.3s
+  d1 hallway LAPRPCA raw {'c': 1.0, 'gamma': 0.1}: 0.3s
+  d1 hallway LAPRPCA nc {'c': 1.0, 'gamma': 0.1}: 0.3s
+  d1 hallway LAPRPCA raw {'c': 1.0, 'gamma': 1.0}: 0.3s
+  d1 hallway LAPRPCA nc {'c': 1.0, 'gamma': 1.0}: 0.3s
+  d1 hallway RRR raw {'rank': 1}: 0.3s
+  d1 hallway RRR nc {'rank': 1}: 0.3s
+  d1 hallway RRR raw {'rank': 2}: 0.3s
+  d1 hallway RRR nc {'rank': 2}: 0.3s
+  d1 hallway RRR raw {'rank': 4}: 0.3s
+  d1 hallway RRR nc {'rank': 4}: 0.3s
+  d1 hallway TRANS raw {'d_model': 16}: 4.0s
+  d1 hallway TRANS nc {'d_model': 16}: 4.0s
+  d1 hallway TRANS raw {'d_model': 32}: 4.3s
+  d1 hallway TRANS nc {'d_model': 32}: 4.4s
+  d1 hallway CAE2D raw {'channels': 8}: 1.4s
+  d1 hallway CAE2D nc {'channels': 8}: 1.4s
+  d1 hallway CAE2D raw {'channels': 16}: 1.4s
+  d1 hallway CAE2D nc {'channels': 16}: 1.4s
+  d1 hallway GDN raw {'embed': 16}: 2.2s
+  d1 hallway GDN nc {'embed': 16}: 2.1s
+  d1 hallway GDN raw {'embed': 32}: 2.1s
+  d1 hallway GDN nc {'embed': 32}: 2.1s
+  d1 hallway OMNI raw {'latent': 3}: 236.5s
+  d1 hallway OMNI nc {'latent': 3}: 236.2s
+  d1 hallway OMNI raw {'latent': 8}: 251.8s
+  d1 hallway OMNI nc {'latent': 8}: 232.3s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 LAPRPCA raw {'c': 0.5, 'gamma': 0.1}: 1.5s
+  d2 env0 LAPRPCA nc {'c': 0.5, 'gamma': 0.1}: 1.5s
+  d2 env0 LAPRPCA raw {'c': 0.5, 'gamma': 1.0}: 1.5s
+  d2 env0 LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 1.5s
+  d2 env0 LAPRPCA raw {'c': 1.0, 'gamma': 0.1}: 1.5s
+  d2 env0 LAPRPCA nc {'c': 1.0, 'gamma': 0.1}: 1.5s
+  d2 env0 LAPRPCA raw {'c': 1.0, 'gamma': 1.0}: 1.5s
+  d2 env0 LAPRPCA nc {'c': 1.0, 'gamma': 1.0}: 1.5s
+  d2 env0 RRR raw {'rank': 1}: 1.5s
+  d2 env0 RRR nc {'rank': 1}: 1.5s
+  d2 env0 RRR raw {'rank': 2}: 1.6s
+  d2 env0 RRR nc {'rank': 2}: 1.7s
+  d2 env0 RRR raw {'rank': 4}: 1.6s
+  d2 env0 RRR nc {'rank': 4}: 1.7s
+  d2 env0 RRR raw {'rank': 8}: 1.7s
+  d2 env0 RRR nc {'rank': 8}: 1.8s
+  d2 env0 TRANS raw {'d_model': 16}: 5.2s
+  d2 env0 TRANS nc {'d_model': 16}: 4.6s
+  d2 env0 TRANS raw {'d_model': 32}: 4.7s
+  d2 env0 TRANS nc {'d_model': 32}: 5.0s
+  d2 env0 CAE2D raw {'channels': 8}: 2.6s
+  d2 env0 CAE2D nc {'channels': 8}: 2.4s
+  d2 env0 CAE2D raw {'channels': 16}: 2.5s
+  d2 env0 CAE2D nc {'channels': 16}: 2.5s
+  d2 env0 GDN raw {'embed': 16}: 3.3s
+  d2 env0 GDN nc {'embed': 16}: 3.3s
+  d2 env0 GDN raw {'embed': 32}: 3.1s
+  d2 env0 GDN nc {'embed': 32}: 3.0s
+  d2 env0 OMNI raw {'latent': 3}: 190.9s
+  d2 env0 OMNI nc {'latent': 3}: 204.8s
+  d2 env0 OMNI raw {'latent': 8}: 224.1s
+  d2 env0 OMNI nc {'latent': 8}: 222.6s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 LAPRPCA raw {'c': 0.5, 'gamma': 0.1}: 1.8s
+  d2 env1 LAPRPCA nc {'c': 0.5, 'gamma': 0.1}: 1.8s
+  d2 env1 LAPRPCA raw {'c': 0.5, 'gamma': 1.0}: 2.0s
+  d2 env1 LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 1.8s
+  d2 env1 LAPRPCA raw {'c': 1.0, 'gamma': 0.1}: 1.5s
+  d2 env1 LAPRPCA nc {'c': 1.0, 'gamma': 0.1}: 1.7s
+  d2 env1 LAPRPCA raw {'c': 1.0, 'gamma': 1.0}: 1.7s
+  d2 env1 LAPRPCA nc {'c': 1.0, 'gamma': 1.0}: 1.5s
+  d2 env1 RRR raw {'rank': 1}: 1.6s
+  d2 env1 RRR nc {'rank': 1}: 1.6s
+  d2 env1 RRR raw {'rank': 2}: 1.9s
+  d2 env1 RRR nc {'rank': 2}: 1.5s
+  d2 env1 RRR raw {'rank': 4}: 1.6s
+  d2 env1 RRR nc {'rank': 4}: 1.7s
+  d2 env1 RRR raw {'rank': 8}: 1.6s
+  d2 env1 RRR nc {'rank': 8}: 1.7s
+  d2 env1 TRANS raw {'d_model': 16}: 4.1s
+  d2 env1 TRANS nc {'d_model': 16}: 4.0s
+  d2 env1 TRANS raw {'d_model': 32}: 4.2s
+  d2 env1 TRANS nc {'d_model': 32}: 4.2s
+  d2 env1 CAE2D raw {'channels': 8}: 2.4s
+  d2 env1 CAE2D nc {'channels': 8}: 2.4s
+  d2 env1 CAE2D raw {'channels': 16}: 2.1s
+  d2 env1 CAE2D nc {'channels': 16}: 2.2s
+  d2 env1 GDN raw {'embed': 16}: 2.7s
+  d2 env1 GDN nc {'embed': 16}: 2.9s
+  d2 env1 GDN raw {'embed': 32}: 2.8s
+  d2 env1 GDN nc {'embed': 32}: 2.7s
+  d2 env1 OMNI raw {'latent': 3}: 160.1s
+  d2 env1 OMNI nc {'latent': 3}: 146.8s
+  d2 env1 OMNI raw {'latent': 8}: 138.6s
+  d2 env1 OMNI nc {'latent': 8}: 142.3s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 LAPRPCA raw {'c': 0.5, 'gamma': 0.1}: 2.1s
+  d2 env2 LAPRPCA nc {'c': 0.5, 'gamma': 0.1}: 2.0s
+  d2 env2 LAPRPCA raw {'c': 0.5, 'gamma': 1.0}: 1.8s
+  d2 env2 LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 1.8s
+  d2 env2 LAPRPCA raw {'c': 1.0, 'gamma': 0.1}: 1.8s
+  d2 env2 LAPRPCA nc {'c': 1.0, 'gamma': 0.1}: 1.9s
+  d2 env2 LAPRPCA raw {'c': 1.0, 'gamma': 1.0}: 1.7s
+  d2 env2 LAPRPCA nc {'c': 1.0, 'gamma': 1.0}: 1.6s
+  d2 env2 RRR raw {'rank': 1}: 1.6s
+  d2 env2 RRR nc {'rank': 1}: 1.7s
+  d2 env2 RRR raw {'rank': 2}: 1.6s
+  d2 env2 RRR nc {'rank': 2}: 1.7s
+  d2 env2 RRR raw {'rank': 4}: 1.6s
+  d2 env2 RRR nc {'rank': 4}: 1.5s
+  d2 env2 RRR raw {'rank': 8}: 1.7s
+  d2 env2 RRR nc {'rank': 8}: 1.7s
+  d2 env2 TRANS raw {'d_model': 16}: 5.3s
+  d2 env2 TRANS nc {'d_model': 16}: 4.9s
+  d2 env2 TRANS raw {'d_model': 32}: 5.0s
+  d2 env2 TRANS nc {'d_model': 32}: 5.1s
+  d2 env2 CAE2D raw {'channels': 8}: 2.9s
+  d2 env2 CAE2D nc {'channels': 8}: 2.6s
+  d2 env2 CAE2D raw {'channels': 16}: 2.7s
+  d2 env2 CAE2D nc {'channels': 16}: 2.7s
+  d2 env2 GDN raw {'embed': 16}: 3.7s
+  d2 env2 GDN nc {'embed': 16}: 3.3s
+  d2 env2 GDN raw {'embed': 32}: 3.5s
+  d2 env2 GDN nc {'embed': 32}: 3.8s
+  d2 env2 OMNI raw {'latent': 3}: 253.8s
+  d2 env2 OMNI nc {'latent': 3}: 287.5s
+  d2 env2 OMNI raw {'latent': 8}: 262.5s
+  d2 env2 OMNI nc {'latent': 8}: 238.1s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 LAPRPCA raw {'c': 0.5, 'gamma': 0.1}: 1.8s
+  d2 env3 LAPRPCA nc {'c': 0.5, 'gamma': 0.1}: 1.6s
+  d2 env3 LAPRPCA raw {'c': 0.5, 'gamma': 1.0}: 1.5s
+  d2 env3 LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 1.5s
+  d2 env3 LAPRPCA raw {'c': 1.0, 'gamma': 0.1}: 1.6s
+  d2 env3 LAPRPCA nc {'c': 1.0, 'gamma': 0.1}: 1.6s
+  d2 env3 LAPRPCA raw {'c': 1.0, 'gamma': 1.0}: 1.5s
+  d2 env3 LAPRPCA nc {'c': 1.0, 'gamma': 1.0}: 1.5s
+  d2 env3 RRR raw {'rank': 1}: 1.5s
+  d2 env3 RRR nc {'rank': 1}: 1.4s
+  d2 env3 RRR raw {'rank': 2}: 1.6s
+  d2 env3 RRR nc {'rank': 2}: 1.7s
+  d2 env3 RRR raw {'rank': 4}: 1.7s
+  d2 env3 RRR nc {'rank': 4}: 1.5s
+  d2 env3 RRR raw {'rank': 8}: 1.4s
+  d2 env3 RRR nc {'rank': 8}: 1.5s
+  d2 env3 TRANS raw {'d_model': 16}: 4.2s
+  d2 env3 TRANS nc {'d_model': 16}: 3.8s
+  d2 env3 TRANS raw {'d_model': 32}: 4.0s
+  d2 env3 TRANS nc {'d_model': 32}: 3.8s
+  d2 env3 CAE2D raw {'channels': 8}: 2.3s
+  d2 env3 CAE2D nc {'channels': 8}: 2.2s
+  d2 env3 CAE2D raw {'channels': 16}: 2.3s
+  d2 env3 CAE2D nc {'channels': 16}: 2.3s
+  d2 env3 GDN raw {'embed': 16}: 3.1s
+  d2 env3 GDN nc {'embed': 16}: 2.6s
+  d2 env3 GDN raw {'embed': 32}: 2.8s
+  d2 env3 GDN nc {'embed': 32}: 2.9s
+  d2 env3 OMNI raw {'latent': 3}: 145.7s
+  d2 env3 OMNI nc {'latent': 3}: 138.6s
+  d2 env3 OMNI raw {'latent': 8}: 156.9s
+  d2 env3 OMNI nc {'latent': 8}: 159.3s
+{
+ "CAE2D": {
+  "d1": {
+   "variant": "nc",
+   "cfg": {
+    "channels": 8
+   },
+   "val_auc_pr": 0.9421763720362406
+  },
+  "d2": {
+   "variant": "nc",
+   "cfg": {
+    "channels": 8
+   },
+   "val_auc_pr": 0.5852641238834664
+  }
+ },
+ "GDN": {
+  "d1": {
+   "variant": "nc",
+   "cfg": {
+    "embed": 16
+   },
+   "val_auc_pr": 0.9644338231269148
+  },
+  "d2": {
+   "variant": "nc",
+   "cfg": {
+    "embed": 16
+   },
+   "val_auc_pr": 0.9050818589054178
+  }
+ },
+ "LAPRPCA": {
+  "d1": {
+   "variant": "nc",
+   "cfg": {
+    "c": 1.0,
+    "gamma": 1.0
+   },
+   "val_auc_pr": 0.9083725537889663
+  },
+  "d2": {
+   "variant": "nc",
+   "cfg": {
+    "c": 1.0,
+    "gamma": 0.1
+   },
+   "val_auc_pr": 0.611000116685839
+  }
+ },
+ "OMNI": {
+  "d1": {
+   "variant": "nc",
+   "cfg": {
+    "latent": 3
+   },
+   "val_auc_pr": 0.9624498383482821
+  },
+  "d2": {
+   "variant": "nc",
+   "cfg": {
+    "latent": 3
+   },
+   "val_auc_pr": 0.8825409097149414
+  }
+ },
+ "RRR": {
+  "d1": {
+   "variant": "nc",
+   "cfg": {
+    "rank": 1
+   },
+   "val_auc_pr": 0.9669993547980773
+  },
+  "d2": {
+   "variant": "nc",
+   "cfg": {
+    "rank": 1
+   },
+   "val_auc_pr": 0.8955123181653645
+  }
+ },
+ "TRANS": {
+  "d1": {
+   "variant": "nc",
+   "cfg": {
+    "d_model": 32
+   },
+   "val_auc_pr": 0.9666264042438538
+  },
+  "d2": {
+   "variant": "nc",
+   "cfg": {
+    "d_model": 32
+   },
+   "val_auc_pr": 0.5890402081830135
+  }
+ }
+}

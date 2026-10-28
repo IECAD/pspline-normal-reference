@@ -1,0 +1,11 @@
+{
+ "platform": "Windows-10-10.0.26100-SP0",
+ "cpu": "AMD Ryzen 7 7800X3D 8-Core",
+ "ram_gb": 63.1,
+ "gpu": "NVIDIA GeForce RTX 4070 Ti",
+ "python": "3.10.11",
+ "torch": "2.10.0+cu126",
+ "numpy": "2.2.6",
+ "blas_threads": 1,
+ "torch_threads": 1
+}

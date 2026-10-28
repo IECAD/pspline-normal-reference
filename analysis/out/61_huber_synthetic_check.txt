@@ -1,0 +1,6 @@
+seed 0: outliers 0.082 | PS rmse 0.0935 (lam 3.05) | PSH rmse 0.0185 (lam 0.337, outer 5, mean weight 0.901)
+seed 1: outliers 0.071 | PS rmse 0.1152 (lam 1.52) | PSH rmse 0.0203 (lam 0.251, outer 5, mean weight 0.906)
+seed 2: outliers 0.079 | PS rmse 0.0770 (lam 3.5) | PSH rmse 0.0252 (lam 0.581, outer 5, mean weight 0.901)
+seed 3: outliers 0.078 | PS rmse 0.0880 (lam 5.01) | PSH rmse 0.0173 (lam 0.544, outer 5, mean weight 0.902)
+seed 4: outliers 0.080 | PS rmse 0.0830 (lam 4.11) | PSH rmse 0.0199 (lam 0.598, outer 5, mean weight 0.901)
+mean over 5 seeds: PS rmse 0.0913, PSH rmse 0.0202, ratio 4.5

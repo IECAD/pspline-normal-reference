@@ -1,0 +1,50 @@
+  d1 classroom TRANAD done
+  d1 classroom GDN done
+  d1 classroom CAE2D done
+  d1 lab TRANAD done
+  d1 lab GDN done
+  d1 lab CAE2D done
+  d1 hallway TRANAD done
+  d1 hallway GDN done
+  d1 hallway CAE2D done
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 TRANAD done
+  d2 env0 GDN done
+  d2 env0 CAE2D done
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 TRANAD done
+  d2 env1 GDN done
+  d2 env1 CAE2D done
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 TRANAD done
+  d2 env2 GDN done
+  d2 env2 CAE2D done
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 TRANAD done
+  d2 env3 GDN done
+  d2 env3 CAE2D done
+# 딥 모델 학습 seed 변동 (분석 R1-3 3절, 서술)
+
+깨끗한 테스트, 원고 표 4 설정. 'SD 학습 seed' = (단위, 시나리오, 주입 seed) 마다 학습 seed 5개 사이 SD 의 평균. 'SD 주입 seed' = 학습 seed 0 에서 (단위, 시나리오) 마다 주입 seed 사이 SD 의 평균.
+
+## d1
+
+| 모델 | 평균 AUC-PR | SD 학습 seed | SD 주입 seed | PS − 모델 (seed 0–4) | 판정 (seed 0–4) |
+|---|---|---|---|---|---|
+| TRANAD | 0.933 | 0.0051 | 0.0242 | +0.006, +0.001, -0.002, +0.004, +0.000 | 대등, 대등, 대등, 대등, 대등 |
+| GDN | 0.938 | 0.0023 | 0.0191 | -0.003, -0.004, -0.000, -0.002, -0.002 | 대등, 대등, 대등, 대등, 대등 |
+| CAE2D | 0.910 | 0.0227 | 0.0207 | +0.016, +0.024, +0.010, +0.046, +0.030 | 대등, 이김, 대등, 이김, 이김 |
+
+## d2
+
+| 모델 | 평균 AUC-PR | SD 학습 seed | SD 주입 seed | PS − 모델 (seed 0–4) | 판정 (seed 0–4) |
+|---|---|---|---|---|---|
+| TRANAD | 0.752 | 0.0732 | 0.0689 | +0.093, +0.196, +0.226, +0.111, +0.134 | 이김, 이김, 이김, 이김, 이김 |
+| GDN | 0.777 | 0.0901 | 0.0617 | +0.062, +0.148, +0.122, +0.126, +0.175 | 이김, 이김, 이김, 이김, 이김 |
+| CAE2D | 0.537 | 0.0675 | 0.0876 | +0.369, +0.366, +0.393, +0.350, +0.354 | 이김, 이김, 이김, 이김, 이김 |
+
+EXIT 0

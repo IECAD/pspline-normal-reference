@@ -1,0 +1,15 @@
+  d1 classroom USADFIX2 nc {'latent': 16}: 6.5s
+  d1 lab USADFIX2 nc {'latent': 16}: 3.9s
+  d1 hallway USADFIX2 nc {'latent': 16}: 4.8s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 USADFIX2 nc {'latent': 16}: 5.5s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 USADFIX2 nc {'latent': 16}: 4.2s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 USADFIX2 nc {'latent': 16}: 5.3s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 USADFIX2 nc {'latent': 16}: 4.2s

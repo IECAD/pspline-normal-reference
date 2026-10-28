@@ -1,0 +1,152 @@
+{
+ "rule": "doc/실험1_비교모델_계획.md 1–2절",
+ "selection": {
+  "CAE1D": {
+   "d1": {
+    "variant": "nc",
+    "cfg": {
+     "channels": 8
+    },
+    "val_auc_pr": 0.9456609137428955
+   },
+   "d2": {
+    "variant": "nc",
+    "cfg": {
+     "channels": 8
+    },
+    "val_auc_pr": 0.7324228584480775
+   }
+  },
+  "IF": {
+   "d1": {
+    "variant": "nc",
+    "cfg": {
+     "max_samples": 1.0,
+     "n_estimators": 300
+    },
+    "val_auc_pr": 0.8722396536919045
+   },
+   "d2": {
+    "variant": "nc",
+    "cfg": {
+     "max_samples": 256,
+     "n_estimators": 100
+    },
+    "val_auc_pr": 0.20888266823104176
+   }
+  },
+  "LSTMAE": {
+   "d1": {
+    "variant": "nc",
+    "cfg": {
+     "hidden": 16
+    },
+    "val_auc_pr": 0.945626031839648
+   },
+   "d2": {
+    "variant": "nc",
+    "cfg": {
+     "hidden": 32
+    },
+    "val_auc_pr": 0.8850563458298085
+   }
+  },
+  "OLS": {
+   "d1": {
+    "variant": "nc",
+    "cfg": {
+     "alpha": 0.001
+    },
+    "val_auc_pr": 0.9658169273279886
+   },
+   "d2": {
+    "variant": "nc",
+    "cfg": {
+     "alpha": 100.0
+    },
+    "val_auc_pr": 0.9424659809468756
+   }
+  },
+  "ORACLE": {
+   "d1": {
+    "variant": "-",
+    "cfg": {},
+    "val_auc_pr": 0.8789913740394163
+   },
+   "d2": {
+    "variant": "-",
+    "cfg": {},
+    "val_auc_pr": 0.7100604887038475
+   }
+  },
+  "PCA": {
+   "d1": {
+    "variant": "nc",
+    "cfg": {
+     "var": 0.8
+    },
+    "val_auc_pr": 0.7255283443688703
+   },
+   "d2": {
+    "variant": "nc",
+    "cfg": {
+     "var": 0.8
+    },
+    "val_auc_pr": 0.9014536963190857
+   }
+  },
+  "RPCA": {
+   "d1": {
+    "variant": "nc",
+    "cfg": {
+     "c": 1.0,
+     "var": 0.9
+    },
+    "val_auc_pr": 0.82657136340138
+   },
+   "d2": {
+    "variant": "nc",
+    "cfg": {
+     "c": 1.0,
+     "var": 0.9
+    },
+    "val_auc_pr": 0.565420495861409
+   }
+  },
+  "TIMEHIST": {
+   "d1": {
+    "variant": "-",
+    "cfg": {},
+    "val_auc_pr": 0.5680691326147324
+   },
+   "d2": {
+    "variant": "-",
+    "cfg": {},
+    "val_auc_pr": 0.11294418542970894
+   }
+  },
+  "USAD": {
+   "d1": {
+    "variant": "nc",
+    "cfg": {
+     "latent": 8
+    },
+    "val_auc_pr": 0.9600099998188797
+   },
+   "d2": {
+    "variant": "raw",
+    "cfg": {
+     "latent": 16
+    },
+    "val_auc_pr": 0.5685516643888153
+   }
+  },
+  "RXFP": {
+   "d2": {
+    "variant": "-",
+    "cfg": {},
+    "val_auc_pr": 0.40553608441629446
+   }
+  }
+ }
+}

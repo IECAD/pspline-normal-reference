@@ -1,0 +1,36 @@
+{
+ "id": "D1CFG",
+ "spec": {
+  "node": "node",
+  "time_basis": "pspline",
+  "stats": "val",
+  "K_t": 8,
+  "diff_order": 2,
+  "lam_mode": "sap",
+  "score_set": [
+   "R"
+  ]
+ },
+ "code": {
+  "V": "V1",
+  "V_d1": "V1",
+  "S": "S1",
+  "O": "O1",
+  "T": "T4"
+ },
+ "dataset": "d2",
+ "splits": [
+  "test"
+ ],
+ "model": {
+  "K_t": 8,
+  "diff_order": 2,
+  "sap": true,
+  "threshold_pct": 97.5,
+  "eps": 1e-06
+ },
+ "exp_config": "configs/exp3.yaml",
+ "data_config": "configs/data.yaml",
+ "elapsed_s": 7.4606946001295,
+ "note": "실험 5-5: D1 검증만으로 정한 구성을 D2에 적용 (doc/실험5_계획.md 5-5)"
+}

@@ -1,0 +1,129 @@
+# Data configuration (release copy). D1 details are withheld; paths are relative to the repository root.
+paths:
+  d1_raw: raw
+  d2_zip: data_ext/D2_bregar/data_set.zip
+  cache: cache
+seeds:
+- 42
+- 43
+- 44
+- 45
+- 46
+window:
+  T: 12
+  stride: 12
+  max_missing: 0
+  ffill_limit: 1
+split:
+  ratios:
+  - 0.6
+  - 0.2
+  - 0.2
+d1:
+  edge_trim_s: 3.0
+  sample_rate_hz: 6.25
+  metrics:
+  - DIST
+  - RSSI
+  - FP2
+  extra_metrics:
+  - CIR
+  - MaxNoise
+  - SNR
+  note: D1 is in-house and not public; its anchor coordinates and file list are withheld
+    (src/data/d1.py).
+d2:
+  channel: 5
+  metrics:
+  - RANGE
+  - RSS
+  - RSS_FP
+  extra_metrics:
+  - CIR_POWER
+  - MAX_NOISE
+  - RXPACC
+  time_axis: path
+d3:
+  root: data_ext/D3_idlab
+  recordings:
+    TDoA_Tour:
+      condition: los
+      normal: true
+      calib: TDoA_Tour
+    TDoA_Grid:
+      condition: los
+      normal: true
+      calib: TDoA_Grid
+    TDoA_Random:
+      condition: los
+      normal: true
+      calib: TDoA_Random
+    TDoA_Racks:
+      condition: nlos
+      normal: false
+      calib: TDoA_Random
+    TDoA_Racks2:
+      condition: nlos
+      normal: false
+      calib: TDoA_Racks2
+  sync_tol_ticks: 100000
+  gt_max_gap_s: 0.05
+  min_anchors_per_sf: 3
+  metrics:
+  - TDOA
+  - rx_power
+  - fp_power
+  T: 12
+  stride: 12
+  min_obs_frac: 0.2
+  label:
+    thresholds:
+    - 0.3
+    - 0.5
+    decision_threshold: 0.5
+d4:
+  datasets:
+  - smd
+  - asd
+  val_frac_of_train: 0.25
+  T: 12
+  stride: 12
+labels:
+  A:
+    thresholds:
+    - 0.2
+    - 0.3
+    - 0.5
+    smooth_samples: 6
+    decision_threshold:
+      classroom: 0.5
+      hallway: 0.3
+      lab: 0.3
+  A2:
+    smooth_samples: 6
+    decision_threshold: 0.3
+  C:
+    n_events_per_segment: 1
+    anchors_per_event:
+      1: 0.7
+      2: 0.3
+    types:
+      spike:
+        prob: 0.6
+        magnitude_m:
+        - 0.3
+        - 0.8
+        duration_s:
+        - 0.5
+        - 2.5
+      persistent:
+        prob: 0.4
+        magnitude_m:
+        - 0.8
+        - 1.6
+        duration_s:
+        - 5.0
+        - 20.0
+    extra_noise_sd_m: 0.05
+    signal_drop: null
+    target_split: test

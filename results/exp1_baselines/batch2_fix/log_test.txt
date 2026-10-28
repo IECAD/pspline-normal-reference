@@ -1,0 +1,36 @@
+  d1 classroom GDN nc {'embed': 32}: 6.0s
+  d1 classroom LAPRPCA nc {'c': 1.0, 'gamma': 0.1}: 0.3s
+  d1 classroom RBCPHI nc {'var': 0.8}: 0.3s
+  d1 classroom USADFIX nc {'latent': 16}: 6.3s
+  d1 lab GDN nc {'embed': 32}: 2.8s
+  d1 lab LAPRPCA nc {'c': 1.0, 'gamma': 0.1}: 0.2s
+  d1 lab RBCPHI nc {'var': 0.8}: 0.3s
+  d1 lab USADFIX nc {'latent': 16}: 6.2s
+  d1 hallway GDN nc {'embed': 32}: 4.0s
+  d1 hallway LAPRPCA nc {'c': 1.0, 'gamma': 0.1}: 0.3s
+  d1 hallway RBCPHI nc {'var': 0.8}: 0.3s
+  d1 hallway USADFIX nc {'latent': 16}: 7.9s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 GDN nc {'embed': 16}: 3.8s
+  d2 env0 LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 2.2s
+  d2 env0 RBCPHI nc {'var': 0.8}: 2.2s
+  d2 env0 USADFIX raw {'latent': 16}: 7.3s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 GDN nc {'embed': 16}: 3.8s
+  d2 env1 LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 1.8s
+  d2 env1 RBCPHI nc {'var': 0.8}: 1.8s
+  d2 env1 USADFIX raw {'latent': 16}: 5.6s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 GDN nc {'embed': 16}: 4.0s
+  d2 env2 LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 1.9s
+  d2 env2 RBCPHI nc {'var': 0.8}: 2.2s
+  d2 env2 USADFIX raw {'latent': 16}: 8.1s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 GDN nc {'embed': 16}: 3.5s
+  d2 env3 LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 2.0s
+  d2 env3 RBCPHI nc {'var': 0.8}: 1.9s
+  d2 env3 USADFIX raw {'latent': 16}: 5.9s

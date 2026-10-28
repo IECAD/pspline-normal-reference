@@ -1,0 +1,9 @@
+﻿rec,grid,direction,eval_split,eval_windows,covered_windows,coverage
+TDoA_Random,1.0,1,test,54,28,0.5185185185185185
+TDoA_Random,1.0,2,val,54,31,0.5740740740740741
+TDoA_Random,0.5,1,test,54,24,0.4444444444444444
+TDoA_Random,0.5,2,val,54,24,0.4444444444444444
+TDoA_Tour,1.0,1,test,101,101,1.0
+TDoA_Tour,1.0,2,val,102,102,1.0
+TDoA_Tour,0.5,1,test,101,101,1.0
+TDoA_Tour,0.5,2,val,102,102,1.0

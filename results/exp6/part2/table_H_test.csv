@@ -1,0 +1,4 @@
+﻿family,level,d2_cell,d2_PS,d2_OLS,d2_delta,d2_fracpos,d2_n,d2_delta_OLS,d2_hitrate_OLS,d2_smearing_OLS,d2_hitrate_PS,d2_smearing_PS,d2dist_cell,d2dist_PS,d2dist_OLS,d2dist_delta,d2dist_fracpos,d2dist_n,d2dist_delta_OLS,d2dist_hitrate_OLS,d2dist_smearing_OLS,d2dist_hitrate_PS,d2dist_smearing_PS,beats,noninferior
+H,8,0.9032,0.9036,0.8937,0.0004,0.5,60,0.01,0.978,0.0969,0.9818,0.0886,0.9545,0.9541,0.9468,-0.0003,0.4667,60,0.0073,0.9916,0.0944,0.9952,0.0884,False,True
+H,4,0.9172,0.9168,0.9134,-0.0004,0.4291,275,0.0033,0.9894,0.0403,0.9916,0.0389,0.9553,0.9533,0.9546,-0.002,0.3127,275,-0.0013,0.9965,0.042,0.9968,0.0409,False,True
+H,6,0.9146,0.9144,0.9093,-0.0002,0.4067,300,0.0052,0.988,0.0625,0.9901,0.0619,0.9587,0.9577,0.9537,-0.0011,0.3133,300,0.0039,0.9939,0.0675,0.9954,0.0644,False,True

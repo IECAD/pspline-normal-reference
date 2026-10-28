@@ -1,0 +1,65 @@
+[
+ {
+  "dataset": "d1",
+  "unit": "classroom",
+  "variant": "nc",
+  "cfg": {
+   "d_model": 16
+  },
+  "diverged": false
+ },
+ {
+  "dataset": "d1",
+  "unit": "lab",
+  "variant": "nc",
+  "cfg": {
+   "d_model": 16
+  },
+  "diverged": false
+ },
+ {
+  "dataset": "d1",
+  "unit": "hallway",
+  "variant": "nc",
+  "cfg": {
+   "d_model": 16
+  },
+  "diverged": false
+ },
+ {
+  "dataset": "d2",
+  "unit": "env0",
+  "variant": "nc",
+  "cfg": {
+   "d_model": 32
+  },
+  "diverged": false
+ },
+ {
+  "dataset": "d2",
+  "unit": "env1",
+  "variant": "nc",
+  "cfg": {
+   "d_model": 32
+  },
+  "diverged": false
+ },
+ {
+  "dataset": "d2",
+  "unit": "env2",
+  "variant": "nc",
+  "cfg": {
+   "d_model": 32
+  },
+  "diverged": false
+ },
+ {
+  "dataset": "d2",
+  "unit": "env3",
+  "variant": "nc",
+  "cfg": {
+   "d_model": 32
+  },
+  "diverged": false
+ }
+]

@@ -1,0 +1,21 @@
+{
+ "rule": "doc/실험1_비교모델_계획.md 1–2절 (3차 정정: Anomaly Transformer minimax 방향)",
+ "selection": {
+  "ANOMTRANSFIX": {
+   "d1": {
+    "variant": "nc",
+    "cfg": {
+     "d_model": 16
+    },
+    "val_auc_pr": 0.6523397696294378
+   },
+   "d2": {
+    "variant": "nc",
+    "cfg": {
+     "d_model": 32
+    },
+    "val_auc_pr": 0.32818151508082766
+   }
+  }
+ }
+}

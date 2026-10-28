@@ -1,0 +1,35 @@
+{
+ "plan": "doc/실험9_계획.md",
+ "configs": {
+  "PCA": {
+   "var": 0.8
+  },
+  "OLS": {
+   "alpha": 100.0
+  },
+  "IF": {
+   "max_samples": 256,
+   "n_estimators": 100
+  },
+  "LSTMAE": {
+   "hidden": 32
+  },
+  "USAD": {
+   "latent": 16
+  },
+  "CAE1D": {
+   "channels": 8
+  }
+ },
+ "banks": {
+  "PS": {
+   "K_t": 12
+  },
+  "cell": {
+   "time_basis": "cell"
+  },
+  "Z1": {
+   "time_basis": "const"
+  }
+ }
+}

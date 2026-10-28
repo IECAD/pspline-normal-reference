@@ -1,0 +1,23 @@
+  d1 classroom ANOMTRANS nc {'d_model': 32}: 9.4s
+  d1 classroom TRANAD nc {'d_model': 16}: 9.5s
+  d1 lab ANOMTRANS nc {'d_model': 32}: 7.1s
+  d1 lab TRANAD nc {'d_model': 16}: 10.0s
+  d1 hallway ANOMTRANS nc {'d_model': 32}: 9.4s
+  d1 hallway TRANAD nc {'d_model': 16}: 11.7s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 ANOMTRANS nc {'d_model': 16}: 8.2s
+  d2 env0 TRANAD nc {'d_model': 32}: 10.3s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 ANOMTRANS nc {'d_model': 16}: 6.2s
+  d2 env1 TRANAD nc {'d_model': 32}: 7.5s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 ANOMTRANS nc {'d_model': 16}: 8.3s
+  d2 env2 TRANAD nc {'d_model': 32}: 11.2s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 ANOMTRANS nc {'d_model': 16}: 6.3s
+  d2 env3 TRANAD nc {'d_model': 32}: 7.9s
+exit 0

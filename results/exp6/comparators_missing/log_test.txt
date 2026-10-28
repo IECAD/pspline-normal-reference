@@ -1,0 +1,657 @@
+  d1 classroom base 기준 s=None OLS: 0.2s
+  d1 classroom base 기준 s=None RRR: 0.2s
+  d1 classroom base 기준 s=None TRANS: 5.4s
+  d1 classroom base 기준 s=None RBCPHI: 0.2s
+  d1 classroom base 기준 s=None GDN: 1.6s
+  d1 classroom base 기준 s=None OMNI: 179.0s
+  d1 classroom base 기준 s=None LAPRPCA: 0.2s
+  d1 classroom base 기준 s=None CAE2D: 1.0s
+  d1 classroom base 기준 s=None TRANAD: 8.0s
+  d1 classroom C 0.5 s=0 OLS: 0.2s
+  d1 classroom C 0.5 s=0 RRR: 0.2s
+  d1 classroom C 0.5 s=0 TRANS: 3.2s
+  d1 classroom C 0.5 s=0 RBCPHI: 0.3s
+  d1 classroom C 0.5 s=0 GDN: 1.5s
+  d1 classroom C 0.5 s=0 OMNI: 198.6s
+  d1 classroom C 0.5 s=0 LAPRPCA: 0.2s
+  d1 classroom C 0.5 s=0 CAE2D: 1.2s
+  d1 classroom C 0.5 s=0 TRANAD: 9.8s
+  d1 classroom C 0.5 s=1 OLS: 0.2s
+  d1 classroom C 0.5 s=1 RRR: 0.2s
+  d1 classroom C 0.5 s=1 TRANS: 3.6s
+  d1 classroom C 0.5 s=1 RBCPHI: 0.2s
+  d1 classroom C 0.5 s=1 GDN: 1.8s
+  d1 classroom C 0.5 s=1 OMNI: 198.4s
+  d1 classroom C 0.5 s=1 LAPRPCA: 0.2s
+  d1 classroom C 0.5 s=1 CAE2D: 1.0s
+  d1 classroom C 0.5 s=1 TRANAD: 11.0s
+  d1 classroom C 0.5 s=2 OLS: 0.3s
+  d1 classroom C 0.5 s=2 RRR: 0.3s
+  d1 classroom C 0.5 s=2 TRANS: 3.7s
+  d1 classroom C 0.5 s=2 RBCPHI: 0.3s
+  d1 classroom C 0.5 s=2 GDN: 1.7s
+  d1 classroom C 0.5 s=2 OMNI: 219.4s
+  d1 classroom C 0.5 s=2 LAPRPCA: 0.3s
+  d1 classroom C 0.5 s=2 CAE2D: 1.2s
+  d1 classroom C 0.5 s=2 TRANAD: 9.9s
+  d1 classroom C 0.7 s=0 OLS: 0.2s
+  d1 classroom C 0.7 s=0 RRR: 0.3s
+  d1 classroom C 0.7 s=0 TRANS: 3.5s
+  d1 classroom C 0.7 s=0 RBCPHI: 0.3s
+  d1 classroom C 0.7 s=0 GDN: 1.7s
+  d1 classroom C 0.7 s=0 OMNI: 201.5s
+  d1 classroom C 0.7 s=0 LAPRPCA: 0.2s
+  d1 classroom C 0.7 s=0 CAE2D: 1.0s
+  d1 classroom C 0.7 s=0 TRANAD: 9.4s
+  d1 classroom C 0.7 s=1 OLS: 0.3s
+  d1 classroom C 0.7 s=1 RRR: 0.3s
+  d1 classroom C 0.7 s=1 TRANS: 3.3s
+  d1 classroom C 0.7 s=1 RBCPHI: 0.3s
+  d1 classroom C 0.7 s=1 GDN: 1.6s
+  d1 classroom C 0.7 s=1 OMNI: 202.3s
+  d1 classroom C 0.7 s=1 LAPRPCA: 0.4s
+  d1 classroom C 0.7 s=1 CAE2D: 1.3s
+  d1 classroom C 0.7 s=1 TRANAD: 10.3s
+  d1 classroom C 0.7 s=2 OLS: 0.2s
+  d1 classroom C 0.7 s=2 RRR: 0.2s
+  d1 classroom C 0.7 s=2 TRANS: 3.4s
+  d1 classroom C 0.7 s=2 RBCPHI: 0.3s
+  d1 classroom C 0.7 s=2 GDN: 1.7s
+  d1 classroom C 0.7 s=2 OMNI: 201.1s
+  d1 classroom C 0.7 s=2 LAPRPCA: 0.3s
+  d1 classroom C 0.7 s=2 CAE2D: 1.2s
+  d1 classroom C 0.7 s=2 TRANAD: 9.7s
+  d1 classroom D pi=0.7,L=4 s=0 OLS: 0.3s
+  d1 classroom D pi=0.7,L=4 s=0 RRR: 0.2s
+  d1 classroom D pi=0.7,L=4 s=0 TRANS: 3.8s
+  d1 classroom D pi=0.7,L=4 s=0 RBCPHI: 0.3s
+  d1 classroom D pi=0.7,L=4 s=0 GDN: 1.9s
+  d1 classroom D pi=0.7,L=4 s=0 OMNI: 200.9s
+  d1 classroom D pi=0.7,L=4 s=0 LAPRPCA: 0.3s
+  d1 classroom D pi=0.7,L=4 s=0 CAE2D: 1.0s
+  d1 classroom D pi=0.7,L=4 s=0 TRANAD: 11.1s
+  d1 classroom D pi=0.7,L=4 s=1 OLS: 0.2s
+  d1 classroom D pi=0.7,L=4 s=1 RRR: 0.2s
+  d1 classroom D pi=0.7,L=4 s=1 TRANS: 3.5s
+  d1 classroom D pi=0.7,L=4 s=1 RBCPHI: 0.2s
+  d1 classroom D pi=0.7,L=4 s=1 GDN: 1.7s
+  d1 classroom D pi=0.7,L=4 s=1 OMNI: 195.9s
+  d1 classroom D pi=0.7,L=4 s=1 LAPRPCA: 0.2s
+  d1 classroom D pi=0.7,L=4 s=1 CAE2D: 1.1s
+  d1 classroom D pi=0.7,L=4 s=1 TRANAD: 9.8s
+  d1 classroom D pi=0.7,L=4 s=2 OLS: 0.3s
+  d1 classroom D pi=0.7,L=4 s=2 RRR: 0.3s
+  d1 classroom D pi=0.7,L=4 s=2 TRANS: 3.6s
+  d1 classroom D pi=0.7,L=4 s=2 RBCPHI: 0.2s
+  d1 classroom D pi=0.7,L=4 s=2 GDN: 1.6s
+  d1 classroom D pi=0.7,L=4 s=2 OMNI: 194.2s
+  d1 classroom D pi=0.7,L=4 s=2 LAPRPCA: 0.3s
+  d1 classroom D pi=0.7,L=4 s=2 CAE2D: 1.1s
+  d1 classroom D pi=0.7,L=4 s=2 TRANAD: 9.5s
+  d1 classroom P P3 s=0 OLS: 0.2s
+  d1 classroom P P3 s=0 RRR: 0.2s
+  d1 classroom P P3 s=0 TRANS: 3.1s
+  d1 classroom P P3 s=0 RBCPHI: 0.3s
+  d1 classroom P P3 s=0 GDN: 1.7s
+  d1 classroom P P3 s=0 OMNI: 220.3s
+  d1 classroom P P3 s=0 LAPRPCA: 0.2s
+  d1 classroom P P3 s=0 CAE2D: 1.0s
+  d1 classroom P P3 s=0 TRANAD: 9.4s
+  d1 classroom P P3 s=1 OLS: 0.2s
+  d1 classroom P P3 s=1 RRR: 0.2s
+  d1 classroom P P3 s=1 TRANS: 3.3s
+  d1 classroom P P3 s=1 RBCPHI: 0.2s
+  d1 classroom P P3 s=1 GDN: 1.7s
+  d1 classroom P P3 s=1 OMNI: 202.2s
+  d1 classroom P P3 s=1 LAPRPCA: 0.2s
+  d1 classroom P P3 s=1 CAE2D: 1.1s
+  d1 classroom P P3 s=1 TRANAD: 9.3s
+  d1 classroom P P3 s=2 OLS: 0.2s
+  d1 classroom P P3 s=2 RRR: 0.2s
+  d1 classroom P P3 s=2 TRANS: 3.4s
+  d1 classroom P P3 s=2 RBCPHI: 0.2s
+  d1 classroom P P3 s=2 GDN: 1.6s
+  d1 classroom P P3 s=2 OMNI: 221.8s
+  d1 classroom P P3 s=2 LAPRPCA: 0.3s
+  d1 classroom P P3 s=2 CAE2D: 1.1s
+  d1 classroom P P3 s=2 TRANAD: 9.7s
+  d1 lab base 기준 s=None OLS: 0.2s
+  d1 lab base 기준 s=None RRR: 0.3s
+  d1 lab base 기준 s=None TRANS: 3.3s
+  d1 lab base 기준 s=None RBCPHI: 0.2s
+  d1 lab base 기준 s=None GDN: 1.6s
+  d1 lab base 기준 s=None OMNI: 212.9s
+  d1 lab base 기준 s=None LAPRPCA: 0.3s
+  d1 lab base 기준 s=None CAE2D: 1.0s
+  d1 lab base 기준 s=None TRANAD: 8.4s
+  d1 lab C 0.5 s=0 OLS: 0.3s
+  d1 lab C 0.5 s=0 RRR: 0.3s
+  d1 lab C 0.5 s=0 TRANS: 3.6s
+  d1 lab C 0.5 s=0 RBCPHI: 0.3s
+  d1 lab C 0.5 s=0 GDN: 1.9s
+  d1 lab C 0.5 s=0 OMNI: 239.5s
+  d1 lab C 0.5 s=0 LAPRPCA: 0.2s
+  d1 lab C 0.5 s=0 CAE2D: 1.0s
+  d1 lab C 0.5 s=0 TRANAD: 9.2s
+  d1 lab C 0.5 s=1 OLS: 0.2s
+  d1 lab C 0.5 s=1 RRR: 0.3s
+  d1 lab C 0.5 s=1 TRANS: 3.3s
+  d1 lab C 0.5 s=1 RBCPHI: 0.2s
+  d1 lab C 0.5 s=1 GDN: 1.6s
+  d1 lab C 0.5 s=1 OMNI: 197.6s
+  d1 lab C 0.5 s=1 LAPRPCA: 0.2s
+  d1 lab C 0.5 s=1 CAE2D: 1.3s
+  d1 lab C 0.5 s=1 TRANAD: 10.2s
+  d1 lab C 0.5 s=2 OLS: 0.2s
+  d1 lab C 0.5 s=2 RRR: 0.2s
+  d1 lab C 0.5 s=2 TRANS: 3.1s
+  d1 lab C 0.5 s=2 RBCPHI: 0.2s
+  d1 lab C 0.5 s=2 GDN: 1.7s
+  d1 lab C 0.5 s=2 OMNI: 203.2s
+  d1 lab C 0.5 s=2 LAPRPCA: 0.2s
+  d1 lab C 0.5 s=2 CAE2D: 1.0s
+  d1 lab C 0.5 s=2 TRANAD: 9.2s
+  d1 lab C 0.7 s=0 OLS: 0.3s
+  d1 lab C 0.7 s=0 RRR: 0.2s
+  d1 lab C 0.7 s=0 TRANS: 3.2s
+  d1 lab C 0.7 s=0 RBCPHI: 0.2s
+  d1 lab C 0.7 s=0 GDN: 1.6s
+  d1 lab C 0.7 s=0 OMNI: 201.1s
+  d1 lab C 0.7 s=0 LAPRPCA: 0.3s
+  d1 lab C 0.7 s=0 CAE2D: 1.0s
+  d1 lab C 0.7 s=0 TRANAD: 9.0s
+  d1 lab C 0.7 s=1 OLS: 0.2s
+  d1 lab C 0.7 s=1 RRR: 0.2s
+  d1 lab C 0.7 s=1 TRANS: 3.5s
+  d1 lab C 0.7 s=1 RBCPHI: 0.2s
+  d1 lab C 0.7 s=1 GDN: 1.6s
+  d1 lab C 0.7 s=1 OMNI: 200.6s
+  d1 lab C 0.7 s=1 LAPRPCA: 0.2s
+  d1 lab C 0.7 s=1 CAE2D: 1.1s
+  d1 lab C 0.7 s=1 TRANAD: 10.4s
+  d1 lab C 0.7 s=2 OLS: 0.2s
+  d1 lab C 0.7 s=2 RRR: 0.2s
+  d1 lab C 0.7 s=2 TRANS: 3.1s
+  d1 lab C 0.7 s=2 RBCPHI: 0.2s
+  d1 lab C 0.7 s=2 GDN: 1.6s
+  d1 lab C 0.7 s=2 OMNI: 202.0s
+  d1 lab C 0.7 s=2 LAPRPCA: 0.2s
+  d1 lab C 0.7 s=2 CAE2D: 1.0s
+  d1 lab C 0.7 s=2 TRANAD: 9.6s
+  d1 lab D pi=0.7,L=4 s=0 OLS: 0.2s
+  d1 lab D pi=0.7,L=4 s=0 RRR: 0.2s
+  d1 lab D pi=0.7,L=4 s=0 TRANS: 3.2s
+  d1 lab D pi=0.7,L=4 s=0 RBCPHI: 0.2s
+  d1 lab D pi=0.7,L=4 s=0 GDN: 1.6s
+  d1 lab D pi=0.7,L=4 s=0 OMNI: 203.4s
+  d1 lab D pi=0.7,L=4 s=0 LAPRPCA: 0.2s
+  d1 lab D pi=0.7,L=4 s=0 CAE2D: 1.0s
+  d1 lab D pi=0.7,L=4 s=0 TRANAD: 9.2s
+  d1 lab D pi=0.7,L=4 s=1 OLS: 0.2s
+  d1 lab D pi=0.7,L=4 s=1 RRR: 0.2s
+  d1 lab D pi=0.7,L=4 s=1 TRANS: 3.2s
+  d1 lab D pi=0.7,L=4 s=1 RBCPHI: 0.3s
+  d1 lab D pi=0.7,L=4 s=1 GDN: 1.7s
+  d1 lab D pi=0.7,L=4 s=1 OMNI: 203.5s
+  d1 lab D pi=0.7,L=4 s=1 LAPRPCA: 0.2s
+  d1 lab D pi=0.7,L=4 s=1 CAE2D: 1.1s
+  d1 lab D pi=0.7,L=4 s=1 TRANAD: 9.2s
+  d1 lab D pi=0.7,L=4 s=2 OLS: 0.2s
+  d1 lab D pi=0.7,L=4 s=2 RRR: 0.2s
+  d1 lab D pi=0.7,L=4 s=2 TRANS: 3.3s
+  d1 lab D pi=0.7,L=4 s=2 RBCPHI: 0.2s
+  d1 lab D pi=0.7,L=4 s=2 GDN: 1.6s
+  d1 lab D pi=0.7,L=4 s=2 OMNI: 203.0s
+  d1 lab D pi=0.7,L=4 s=2 LAPRPCA: 0.2s
+  d1 lab D pi=0.7,L=4 s=2 CAE2D: 1.1s
+  d1 lab D pi=0.7,L=4 s=2 TRANAD: 9.5s
+  d1 lab P P3 s=0 OLS: 0.2s
+  d1 lab P P3 s=0 RRR: 0.2s
+  d1 lab P P3 s=0 TRANS: 3.1s
+  d1 lab P P3 s=0 RBCPHI: 0.2s
+  d1 lab P P3 s=0 GDN: 1.7s
+  d1 lab P P3 s=0 OMNI: 202.1s
+  d1 lab P P3 s=0 LAPRPCA: 0.2s
+  d1 lab P P3 s=0 CAE2D: 1.0s
+  d1 lab P P3 s=0 TRANAD: 9.5s
+  d1 lab P P3 s=1 OLS: 0.2s
+  d1 lab P P3 s=1 RRR: 0.2s
+  d1 lab P P3 s=1 TRANS: 3.1s
+  d1 lab P P3 s=1 RBCPHI: 0.2s
+  d1 lab P P3 s=1 GDN: 1.6s
+  d1 lab P P3 s=1 OMNI: 201.5s
+  d1 lab P P3 s=1 LAPRPCA: 0.2s
+  d1 lab P P3 s=1 CAE2D: 1.1s
+  d1 lab P P3 s=1 TRANAD: 9.6s
+  d1 lab P P3 s=2 OLS: 0.2s
+  d1 lab P P3 s=2 RRR: 0.2s
+  d1 lab P P3 s=2 TRANS: 3.2s
+  d1 lab P P3 s=2 RBCPHI: 0.2s
+  d1 lab P P3 s=2 GDN: 1.7s
+  d1 lab P P3 s=2 OMNI: 203.7s
+  d1 lab P P3 s=2 LAPRPCA: 0.3s
+  d1 lab P P3 s=2 CAE2D: 1.1s
+  d1 lab P P3 s=2 TRANAD: 9.2s
+  d1 hallway base 기준 s=None OLS: 0.4s
+  d1 hallway base 기준 s=None RRR: 0.3s
+  d1 hallway base 기준 s=None TRANS: 4.4s
+  d1 hallway base 기준 s=None RBCPHI: 0.3s
+  d1 hallway base 기준 s=None GDN: 2.1s
+  d1 hallway base 기준 s=None OMNI: 263.5s
+  d1 hallway base 기준 s=None LAPRPCA: 0.3s
+  d1 hallway base 기준 s=None CAE2D: 1.4s
+  d1 hallway base 기준 s=None TRANAD: 12.4s
+  d1 hallway C 0.5 s=0 OLS: 0.3s
+  d1 hallway C 0.5 s=0 RRR: 0.3s
+  d1 hallway C 0.5 s=0 TRANS: 4.1s
+  d1 hallway C 0.5 s=0 RBCPHI: 0.2s
+  d1 hallway C 0.5 s=0 GDN: 2.1s
+  d1 hallway C 0.5 s=0 OMNI: 269.7s
+  d1 hallway C 0.5 s=0 LAPRPCA: 0.3s
+  d1 hallway C 0.5 s=0 CAE2D: 1.3s
+  d1 hallway C 0.5 s=0 TRANAD: 12.8s
+  d1 hallway C 0.5 s=1 OLS: 0.3s
+  d1 hallway C 0.5 s=1 RRR: 0.3s
+  d1 hallway C 0.5 s=1 TRANS: 4.1s
+  d1 hallway C 0.5 s=1 RBCPHI: 0.3s
+  d1 hallway C 0.5 s=1 GDN: 2.2s
+  d1 hallway C 0.5 s=1 OMNI: 267.4s
+  d1 hallway C 0.5 s=1 LAPRPCA: 0.5s
+  d1 hallway C 0.5 s=1 CAE2D: 1.4s
+  d1 hallway C 0.5 s=1 TRANAD: 12.3s
+  d1 hallway C 0.5 s=2 OLS: 0.3s
+  d1 hallway C 0.5 s=2 RRR: 0.3s
+  d1 hallway C 0.5 s=2 TRANS: 4.4s
+  d1 hallway C 0.5 s=2 RBCPHI: 0.3s
+  d1 hallway C 0.5 s=2 GDN: 2.2s
+  d1 hallway C 0.5 s=2 OMNI: 264.4s
+  d1 hallway C 0.5 s=2 LAPRPCA: 0.2s
+  d1 hallway C 0.5 s=2 CAE2D: 1.4s
+  d1 hallway C 0.5 s=2 TRANAD: 11.9s
+  d1 hallway C 0.7 s=0 OLS: 0.3s
+  d1 hallway C 0.7 s=0 RRR: 0.2s
+  d1 hallway C 0.7 s=0 TRANS: 4.3s
+  d1 hallway C 0.7 s=0 RBCPHI: 0.3s
+  d1 hallway C 0.7 s=0 GDN: 2.2s
+  d1 hallway C 0.7 s=0 OMNI: 263.4s
+  d1 hallway C 0.7 s=0 LAPRPCA: 0.3s
+  d1 hallway C 0.7 s=0 CAE2D: 1.3s
+  d1 hallway C 0.7 s=0 TRANAD: 12.2s
+  d1 hallway C 0.7 s=1 OLS: 0.3s
+  d1 hallway C 0.7 s=1 RRR: 0.3s
+  d1 hallway C 0.7 s=1 TRANS: 4.3s
+  d1 hallway C 0.7 s=1 RBCPHI: 0.2s
+  d1 hallway C 0.7 s=1 GDN: 2.2s
+  d1 hallway C 0.7 s=1 OMNI: 263.8s
+  d1 hallway C 0.7 s=1 LAPRPCA: 0.3s
+  d1 hallway C 0.7 s=1 CAE2D: 1.3s
+  d1 hallway C 0.7 s=1 TRANAD: 12.5s
+  d1 hallway C 0.7 s=2 OLS: 0.2s
+  d1 hallway C 0.7 s=2 RRR: 0.2s
+  d1 hallway C 0.7 s=2 TRANS: 4.1s
+  d1 hallway C 0.7 s=2 RBCPHI: 0.2s
+  d1 hallway C 0.7 s=2 GDN: 2.1s
+  d1 hallway C 0.7 s=2 OMNI: 263.6s
+  d1 hallway C 0.7 s=2 LAPRPCA: 0.3s
+  d1 hallway C 0.7 s=2 CAE2D: 1.4s
+  d1 hallway C 0.7 s=2 TRANAD: 12.0s
+  d1 hallway D pi=0.7,L=4 s=0 OLS: 0.3s
+  d1 hallway D pi=0.7,L=4 s=0 RRR: 0.3s
+  d1 hallway D pi=0.7,L=4 s=0 TRANS: 4.1s
+  d1 hallway D pi=0.7,L=4 s=0 RBCPHI: 0.3s
+  d1 hallway D pi=0.7,L=4 s=0 GDN: 2.1s
+  d1 hallway D pi=0.7,L=4 s=0 OMNI: 264.4s
+  d1 hallway D pi=0.7,L=4 s=0 LAPRPCA: 0.3s
+  d1 hallway D pi=0.7,L=4 s=0 CAE2D: 1.4s
+  d1 hallway D pi=0.7,L=4 s=0 TRANAD: 12.6s
+  d1 hallway D pi=0.7,L=4 s=1 OLS: 0.3s
+  d1 hallway D pi=0.7,L=4 s=1 RRR: 0.2s
+  d1 hallway D pi=0.7,L=4 s=1 TRANS: 4.1s
+  d1 hallway D pi=0.7,L=4 s=1 RBCPHI: 0.3s
+  d1 hallway D pi=0.7,L=4 s=1 GDN: 2.1s
+  d1 hallway D pi=0.7,L=4 s=1 OMNI: 263.6s
+  d1 hallway D pi=0.7,L=4 s=1 LAPRPCA: 0.3s
+  d1 hallway D pi=0.7,L=4 s=1 CAE2D: 1.4s
+  d1 hallway D pi=0.7,L=4 s=1 TRANAD: 12.5s
+  d1 hallway D pi=0.7,L=4 s=2 OLS: 0.3s
+  d1 hallway D pi=0.7,L=4 s=2 RRR: 0.3s
+  d1 hallway D pi=0.7,L=4 s=2 TRANS: 4.2s
+  d1 hallway D pi=0.7,L=4 s=2 RBCPHI: 0.3s
+  d1 hallway D pi=0.7,L=4 s=2 GDN: 2.2s
+  d1 hallway D pi=0.7,L=4 s=2 OMNI: 264.6s
+  d1 hallway D pi=0.7,L=4 s=2 LAPRPCA: 0.3s
+  d1 hallway D pi=0.7,L=4 s=2 CAE2D: 1.3s
+  d1 hallway D pi=0.7,L=4 s=2 TRANAD: 12.5s
+  d1 hallway P P3 s=0 OLS: 0.3s
+  d1 hallway P P3 s=0 RRR: 0.3s
+  d1 hallway P P3 s=0 TRANS: 4.1s
+  d1 hallway P P3 s=0 RBCPHI: 0.3s
+  d1 hallway P P3 s=0 GDN: 2.2s
+  d1 hallway P P3 s=0 OMNI: 263.3s
+  d1 hallway P P3 s=0 LAPRPCA: 0.3s
+  d1 hallway P P3 s=0 CAE2D: 1.4s
+  d1 hallway P P3 s=0 TRANAD: 12.0s
+  d1 hallway P P3 s=1 OLS: 0.2s
+  d1 hallway P P3 s=1 RRR: 0.2s
+  d1 hallway P P3 s=1 TRANS: 4.0s
+  d1 hallway P P3 s=1 RBCPHI: 0.3s
+  d1 hallway P P3 s=1 GDN: 2.3s
+  d1 hallway P P3 s=1 OMNI: 264.4s
+  d1 hallway P P3 s=1 LAPRPCA: 0.3s
+  d1 hallway P P3 s=1 CAE2D: 1.5s
+  d1 hallway P P3 s=1 TRANAD: 11.8s
+  d1 hallway P P3 s=2 OLS: 0.3s
+  d1 hallway P P3 s=2 RRR: 0.3s
+  d1 hallway P P3 s=2 TRANS: 4.2s
+  d1 hallway P P3 s=2 RBCPHI: 0.3s
+  d1 hallway P P3 s=2 GDN: 2.2s
+  d1 hallway P P3 s=2 OMNI: 263.7s
+  d1 hallway P P3 s=2 LAPRPCA: 0.3s
+  d1 hallway P P3 s=2 CAE2D: 1.3s
+  d1 hallway P P3 s=2 TRANAD: 11.9s
+  d1 classroom base f=1.0 T=12 r=None seed=None
+  d1 classroom C f=1.0 T=12 r=0.5 seed=0
+  d1 classroom C f=1.0 T=12 r=0.5 seed=1
+  d1 classroom C f=1.0 T=12 r=0.5 seed=2
+  d1 classroom C f=1.0 T=12 r=0.7 seed=0
+  d1 classroom C f=1.0 T=12 r=0.7 seed=1
+  d1 classroom C f=1.0 T=12 r=0.7 seed=2
+  d1 classroom D f=1.0 T=12 r=(0.7, 4) seed=0
+  d1 classroom D f=1.0 T=12 r=(0.7, 4) seed=1
+  d1 classroom D f=1.0 T=12 r=(0.7, 4) seed=2
+  d1 classroom P f=1.0 T=12 r=P3 seed=0
+  d1 classroom P f=1.0 T=12 r=P3 seed=1
+  d1 classroom P f=1.0 T=12 r=P3 seed=2
+  d1 lab base f=1.0 T=12 r=None seed=None
+  d1 lab C f=1.0 T=12 r=0.5 seed=0
+  d1 lab C f=1.0 T=12 r=0.5 seed=1
+  d1 lab C f=1.0 T=12 r=0.5 seed=2
+  d1 lab C f=1.0 T=12 r=0.7 seed=0
+  d1 lab C f=1.0 T=12 r=0.7 seed=1
+  d1 lab C f=1.0 T=12 r=0.7 seed=2
+  d1 lab D f=1.0 T=12 r=(0.7, 4) seed=0
+  d1 lab D f=1.0 T=12 r=(0.7, 4) seed=1
+  d1 lab D f=1.0 T=12 r=(0.7, 4) seed=2
+  d1 lab P f=1.0 T=12 r=P3 seed=0
+  d1 lab P f=1.0 T=12 r=P3 seed=1
+  d1 lab P f=1.0 T=12 r=P3 seed=2
+  d1 hallway base f=1.0 T=12 r=None seed=None
+  d1 hallway C f=1.0 T=12 r=0.5 seed=0
+  d1 hallway C f=1.0 T=12 r=0.5 seed=1
+  d1 hallway C f=1.0 T=12 r=0.5 seed=2
+  d1 hallway C f=1.0 T=12 r=0.7 seed=0
+  d1 hallway C f=1.0 T=12 r=0.7 seed=1
+  d1 hallway C f=1.0 T=12 r=0.7 seed=2
+  d1 hallway D f=1.0 T=12 r=(0.7, 4) seed=0
+  d1 hallway D f=1.0 T=12 r=(0.7, 4) seed=1
+  d1 hallway D f=1.0 T=12 r=(0.7, 4) seed=2
+  d1 hallway P f=1.0 T=12 r=P3 seed=0
+  d1 hallway P f=1.0 T=12 r=P3 seed=1
+  d1 hallway P f=1.0 T=12 r=P3 seed=2
+d1 test: 6435 rows, 9481s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 base 기준 s=None OLS: 1.9s
+  d2 env0 base 기준 s=None RRR: 1.9s
+  d2 env0 base 기준 s=None TRANS: 5.5s
+  d2 env0 base 기준 s=None RBCPHI: 1.8s
+  d2 env0 base 기준 s=None GDN: 3.5s
+  d2 env0 base 기준 s=None OMNI: 217.7s
+  d2 env0 base 기준 s=None LAPRPCA: 1.8s
+  d2 env0 base 기준 s=None CAE2D: 2.7s
+  d2 env0 base 기준 s=None TRANAD: 12.2s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 C 0.7 s=0 OLS: 1.5s
+  d2 env0 C 0.7 s=0 RRR: 1.7s
+  d2 env0 C 0.7 s=0 TRANS: 5.7s
+  d2 env0 C 0.7 s=0 RBCPHI: 1.5s
+  d2 env0 C 0.7 s=0 GDN: 3.3s
+  d2 env0 C 0.7 s=0 OMNI: 212.2s
+  d2 env0 C 0.7 s=0 LAPRPCA: 1.6s
+  d2 env0 C 0.7 s=0 CAE2D: 2.6s
+  d2 env0 C 0.7 s=0 TRANAD: 12.3s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 C 0.7 s=1 OLS: 1.8s
+  d2 env0 C 0.7 s=1 RRR: 1.6s
+  d2 env0 C 0.7 s=1 TRANS: 4.8s
+  d2 env0 C 0.7 s=1 RBCPHI: 1.7s
+  d2 env0 C 0.7 s=1 GDN: 3.3s
+  d2 env0 C 0.7 s=1 OMNI: 210.3s
+  d2 env0 C 0.7 s=1 LAPRPCA: 1.6s
+  d2 env0 C 0.7 s=1 CAE2D: 2.7s
+  d2 env0 C 0.7 s=1 TRANAD: 12.0s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 C 0.7 s=2 OLS: 1.5s
+  d2 env0 C 0.7 s=2 RRR: 1.6s
+  d2 env0 C 0.7 s=2 TRANS: 5.7s
+  d2 env0 C 0.7 s=2 RBCPHI: 1.7s
+  d2 env0 C 0.7 s=2 GDN: 3.1s
+  d2 env0 C 0.7 s=2 OMNI: 210.2s
+  d2 env0 C 0.7 s=2 LAPRPCA: 1.7s
+  d2 env0 C 0.7 s=2 CAE2D: 2.4s
+  d2 env0 C 0.7 s=2 TRANAD: 12.6s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 base 기준 s=None OLS: 1.4s
+  d2 env1 base 기준 s=None RRR: 1.4s
+  d2 env1 base 기준 s=None TRANS: 4.4s
+  d2 env1 base 기준 s=None RBCPHI: 1.7s
+  d2 env1 base 기준 s=None GDN: 2.6s
+  d2 env1 base 기준 s=None OMNI: 148.4s
+  d2 env1 base 기준 s=None LAPRPCA: 1.4s
+  d2 env1 base 기준 s=None CAE2D: 1.9s
+  d2 env1 base 기준 s=None TRANAD: 7.3s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 C 0.7 s=0 OLS: 1.3s
+  d2 env1 C 0.7 s=0 RRR: 1.3s
+  d2 env1 C 0.7 s=0 TRANS: 3.5s
+  d2 env1 C 0.7 s=0 RBCPHI: 1.3s
+  d2 env1 C 0.7 s=0 GDN: 2.4s
+  d2 env1 C 0.7 s=0 OMNI: 131.9s
+  d2 env1 C 0.7 s=0 LAPRPCA: 1.4s
+  d2 env1 C 0.7 s=0 CAE2D: 2.0s
+  d2 env1 C 0.7 s=0 TRANAD: 7.2s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 C 0.7 s=1 OLS: 1.3s
+  d2 env1 C 0.7 s=1 RRR: 1.3s
+  d2 env1 C 0.7 s=1 TRANS: 3.8s
+  d2 env1 C 0.7 s=1 RBCPHI: 1.3s
+  d2 env1 C 0.7 s=1 GDN: 2.6s
+  d2 env1 C 0.7 s=1 OMNI: 130.0s
+  d2 env1 C 0.7 s=1 LAPRPCA: 1.3s
+  d2 env1 C 0.7 s=1 CAE2D: 1.9s
+  d2 env1 C 0.7 s=1 TRANAD: 7.3s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 C 0.7 s=2 OLS: 1.3s
+  d2 env1 C 0.7 s=2 RRR: 1.3s
+  d2 env1 C 0.7 s=2 TRANS: 3.6s
+  d2 env1 C 0.7 s=2 RBCPHI: 1.3s
+  d2 env1 C 0.7 s=2 GDN: 2.6s
+  d2 env1 C 0.7 s=2 OMNI: 127.0s
+  d2 env1 C 0.7 s=2 LAPRPCA: 1.3s
+  d2 env1 C 0.7 s=2 CAE2D: 2.0s
+  d2 env1 C 0.7 s=2 TRANAD: 7.3s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 base 기준 s=None OLS: 1.5s
+  d2 env2 base 기준 s=None RRR: 1.6s
+  d2 env2 base 기준 s=None TRANS: 5.2s
+  d2 env2 base 기준 s=None RBCPHI: 1.5s
+  d2 env2 base 기준 s=None GDN: 3.3s
+  d2 env2 base 기준 s=None OMNI: 178.4s
+  d2 env2 base 기준 s=None LAPRPCA: 1.5s
+  d2 env2 base 기준 s=None CAE2D: 2.4s
+  d2 env2 base 기준 s=None TRANAD: 10.5s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 C 0.7 s=0 OLS: 1.5s
+  d2 env2 C 0.7 s=0 RRR: 1.5s
+  d2 env2 C 0.7 s=0 TRANS: 5.2s
+  d2 env2 C 0.7 s=0 RBCPHI: 1.5s
+  d2 env2 C 0.7 s=0 GDN: 3.1s
+  d2 env2 C 0.7 s=0 OMNI: 179.0s
+  d2 env2 C 0.7 s=0 LAPRPCA: 1.5s
+  d2 env2 C 0.7 s=0 CAE2D: 2.5s
+  d2 env2 C 0.7 s=0 TRANAD: 10.5s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 C 0.7 s=1 OLS: 1.5s
+  d2 env2 C 0.7 s=1 RRR: 1.5s
+  d2 env2 C 0.7 s=1 TRANS: 4.7s
+  d2 env2 C 0.7 s=1 RBCPHI: 1.5s
+  d2 env2 C 0.7 s=1 GDN: 3.1s
+  d2 env2 C 0.7 s=1 OMNI: 179.9s
+  d2 env2 C 0.7 s=1 LAPRPCA: 1.5s
+  d2 env2 C 0.7 s=1 CAE2D: 2.6s
+  d2 env2 C 0.7 s=1 TRANAD: 10.6s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 C 0.7 s=2 OLS: 1.6s
+  d2 env2 C 0.7 s=2 RRR: 1.5s
+  d2 env2 C 0.7 s=2 TRANS: 5.0s
+  d2 env2 C 0.7 s=2 RBCPHI: 1.5s
+  d2 env2 C 0.7 s=2 GDN: 3.1s
+  d2 env2 C 0.7 s=2 OMNI: 178.8s
+  d2 env2 C 0.7 s=2 LAPRPCA: 1.6s
+  d2 env2 C 0.7 s=2 CAE2D: 2.5s
+  d2 env2 C 0.7 s=2 TRANAD: 10.7s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 base 기준 s=None OLS: 1.3s
+  d2 env3 base 기준 s=None RRR: 1.3s
+  d2 env3 base 기준 s=None TRANS: 3.6s
+  d2 env3 base 기준 s=None RBCPHI: 1.3s
+  d2 env3 base 기준 s=None GDN: 2.3s
+  d2 env3 base 기준 s=None OMNI: 126.3s
+  d2 env3 base 기준 s=None LAPRPCA: 1.3s
+  d2 env3 base 기준 s=None CAE2D: 1.9s
+  d2 env3 base 기준 s=None TRANAD: 7.1s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 C 0.7 s=0 OLS: 1.3s
+  d2 env3 C 0.7 s=0 RRR: 1.3s
+  d2 env3 C 0.7 s=0 TRANS: 3.6s
+  d2 env3 C 0.7 s=0 RBCPHI: 1.3s
+  d2 env3 C 0.7 s=0 GDN: 2.4s
+  d2 env3 C 0.7 s=0 OMNI: 127.1s
+  d2 env3 C 0.7 s=0 LAPRPCA: 1.3s
+  d2 env3 C 0.7 s=0 CAE2D: 2.0s
+  d2 env3 C 0.7 s=0 TRANAD: 6.9s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 C 0.7 s=1 OLS: 1.3s
+  d2 env3 C 0.7 s=1 RRR: 1.3s
+  d2 env3 C 0.7 s=1 TRANS: 3.8s
+  d2 env3 C 0.7 s=1 RBCPHI: 1.3s
+  d2 env3 C 0.7 s=1 GDN: 2.3s
+  d2 env3 C 0.7 s=1 OMNI: 127.4s
+  d2 env3 C 0.7 s=1 LAPRPCA: 1.3s
+  d2 env3 C 0.7 s=1 CAE2D: 1.8s
+  d2 env3 C 0.7 s=1 TRANAD: 7.1s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 C 0.7 s=2 OLS: 1.3s
+  d2 env3 C 0.7 s=2 RRR: 1.3s
+  d2 env3 C 0.7 s=2 TRANS: 3.5s
+  d2 env3 C 0.7 s=2 RBCPHI: 1.3s
+  d2 env3 C 0.7 s=2 GDN: 2.5s
+  d2 env3 C 0.7 s=2 OMNI: 127.6s
+  d2 env3 C 0.7 s=2 LAPRPCA: 1.3s
+  d2 env3 C 0.7 s=2 CAE2D: 1.9s
+  d2 env3 C 0.7 s=2 TRANAD: 7.1s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 base f=1.0 T=12 r=None seed=None
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 C f=1.0 T=12 r=0.7 seed=0
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 C f=1.0 T=12 r=0.7 seed=1
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 C f=1.0 T=12 r=0.7 seed=2
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 base f=1.0 T=12 r=None seed=None
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 C f=1.0 T=12 r=0.7 seed=0
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 C f=1.0 T=12 r=0.7 seed=1
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 C f=1.0 T=12 r=0.7 seed=2
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 base f=1.0 T=12 r=None seed=None
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 C f=1.0 T=12 r=0.7 seed=0
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 C f=1.0 T=12 r=0.7 seed=1
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 C f=1.0 T=12 r=0.7 seed=2
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 base f=1.0 T=12 r=None seed=None
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 C f=1.0 T=12 r=0.7 seed=0
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 C f=1.0 T=12 r=0.7 seed=1
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 C f=1.0 T=12 r=0.7 seed=2
+d2 test: 5280 rows, 3053s
+exit 0

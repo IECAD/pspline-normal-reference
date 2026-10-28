@@ -1,0 +1,26 @@
+{
+ "id": "E10",
+ "run": "o3seed1",
+ "code": {
+  "V": "V3",
+  "S": "S1",
+  "O": "O3",
+  "T": "T2"
+ },
+ "o3_seed": 1,
+ "datasets": [
+  "d1"
+ ],
+ "skipped": [],
+ "model": {
+  "K_t": 8,
+  "diff_order": 2,
+  "sap": true,
+  "threshold_pct": 97.5,
+  "eps": 1e-06
+ },
+ "exp_config": "configs/exp3.yaml",
+ "data_config": "configs/data.yaml",
+ "data_version": "<repo>\\cache\\windows\\data_config_used.yaml",
+ "elapsed_s": 3.3309636001940817
+}

@@ -1,0 +1,4 @@
+C00 vs 실험 3 F01 · d1 · val: 행 45/45, max|ΔAUC-PR| = 0.00e+00
+C00 vs 실험 3 F01 · d2 · val: 행 120/120, max|ΔAUC-PR| = 0.00e+00
+C00 vs 실험 3 F01 · d1 · test: 행 53/53, max|ΔAUC-PR| = 0.00e+00
+C00 vs 실험 3 F01 · d2 · test: 행 120/120, max|ΔAUC-PR| = 0.00e+00

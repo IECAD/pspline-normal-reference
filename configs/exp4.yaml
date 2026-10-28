@@ -1,0 +1,32 @@
+# 실험 4: 구성요소 ablation -> 최종 모델 (doc/실험4_계획.md, 사전 등록 2026-10-10)
+# 평가 설정(데이터, 시나리오, 주입 시드, 임계 백분위, 기본 K_t)은 configs/exp3.yaml 을 그대로 쓴다
+base: F01                # 합성 코드 (configs/exp3.yaml ids)
+variants:                # 생략한 항목은 F01 과 같음 (experiments/node_model_eval.py DEFAULTS)
+  C00: {}
+  C01: {diff_order: 1}
+  C02: {K_t: 10}
+  C03: {K_t: 12}
+  C04: {K_t: adaptive}
+  C05: {time_basis: const}
+  C06: {time_basis: cell}
+  C07: {lam_mode: sap_row}
+  C08: {lam_mode: 1.0e-3}
+  C09: {lam_mode: 1.0e-1}
+  C10: {lam_mode: 1.0e+1}
+  C11: {lam_mode: 1.0e+3}
+  C12: {lam_mode: 1.0e+5}
+  C13: {score_set: [R, K]}
+  C14: {score_set: [R, C]}
+  C15: {score_set: [R, K, C]}
+axes:                    # 축: 현재값(F01) ID, 후보 ID (단순함 순서대로)
+  diff:  {current: C00, options: [C01]}
+  basis: {current: C00, options: [C05, C06, C02, C03, C04]}
+  lam:   {current: C00, options: [C08, C09, C10, C11, C12, C07]}
+  score: {current: C00, options: [C14, C13, C15]}
+moot_if_basis: [C05, C06]  # 시간 기저가 이것으로 선택되면 diff, lam 축은 빼고 결합
+judge:                   # doc/실험4_계획.md 2절
+  views: {d1: '^SC\d$', d2: '^SC\dm$'}
+  tol: {d1: 0.0165, d2: 0.0171}
+  tie_mean: 0.0165
+  tol_hit: 0.01
+  tol_smear: 0.01

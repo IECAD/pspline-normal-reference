@@ -1,0 +1,17 @@
+{
+ "rule": "doc/실험9_계획.md 2절",
+ "tol": 0.0171,
+ "by_dataset": {
+  "smd": {
+   "n_not_worse": 3,
+   "n_comparators": 8,
+   "majority": false
+  },
+  "asd": {
+   "n_not_worse": 1,
+   "n_comparators": 8,
+   "majority": false
+  }
+ },
+ "rq7": "적용 범위 밖"
+}

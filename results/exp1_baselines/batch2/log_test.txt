@@ -1,0 +1,36 @@
+  d1 classroom CAE2D nc {'channels': 8}: 5.0s
+  d1 classroom OMNI nc {'latent': 3}: 405.7s
+  d1 classroom RRR nc {'rank': 1}: 0.4s
+  d1 classroom TRANS nc {'d_model': 32}: 4.7s
+  d1 lab CAE2D nc {'channels': 8}: 1.4s
+  d1 lab OMNI nc {'latent': 3}: 314.7s
+  d1 lab RRR nc {'rank': 1}: 0.2s
+  d1 lab TRANS nc {'d_model': 32}: 4.6s
+  d1 hallway CAE2D nc {'channels': 8}: 1.7s
+  d1 hallway OMNI nc {'latent': 3}: 521.1s
+  d1 hallway RRR nc {'rank': 1}: 0.3s
+  d1 hallway TRANS nc {'d_model': 32}: 5.1s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 CAE2D nc {'channels': 8}: 3.0s
+  d2 env0 OMNI nc {'latent': 3}: 262.2s
+  d2 env0 RRR nc {'rank': 1}: 1.7s
+  d2 env0 TRANS nc {'d_model': 32}: 5.5s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 CAE2D nc {'channels': 8}: 2.0s
+  d2 env1 OMNI nc {'latent': 3}: 157.8s
+  d2 env1 RRR nc {'rank': 1}: 1.7s
+  d2 env1 TRANS nc {'d_model': 32}: 4.2s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 CAE2D nc {'channels': 8}: 2.9s
+  d2 env2 OMNI nc {'latent': 3}: 219.6s
+  d2 env2 RRR nc {'rank': 1}: 1.9s
+  d2 env2 TRANS nc {'d_model': 32}: 6.5s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 CAE2D nc {'channels': 8}: 2.5s
+  d2 env3 OMNI nc {'latent': 3}: 146.2s
+  d2 env3 RRR nc {'rank': 1}: 1.5s
+  d2 env3 TRANS nc {'d_model': 32}: 4.0s

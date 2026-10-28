@@ -1,0 +1,12 @@
+cache/
+data_ext/*/x/
+data_ext/*/extracted/
+data_ext/*/raw/
+data_ext/D2_bregar/*.zip
+data_ext/D3_idlab/*/
+data_ext/D4a_SMD/*/
+data_ext/D4b_ASD/*/
+data_ext/D5_idlab_phy/*/
+data_ext/D6_twr_cloud_bern/*.pkl
+__pycache__/
+*.npz

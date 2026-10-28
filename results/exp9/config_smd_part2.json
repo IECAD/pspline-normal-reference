@@ -1,0 +1,15 @@
+{
+ "plan": "doc/실험9_계획.md",
+ "configs": {
+  "GDN": {
+   "embed": 16
+  },
+  "TRANS": {
+   "d_model": 32
+  },
+  "USADFIX": {
+   "latent": 16
+  }
+ },
+ "banks": null
+}

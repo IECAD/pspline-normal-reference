@@ -1,0 +1,195 @@
+  d1 classroom USADFIX raw {'latent': 8}: 6.6s
+  d1 classroom USADFIX nc {'latent': 8}: 3.9s
+  d1 classroom USADFIX raw {'latent': 16}: 3.8s
+  d1 classroom USADFIX nc {'latent': 16}: 3.9s
+  d1 classroom GDN raw {'embed': 16}: 2.2s
+  d1 classroom GDN nc {'embed': 16}: 1.9s
+  d1 classroom GDN raw {'embed': 32}: 2.0s
+  d1 classroom GDN nc {'embed': 32}: 1.9s
+  d1 classroom LAPRPCA raw {'c': 0.5, 'gamma': 0.1}: 0.2s
+  d1 classroom LAPRPCA nc {'c': 0.5, 'gamma': 0.1}: 0.2s
+  d1 classroom LAPRPCA raw {'c': 0.5, 'gamma': 1.0}: 0.2s
+  d1 classroom LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 0.2s
+  d1 classroom LAPRPCA raw {'c': 1.0, 'gamma': 0.1}: 0.2s
+  d1 classroom LAPRPCA nc {'c': 1.0, 'gamma': 0.1}: 0.3s
+  d1 classroom LAPRPCA raw {'c': 1.0, 'gamma': 1.0}: 0.2s
+  d1 classroom LAPRPCA nc {'c': 1.0, 'gamma': 1.0}: 0.2s
+  d1 classroom RBCPHI nc {'var': 0.8}: 0.3s
+  d1 lab USADFIX raw {'latent': 8}: 3.5s
+  d1 lab USADFIX nc {'latent': 8}: 3.9s
+  d1 lab USADFIX raw {'latent': 16}: 4.0s
+  d1 lab USADFIX nc {'latent': 16}: 4.1s
+  d1 lab GDN raw {'embed': 16}: 1.9s
+  d1 lab GDN nc {'embed': 16}: 1.8s
+  d1 lab GDN raw {'embed': 32}: 1.9s
+  d1 lab GDN nc {'embed': 32}: 1.9s
+  d1 lab LAPRPCA raw {'c': 0.5, 'gamma': 0.1}: 0.2s
+  d1 lab LAPRPCA nc {'c': 0.5, 'gamma': 0.1}: 0.2s
+  d1 lab LAPRPCA raw {'c': 0.5, 'gamma': 1.0}: 0.2s
+  d1 lab LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 0.2s
+  d1 lab LAPRPCA raw {'c': 1.0, 'gamma': 0.1}: 0.2s
+  d1 lab LAPRPCA nc {'c': 1.0, 'gamma': 0.1}: 0.2s
+  d1 lab LAPRPCA raw {'c': 1.0, 'gamma': 1.0}: 0.2s
+  d1 lab LAPRPCA nc {'c': 1.0, 'gamma': 1.0}: 0.2s
+  d1 lab RBCPHI nc {'var': 0.8}: 0.2s
+  d1 hallway USADFIX raw {'latent': 8}: 4.8s
+  d1 hallway USADFIX nc {'latent': 8}: 5.2s
+  d1 hallway USADFIX raw {'latent': 16}: 5.4s
+  d1 hallway USADFIX nc {'latent': 16}: 4.9s
+  d1 hallway GDN raw {'embed': 16}: 2.2s
+  d1 hallway GDN nc {'embed': 16}: 2.4s
+  d1 hallway GDN raw {'embed': 32}: 2.5s
+  d1 hallway GDN nc {'embed': 32}: 2.4s
+  d1 hallway LAPRPCA raw {'c': 0.5, 'gamma': 0.1}: 0.3s
+  d1 hallway LAPRPCA nc {'c': 0.5, 'gamma': 0.1}: 0.3s
+  d1 hallway LAPRPCA raw {'c': 0.5, 'gamma': 1.0}: 0.3s
+  d1 hallway LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 0.3s
+  d1 hallway LAPRPCA raw {'c': 1.0, 'gamma': 0.1}: 0.3s
+  d1 hallway LAPRPCA nc {'c': 1.0, 'gamma': 0.1}: 0.3s
+  d1 hallway LAPRPCA raw {'c': 1.0, 'gamma': 1.0}: 0.3s
+  d1 hallway LAPRPCA nc {'c': 1.0, 'gamma': 1.0}: 0.3s
+  d1 hallway RBCPHI nc {'var': 0.8}: 0.3s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 USADFIX raw {'latent': 8}: 5.5s
+  d2 env0 USADFIX nc {'latent': 8}: 5.4s
+  d2 env0 USADFIX raw {'latent': 16}: 5.4s
+  d2 env0 USADFIX nc {'latent': 16}: 5.4s
+  d2 env0 GDN raw {'embed': 16}: 3.1s
+  d2 env0 GDN nc {'embed': 16}: 3.5s
+  d2 env0 GDN raw {'embed': 32}: 3.8s
+  d2 env0 GDN nc {'embed': 32}: 3.8s
+  d2 env0 LAPRPCA raw {'c': 0.5, 'gamma': 0.1}: 2.0s
+  d2 env0 LAPRPCA nc {'c': 0.5, 'gamma': 0.1}: 2.2s
+  d2 env0 LAPRPCA raw {'c': 0.5, 'gamma': 1.0}: 1.9s
+  d2 env0 LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 1.8s
+  d2 env0 LAPRPCA raw {'c': 1.0, 'gamma': 0.1}: 1.9s
+  d2 env0 LAPRPCA nc {'c': 1.0, 'gamma': 0.1}: 1.7s
+  d2 env0 LAPRPCA raw {'c': 1.0, 'gamma': 1.0}: 1.9s
+  d2 env0 LAPRPCA nc {'c': 1.0, 'gamma': 1.0}: 1.9s
+  d2 env0 RBCPHI nc {'var': 0.8}: 1.8s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 USADFIX raw {'latent': 8}: 4.4s
+  d2 env1 USADFIX nc {'latent': 8}: 4.0s
+  d2 env1 USADFIX raw {'latent': 16}: 3.6s
+  d2 env1 USADFIX nc {'latent': 16}: 3.5s
+  d2 env1 GDN raw {'embed': 16}: 2.6s
+  d2 env1 GDN nc {'embed': 16}: 2.7s
+  d2 env1 GDN raw {'embed': 32}: 2.5s
+  d2 env1 GDN nc {'embed': 32}: 2.5s
+  d2 env1 LAPRPCA raw {'c': 0.5, 'gamma': 0.1}: 1.6s
+  d2 env1 LAPRPCA nc {'c': 0.5, 'gamma': 0.1}: 1.6s
+  d2 env1 LAPRPCA raw {'c': 0.5, 'gamma': 1.0}: 1.5s
+  d2 env1 LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 1.6s
+  d2 env1 LAPRPCA raw {'c': 1.0, 'gamma': 0.1}: 1.5s
+  d2 env1 LAPRPCA nc {'c': 1.0, 'gamma': 0.1}: 1.5s
+  d2 env1 LAPRPCA raw {'c': 1.0, 'gamma': 1.0}: 1.5s
+  d2 env1 LAPRPCA nc {'c': 1.0, 'gamma': 1.0}: 1.7s
+  d2 env1 RBCPHI nc {'var': 0.8}: 1.6s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 USADFIX raw {'latent': 8}: 4.9s
+  d2 env2 USADFIX nc {'latent': 8}: 5.1s
+  d2 env2 USADFIX raw {'latent': 16}: 5.2s
+  d2 env2 USADFIX nc {'latent': 16}: 5.6s
+  d2 env2 GDN raw {'embed': 16}: 3.6s
+  d2 env2 GDN nc {'embed': 16}: 3.4s
+  d2 env2 GDN raw {'embed': 32}: 4.1s
+  d2 env2 GDN nc {'embed': 32}: 3.9s
+  d2 env2 LAPRPCA raw {'c': 0.5, 'gamma': 0.1}: 1.8s
+  d2 env2 LAPRPCA nc {'c': 0.5, 'gamma': 0.1}: 2.2s
+  d2 env2 LAPRPCA raw {'c': 0.5, 'gamma': 1.0}: 1.8s
+  d2 env2 LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 1.9s
+  d2 env2 LAPRPCA raw {'c': 1.0, 'gamma': 0.1}: 1.8s
+  d2 env2 LAPRPCA nc {'c': 1.0, 'gamma': 0.1}: 1.7s
+  d2 env2 LAPRPCA raw {'c': 1.0, 'gamma': 1.0}: 2.1s
+  d2 env2 LAPRPCA nc {'c': 1.0, 'gamma': 1.0}: 1.9s
+  d2 env2 RBCPHI nc {'var': 0.8}: 1.8s
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 USADFIX raw {'latent': 8}: 3.7s
+  d2 env3 USADFIX nc {'latent': 8}: 4.6s
+  d2 env3 USADFIX raw {'latent': 16}: 4.2s
+  d2 env3 USADFIX nc {'latent': 16}: 3.9s
+  d2 env3 GDN raw {'embed': 16}: 2.7s
+  d2 env3 GDN nc {'embed': 16}: 2.6s
+  d2 env3 GDN raw {'embed': 32}: 3.0s
+  d2 env3 GDN nc {'embed': 32}: 2.3s
+  d2 env3 LAPRPCA raw {'c': 0.5, 'gamma': 0.1}: 1.5s
+  d2 env3 LAPRPCA nc {'c': 0.5, 'gamma': 0.1}: 1.8s
+  d2 env3 LAPRPCA raw {'c': 0.5, 'gamma': 1.0}: 1.6s
+  d2 env3 LAPRPCA nc {'c': 0.5, 'gamma': 1.0}: 1.6s
+  d2 env3 LAPRPCA raw {'c': 1.0, 'gamma': 0.1}: 1.4s
+  d2 env3 LAPRPCA nc {'c': 1.0, 'gamma': 0.1}: 1.4s
+  d2 env3 LAPRPCA raw {'c': 1.0, 'gamma': 1.0}: 1.5s
+  d2 env3 LAPRPCA nc {'c': 1.0, 'gamma': 1.0}: 1.6s
+  d2 env3 RBCPHI nc {'var': 0.8}: 1.6s
+{
+ "GDN": {
+  "d1": {
+   "variant": "nc",
+   "cfg": {
+    "embed": 32
+   },
+   "val_auc_pr": 0.9654659203243031
+  },
+  "d2": {
+   "variant": "nc",
+   "cfg": {
+    "embed": 16
+   },
+   "val_auc_pr": 0.8930246409585706
+  }
+ },
+ "LAPRPCA": {
+  "d1": {
+   "variant": "nc",
+   "cfg": {
+    "c": 1.0,
+    "gamma": 0.1
+   },
+   "val_auc_pr": 0.945826711548232
+  },
+  "d2": {
+   "variant": "nc",
+   "cfg": {
+    "c": 0.5,
+    "gamma": 1.0
+   },
+   "val_auc_pr": 0.5230198545757733
+  }
+ },
+ "RBCPHI": {
+  "d1": {
+   "variant": "nc",
+   "cfg": {
+    "var": 0.8
+   },
+   "val_auc_pr": 0.9643445039918354
+  },
+  "d2": {
+   "variant": "nc",
+   "cfg": {
+    "var": 0.8
+   },
+   "val_auc_pr": 0.3804272941544814
+  }
+ },
+ "USADFIX": {
+  "d1": {
+   "variant": "nc",
+   "cfg": {
+    "latent": 16
+   },
+   "val_auc_pr": 0.438466334504541
+  },
+  "d2": {
+   "variant": "raw",
+   "cfg": {
+    "latent": 16
+   },
+   "val_auc_pr": 0.1786700530460151
+  }
+ }
+}

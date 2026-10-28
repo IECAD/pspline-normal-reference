@@ -1,0 +1,94 @@
+{
+ "rule": "doc/실험6_계획.md 2절",
+ "tol": {
+  "d1": 0.0165,
+  "d2": 0.0171
+ },
+ "families": [
+  {
+   "family": "C",
+   "any_beats": true,
+   "all_noninferior": true,
+   "conditional_claim": true,
+   "winning_levels": [
+    "r=0.7"
+   ]
+  },
+  {
+   "family": "D",
+   "any_beats": true,
+   "all_noninferior": true,
+   "conditional_claim": true,
+   "winning_levels": [
+    "pi=0.7,L=4"
+   ]
+  }
+ ],
+ "switch_default_to_PS": true,
+ "levels": [
+  {
+   "family": "C",
+   "level": "r=0.3",
+   "d1_delta": 0.01006,
+   "d2_delta": 0.00087,
+   "beats": false,
+   "noninferior": true
+  },
+  {
+   "family": "C",
+   "level": "r=0.5",
+   "d1_delta": 0.01258,
+   "d2_delta": 0.00014,
+   "beats": false,
+   "noninferior": true
+  },
+  {
+   "family": "C",
+   "level": "r=0.7",
+   "d1_delta": 0.01888,
+   "d2_delta": -0.00641,
+   "beats": true,
+   "noninferior": true
+  },
+  {
+   "family": "D",
+   "level": "pi=0.3,L=4",
+   "d1_delta": 0.012,
+   "d2_delta": 0.00031,
+   "beats": false,
+   "noninferior": true
+  },
+  {
+   "family": "D",
+   "level": "pi=0.5,L=4",
+   "d1_delta": 0.01403,
+   "d2_delta": -0.00039,
+   "beats": false,
+   "noninferior": true
+  },
+  {
+   "family": "D",
+   "level": "pi=0.5,L=8",
+   "d1_delta": 0.0161,
+   "d2_delta": -6e-05,
+   "beats": false,
+   "noninferior": true
+  },
+  {
+   "family": "D",
+   "level": "pi=0.7,L=4",
+   "d1_delta": 0.02153,
+   "d2_delta": -0.00152,
+   "beats": true,
+   "noninferior": true
+  },
+  {
+   "family": "base",
+   "level": "기준",
+   "d1_delta": 0.00664,
+   "d2_delta": 0.00038,
+   "beats": false,
+   "noninferior": true
+  }
+ ]
+}

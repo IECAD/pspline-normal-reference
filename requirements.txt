@@ -1,0 +1,10 @@
+# Versions used for the paper (Python 3.10.11, Windows 11)
+numpy==2.2.6
+pandas==2.3.1
+scipy==1.15.3
+scikit-learn==1.7.2
+torch==2.10.0          # CUDA 12.6 build was used; CPU also runs
+PyYAML==6.0.3
+pyarrow==21.0.0
+matplotlib==3.10.6
+openpyxl==3.1.5

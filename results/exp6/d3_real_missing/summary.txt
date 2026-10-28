@@ -1,0 +1,20 @@
+[TDoA_Random grid 0.5 m] 평균 AUC-PR: cell 0.250, cellfill 0.250, cellinterp 0.250, PS 0.265, const 0.278
+    PS − cell: +0.0154 (양수 0.77, n 30) → 대등
+    PS − cellfill: +0.0152 (양수 0.77, n 30) → 대등
+    PS − cellinterp: +0.0151 (양수 0.77, n 30) → 대등
+    PS − const: -0.0127 (양수 0.10, n 30) → 대등
+[TDoA_Random grid 1.0 m] 평균 AUC-PR: cell 0.152, cellfill 0.152, cellinterp 0.152, PS 0.152, const 0.156
+    PS − cell: -0.0002 (양수 0.53, n 30) → 대등
+    PS − cellfill: +0.0001 (양수 0.47, n 30) → 대등
+    PS − cellinterp: -0.0003 (양수 0.43, n 30) → 대등
+    PS − const: -0.0039 (양수 0.03, n 30) → 대등
+[TDoA_Tour grid 0.5 m] 평균 AUC-PR: cell 0.295, cellfill 0.295, cellinterp 0.295, PS 0.325, const 0.323
+    PS − cell: +0.0297 (양수 1.00, n 30) → 이김
+    PS − cellfill: +0.0297 (양수 1.00, n 30) → 이김
+    PS − cellinterp: +0.0297 (양수 1.00, n 30) → 이김
+    PS − const: +0.0016 (양수 0.50, n 30) → 대등
+[TDoA_Tour grid 1.0 m] 평균 AUC-PR: cell 0.233, cellfill 0.233, cellinterp 0.233, PS 0.238, const 0.238
+    PS − cell: +0.0049 (양수 0.90, n 30) → 대등
+    PS − cellfill: +0.0049 (양수 0.90, n 30) → 대등
+    PS − cellinterp: +0.0049 (양수 0.90, n 30) → 대등
+    PS − const: -0.0003 (양수 0.27, n 30) → 대등

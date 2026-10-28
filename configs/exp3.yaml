@@ -1,0 +1,106 @@
+# 실험 3: 합성 방식 ablation (doc/합성방식_실험계획_최종.md). 결과: results/<ID>/
+model:
+  K_t: 8                 # 시간 방향 cubic B-spline 기저 수 (T=12). 실험 3 동안 고정 (adaptive 격자는 실험 4)
+  diff_order: 2
+  sap: true              # λ_s, λ_t 를 SAP(REML)로 노드마다 추정
+  threshold_pct: 97.5
+  eps: 1.0e-6
+
+ids:                     # 계획 4절. O 가 '-' 이면 순서 무관 (T4)
+  B0:  {V: V3, S: S1, O: O2, T: T2}
+  E01: {V: V1, S: S1, O: O2, T: T2}
+  E02: {V: V2, S: S1, O: O2, T: T2}
+  E03: {V: V4, S: S1, O: O2, T: T2}
+  E04: {V: V5, S: S1, O: O2, T: T2}
+  E05: {V: V3, S: S0, O: O2, T: T2}
+  E06: {V: V3, S: S2, O: O2, T: T2}
+  E07: {V: V3, S: S3, O: O2, T: T2}
+  E08: {V: V3, S: S4, O: O2, T: T2}
+  E09: {V: V3, S: S1, O: O1, T: T2}
+  E10: {V: V3, S: S1, O: O3, T: T2}
+  E11: {V: V3, S: S1, O: O4, T: T2}
+  E12: {V: V3, S: S1, O: O2, T: T1}
+  E13: {V: V3, S: S1, O: O2, T: T3}
+  E14: {V: V3, S: S1, O: '-', T: T4}
+  E15: {V: V3, S: S1, O: O1, T: T1}
+  E16: {V: V3, S: S1, O: O2, T: T1}
+  E17: {V: V3, S: S1, O: O3, T: T1}
+  E18: {V: V3, S: S0, O: O2, T: T1}
+  # 4단계 (2026-10-09, experiments/exp3_summarize.py 선택 결과 results/exp3/selection.json, 허용오차 사슬)
+  #   ①축은 D2 다지표 주입 검증, ②③④축은 D1 검증. D1 은 RX−FP 가 없어 V5 대신 V1 (V5 에서 RX−FP 를 뺀 것)
+  F01: {V: V5, V_d1: V1, S: S1, O: O1, T: T4}
+  F02: {V: V1, S: S2, O: O2, T: T2}
+
+random_order_seeds: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]   # O3 (계획 7절)
+
+datasets:
+  d1:
+    spaces:              # 정상 파일 (단계 1: Lab 정상 = 고정 기구 상태)
+      classroom: {normal: los, real: [nlos_static, nlos_dynamic]}
+      lab: {normal: cad_static_NLOS, real: [cad_dynamic_NLOS]}
+      hallway: {normal: hallway_los, real: [hallway_dynamic_NLOS]}
+    real_label: lab_A2   # 실제 NLOS 파일의 보조 평가 라벨 (A' 판정). lab_A 도 함께 기록
+    level: time
+    injection_seeds: {val: [142, 143, 144, 145, 146], test: [42, 43, 44, 45, 46]}
+    scenarios:           # 계획 5.2절. 크기·지속 근거: analysis/out/data_report.md 5.4절 (1 스텝 = 160 ms)
+      SC1:
+        p_event: 0.5
+        n_anchors: 1
+        extra_noise_sd_m: 0.05
+        types:
+          spike:      {prob: 0.6, magnitude_m: [0.3, 0.8], duration_steps: [3, 12]}
+          persistent: {prob: 0.4, magnitude_m: [0.8, 1.6], duration_steps: [12, 12]}
+      SC2:
+        p_event: 0.5
+        n_anchors: 2
+        extra_noise_sd_m: 0.05
+        types:
+          spike:      {prob: 0.6, magnitude_m: [0.3, 0.8], duration_steps: [3, 12]}
+          persistent: {prob: 0.4, magnitude_m: [0.8, 1.6], duration_steps: [12, 12]}
+      SC3:               # 윈도우의 20% 이하 (T=12 -> 1-2 스텝)
+        p_event: 0.5
+        n_anchors: 1
+        extra_noise_sd_m: 0.05
+        types:
+          short: {prob: 1.0, magnitude_m: [0.3, 1.6], duration_steps: [1, 2]}
+  d2:
+    envs: [0, 1, 2, 3]
+    channel_name: ch5_path
+    level: cell          # 거의 모든 시점에 NLOS 앵커가 있어 time 단위가 퇴화 -> 앵커×시점 셀
+    # 노드별 라벨 마스크 학습은 누수 (analysis/out/41_check_d2_leakage.txt). 평가 = LOS 셀 주입.
+    # 위치 홀드아웃은 이웃 라벨 누수(이웃 라벨만으로 AUC-PR 0.98-1.00)라 실험 3 에서 제외 (사용자 결정 2026-10-09)
+    holdout: false
+    multi_metric: true   # SC1m-SC3m: 실제 NLOS 서명(거리·RSS·RSS_FP 묶음, D2 학습 몫)으로 주입. ①축 판정에 사용
+    injection_seeds: {val: [142, 143, 144, 145, 146], test: [42, 43, 44, 45, 46]}
+    scenarios:           # D1 과 같은 물리 파라미터 (RANGE 행에 주입, 윈도우 전체가 LOS 인 앵커만)
+      SC1:
+        p_event: 0.5
+        n_anchors: 1
+        extra_noise_sd_m: 0.05
+        types:
+          spike:      {prob: 0.6, magnitude_m: [0.3, 0.8], duration_steps: [3, 12]}
+          persistent: {prob: 0.4, magnitude_m: [0.8, 1.6], duration_steps: [12, 12]}
+      SC2:
+        p_event: 0.5
+        n_anchors: 2
+        extra_noise_sd_m: 0.05
+        types:
+          spike:      {prob: 0.6, magnitude_m: [0.3, 0.8], duration_steps: [3, 12]}
+          persistent: {prob: 0.4, magnitude_m: [0.8, 1.6], duration_steps: [12, 12]}
+      SC3:
+        p_event: 0.5
+        n_anchors: 1
+        extra_noise_sd_m: 0.05
+        types:
+          short: {prob: 1.0, magnitude_m: [0.3, 1.6], duration_steps: [1, 2]}
+  d4:
+    datasets: [smd, asd]
+    level: time
+    axes: [S, O, T]      # ①축 제외 (계획 5.1절). T3 불가 (앵커×지표 구조 없음)
+
+selection:               # 계획 6절. 검증 세트만 사용
+  metric: auc_pr
+  primary_dataset: d1    # D1 검증 AUC-PR (공간 3 × 시나리오 3 × 시드 5 평균). D2 는 함께 보고
+  tie_chain: tolerance   # 동률 해석: AUC, HitRate, Smearing 모두 허용오차 안이면 동률 -> 단순함 (사용자 결정 2026-10-09)
+  axis_source:           # ①축은 D2 다지표 주입 검증 AUC-PR 로 판정 (D1 주입은 거리만이라 V1 에 유리, 사용자 결정 2026-10-09)
+    V: {dataset: d2, scenario_suffix: m}

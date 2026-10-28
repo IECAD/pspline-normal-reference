@@ -1,0 +1,298 @@
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 base|기준 s=None CG OLS {'alpha': 100.0} nc: 1.8s
+  d2 env0 base|기준 s=None CF OLS {'alpha': 100.0} nc: 1.8s
+  d2 env0 base|기준 s=None CI OLS {'alpha': 100.0} nc: 1.9s
+  d2 env0 base|기준 s=None PS OLS {'alpha': 100.0} nc: 2.3s
+  d2 env0 base|기준 s=None CG GDN {'embed': 16} nc: 6.8s
+  d2 env0 base|기준 s=None CF GDN {'embed': 16} nc: 3.6s
+  d2 env0 base|기준 s=None CI GDN {'embed': 16} nc: 3.5s
+  d2 env0 base|기준 s=None PS GDN {'embed': 16} nc: 3.9s
+  d2 env0 base|기준 s=None CG CAE2D {'channels': 8} nc: 3.0s
+  d2 env0 base|기준 s=None CF CAE2D {'channels': 8} nc: 3.1s
+  d2 env0 base|기준 s=None CI CAE2D {'channels': 8} nc: 2.8s
+  d2 env0 base|기준 s=None PS CAE2D {'channels': 8} nc: 2.8s
+  d2 env0 base|기준 s=None CG TRANAD {'d_model': 32} nc: 13.3s
+  d2 env0 base|기준 s=None CF TRANAD {'d_model': 32} nc: 12.8s
+  d2 env0 base|기준 s=None CI TRANAD {'d_model': 32} nc: 12.6s
+  d2 env0 base|기준 s=None PS TRANAD {'d_model': 32} nc: 13.2s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 C|0.7 s=0 CG OLS {'alpha': 100.0} nc: 2.1s
+  d2 env0 C|0.7 s=0 CF OLS {'alpha': 100.0} nc: 2.0s
+  d2 env0 C|0.7 s=0 CI OLS {'alpha': 100.0} nc: 1.9s
+  d2 env0 C|0.7 s=0 PS OLS {'alpha': 100.0} nc: 2.0s
+  d2 env0 C|0.7 s=0 CG GDN {'embed': 16} nc: 3.7s
+  d2 env0 C|0.7 s=0 CF GDN {'embed': 16} nc: 3.5s
+  d2 env0 C|0.7 s=0 CI GDN {'embed': 16} nc: 3.5s
+  d2 env0 C|0.7 s=0 PS GDN {'embed': 16} nc: 3.6s
+  d2 env0 C|0.7 s=0 CG CAE2D {'channels': 8} nc: 2.9s
+  d2 env0 C|0.7 s=0 CF CAE2D {'channels': 8} nc: 2.9s
+  d2 env0 C|0.7 s=0 CI CAE2D {'channels': 8} nc: 2.9s
+  d2 env0 C|0.7 s=0 PS CAE2D {'channels': 8} nc: 3.0s
+  d2 env0 C|0.7 s=0 CG TRANAD {'d_model': 32} nc: 13.1s
+  d2 env0 C|0.7 s=0 CF TRANAD {'d_model': 32} nc: 13.0s
+  d2 env0 C|0.7 s=0 CI TRANAD {'d_model': 32} nc: 13.0s
+  d2 env0 C|0.7 s=0 PS TRANAD {'d_model': 32} nc: 12.6s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 C|0.7 s=1 CG OLS {'alpha': 100.0} nc: 2.1s
+  d2 env0 C|0.7 s=1 CF OLS {'alpha': 100.0} nc: 1.9s
+  d2 env0 C|0.7 s=1 CI OLS {'alpha': 100.0} nc: 1.9s
+  d2 env0 C|0.7 s=1 PS OLS {'alpha': 100.0} nc: 1.8s
+  d2 env0 C|0.7 s=1 CG GDN {'embed': 16} nc: 3.9s
+  d2 env0 C|0.7 s=1 CF GDN {'embed': 16} nc: 3.6s
+  d2 env0 C|0.7 s=1 CI GDN {'embed': 16} nc: 3.6s
+  d2 env0 C|0.7 s=1 PS GDN {'embed': 16} nc: 3.6s
+  d2 env0 C|0.7 s=1 CG CAE2D {'channels': 8} nc: 2.8s
+  d2 env0 C|0.7 s=1 CF CAE2D {'channels': 8} nc: 2.7s
+  d2 env0 C|0.7 s=1 CI CAE2D {'channels': 8} nc: 2.9s
+  d2 env0 C|0.7 s=1 PS CAE2D {'channels': 8} nc: 2.9s
+  d2 env0 C|0.7 s=1 CG TRANAD {'d_model': 32} nc: 12.7s
+  d2 env0 C|0.7 s=1 CF TRANAD {'d_model': 32} nc: 11.6s
+  d2 env0 C|0.7 s=1 CI TRANAD {'d_model': 32} nc: 12.6s
+  d2 env0 C|0.7 s=1 PS TRANAD {'d_model': 32} nc: 12.4s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 C|0.7 s=2 CG OLS {'alpha': 100.0} nc: 1.9s
+  d2 env0 C|0.7 s=2 CF OLS {'alpha': 100.0} nc: 2.0s
+  d2 env0 C|0.7 s=2 CI OLS {'alpha': 100.0} nc: 2.1s
+  d2 env0 C|0.7 s=2 PS OLS {'alpha': 100.0} nc: 1.7s
+  d2 env0 C|0.7 s=2 CG GDN {'embed': 16} nc: 3.5s
+  d2 env0 C|0.7 s=2 CF GDN {'embed': 16} nc: 3.8s
+  d2 env0 C|0.7 s=2 CI GDN {'embed': 16} nc: 3.4s
+  d2 env0 C|0.7 s=2 PS GDN {'embed': 16} nc: 3.5s
+  d2 env0 C|0.7 s=2 CG CAE2D {'channels': 8} nc: 2.9s
+  d2 env0 C|0.7 s=2 CF CAE2D {'channels': 8} nc: 2.8s
+  d2 env0 C|0.7 s=2 CI CAE2D {'channels': 8} nc: 2.7s
+  d2 env0 C|0.7 s=2 PS CAE2D {'channels': 8} nc: 3.0s
+  d2 env0 C|0.7 s=2 CG TRANAD {'d_model': 32} nc: 12.9s
+  d2 env0 C|0.7 s=2 CF TRANAD {'d_model': 32} nc: 12.8s
+  d2 env0 C|0.7 s=2 CI TRANAD {'d_model': 32} nc: 12.3s
+  d2 env0 C|0.7 s=2 PS TRANAD {'d_model': 32} nc: 12.3s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 base|기준 s=None CG OLS {'alpha': 100.0} nc: 1.6s
+  d2 env1 base|기준 s=None CF OLS {'alpha': 100.0} nc: 1.7s
+  d2 env1 base|기준 s=None CI OLS {'alpha': 100.0} nc: 1.7s
+  d2 env1 base|기준 s=None PS OLS {'alpha': 100.0} nc: 1.6s
+  d2 env1 base|기준 s=None CG GDN {'embed': 16} nc: 2.6s
+  d2 env1 base|기준 s=None CF GDN {'embed': 16} nc: 2.8s
+  d2 env1 base|기준 s=None CI GDN {'embed': 16} nc: 3.1s
+  d2 env1 base|기준 s=None PS GDN {'embed': 16} nc: 2.9s
+  d2 env1 base|기준 s=None CG CAE2D {'channels': 8} nc: 2.3s
+  d2 env1 base|기준 s=None CF CAE2D {'channels': 8} nc: 2.3s
+  d2 env1 base|기준 s=None CI CAE2D {'channels': 8} nc: 2.4s
+  d2 env1 base|기준 s=None PS CAE2D {'channels': 8} nc: 2.2s
+  d2 env1 base|기준 s=None CG TRANAD {'d_model': 32} nc: 9.2s
+  d2 env1 base|기준 s=None CF TRANAD {'d_model': 32} nc: 8.2s
+  d2 env1 base|기준 s=None CI TRANAD {'d_model': 32} nc: 8.4s
+  d2 env1 base|기준 s=None PS TRANAD {'d_model': 32} nc: 8.9s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 C|0.7 s=0 CG OLS {'alpha': 100.0} nc: 1.8s
+  d2 env1 C|0.7 s=0 CF OLS {'alpha': 100.0} nc: 1.8s
+  d2 env1 C|0.7 s=0 CI OLS {'alpha': 100.0} nc: 1.6s
+  d2 env1 C|0.7 s=0 PS OLS {'alpha': 100.0} nc: 1.6s
+  d2 env1 C|0.7 s=0 CG GDN {'embed': 16} nc: 2.8s
+  d2 env1 C|0.7 s=0 CF GDN {'embed': 16} nc: 2.9s
+  d2 env1 C|0.7 s=0 CI GDN {'embed': 16} nc: 2.7s
+  d2 env1 C|0.7 s=0 PS GDN {'embed': 16} nc: 2.9s
+  d2 env1 C|0.7 s=0 CG CAE2D {'channels': 8} nc: 2.4s
+  d2 env1 C|0.7 s=0 CF CAE2D {'channels': 8} nc: 2.3s
+  d2 env1 C|0.7 s=0 CI CAE2D {'channels': 8} nc: 2.2s
+  d2 env1 C|0.7 s=0 PS CAE2D {'channels': 8} nc: 2.2s
+  d2 env1 C|0.7 s=0 CG TRANAD {'d_model': 32} nc: 8.4s
+  d2 env1 C|0.7 s=0 CF TRANAD {'d_model': 32} nc: 8.4s
+  d2 env1 C|0.7 s=0 CI TRANAD {'d_model': 32} nc: 8.8s
+  d2 env1 C|0.7 s=0 PS TRANAD {'d_model': 32} nc: 9.4s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 C|0.7 s=1 CG OLS {'alpha': 100.0} nc: 1.9s
+  d2 env1 C|0.7 s=1 CF OLS {'alpha': 100.0} nc: 1.8s
+  d2 env1 C|0.7 s=1 CI OLS {'alpha': 100.0} nc: 1.6s
+  d2 env1 C|0.7 s=1 PS OLS {'alpha': 100.0} nc: 1.7s
+  d2 env1 C|0.7 s=1 CG GDN {'embed': 16} nc: 3.0s
+  d2 env1 C|0.7 s=1 CF GDN {'embed': 16} nc: 2.8s
+  d2 env1 C|0.7 s=1 CI GDN {'embed': 16} nc: 2.7s
+  d2 env1 C|0.7 s=1 PS GDN {'embed': 16} nc: 2.9s
+  d2 env1 C|0.7 s=1 CG CAE2D {'channels': 8} nc: 2.3s
+  d2 env1 C|0.7 s=1 CF CAE2D {'channels': 8} nc: 2.2s
+  d2 env1 C|0.7 s=1 CI CAE2D {'channels': 8} nc: 2.2s
+  d2 env1 C|0.7 s=1 PS CAE2D {'channels': 8} nc: 2.3s
+  d2 env1 C|0.7 s=1 CG TRANAD {'d_model': 32} nc: 8.6s
+  d2 env1 C|0.7 s=1 CF TRANAD {'d_model': 32} nc: 9.0s
+  d2 env1 C|0.7 s=1 CI TRANAD {'d_model': 32} nc: 9.0s
+  d2 env1 C|0.7 s=1 PS TRANAD {'d_model': 32} nc: 8.7s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 C|0.7 s=2 CG OLS {'alpha': 100.0} nc: 1.6s
+  d2 env1 C|0.7 s=2 CF OLS {'alpha': 100.0} nc: 1.8s
+  d2 env1 C|0.7 s=2 CI OLS {'alpha': 100.0} nc: 1.7s
+  d2 env1 C|0.7 s=2 PS OLS {'alpha': 100.0} nc: 1.6s
+  d2 env1 C|0.7 s=2 CG GDN {'embed': 16} nc: 2.6s
+  d2 env1 C|0.7 s=2 CF GDN {'embed': 16} nc: 2.8s
+  d2 env1 C|0.7 s=2 CI GDN {'embed': 16} nc: 2.8s
+  d2 env1 C|0.7 s=2 PS GDN {'embed': 16} nc: 2.6s
+  d2 env1 C|0.7 s=2 CG CAE2D {'channels': 8} nc: 2.3s
+  d2 env1 C|0.7 s=2 CF CAE2D {'channels': 8} nc: 2.2s
+  d2 env1 C|0.7 s=2 CI CAE2D {'channels': 8} nc: 2.3s
+  d2 env1 C|0.7 s=2 PS CAE2D {'channels': 8} nc: 2.4s
+  d2 env1 C|0.7 s=2 CG TRANAD {'d_model': 32} nc: 9.0s
+  d2 env1 C|0.7 s=2 CF TRANAD {'d_model': 32} nc: 8.5s
+  d2 env1 C|0.7 s=2 CI TRANAD {'d_model': 32} nc: 9.3s
+  d2 env1 C|0.7 s=2 PS TRANAD {'d_model': 32} nc: 8.5s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 base|기준 s=None CG OLS {'alpha': 100.0} nc: 1.9s
+  d2 env2 base|기준 s=None CF OLS {'alpha': 100.0} nc: 2.0s
+  d2 env2 base|기준 s=None CI OLS {'alpha': 100.0} nc: 1.8s
+  d2 env2 base|기준 s=None PS OLS {'alpha': 100.0} nc: 1.9s
+  d2 env2 base|기준 s=None CG GDN {'embed': 16} nc: 3.8s
+  d2 env2 base|기준 s=None CF GDN {'embed': 16} nc: 3.7s
+  d2 env2 base|기준 s=None CI GDN {'embed': 16} nc: 3.6s
+  d2 env2 base|기준 s=None PS GDN {'embed': 16} nc: 3.6s
+  d2 env2 base|기준 s=None CG CAE2D {'channels': 8} nc: 2.7s
+  d2 env2 base|기준 s=None CF CAE2D {'channels': 8} nc: 2.9s
+  d2 env2 base|기준 s=None CI CAE2D {'channels': 8} nc: 3.2s
+  d2 env2 base|기준 s=None PS CAE2D {'channels': 8} nc: 2.8s
+  d2 env2 base|기준 s=None CG TRANAD {'d_model': 32} nc: 13.0s
+  d2 env2 base|기준 s=None CF TRANAD {'d_model': 32} nc: 12.0s
+  d2 env2 base|기준 s=None CI TRANAD {'d_model': 32} nc: 12.1s
+  d2 env2 base|기준 s=None PS TRANAD {'d_model': 32} nc: 12.9s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 C|0.7 s=0 CG OLS {'alpha': 100.0} nc: 2.0s
+  d2 env2 C|0.7 s=0 CF OLS {'alpha': 100.0} nc: 1.9s
+  d2 env2 C|0.7 s=0 CI OLS {'alpha': 100.0} nc: 1.8s
+  d2 env2 C|0.7 s=0 PS OLS {'alpha': 100.0} nc: 1.9s
+  d2 env2 C|0.7 s=0 CG GDN {'embed': 16} nc: 3.5s
+  d2 env2 C|0.7 s=0 CF GDN {'embed': 16} nc: 3.7s
+  d2 env2 C|0.7 s=0 CI GDN {'embed': 16} nc: 3.5s
+  d2 env2 C|0.7 s=0 PS GDN {'embed': 16} nc: 3.3s
+  d2 env2 C|0.7 s=0 CG CAE2D {'channels': 8} nc: 2.6s
+  d2 env2 C|0.7 s=0 CF CAE2D {'channels': 8} nc: 2.5s
+  d2 env2 C|0.7 s=0 CI CAE2D {'channels': 8} nc: 2.7s
+  d2 env2 C|0.7 s=0 PS CAE2D {'channels': 8} nc: 2.7s
+  d2 env2 C|0.7 s=0 CG TRANAD {'d_model': 32} nc: 10.8s
+  d2 env2 C|0.7 s=0 CF TRANAD {'d_model': 32} nc: 10.6s
+  d2 env2 C|0.7 s=0 CI TRANAD {'d_model': 32} nc: 11.4s
+  d2 env2 C|0.7 s=0 PS TRANAD {'d_model': 32} nc: 11.2s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 C|0.7 s=1 CG OLS {'alpha': 100.0} nc: 1.9s
+  d2 env2 C|0.7 s=1 CF OLS {'alpha': 100.0} nc: 1.7s
+  d2 env2 C|0.7 s=1 CI OLS {'alpha': 100.0} nc: 1.8s
+  d2 env2 C|0.7 s=1 PS OLS {'alpha': 100.0} nc: 2.1s
+  d2 env2 C|0.7 s=1 CG GDN {'embed': 16} nc: 3.5s
+  d2 env2 C|0.7 s=1 CF GDN {'embed': 16} nc: 3.4s
+  d2 env2 C|0.7 s=1 CI GDN {'embed': 16} nc: 3.2s
+  d2 env2 C|0.7 s=1 PS GDN {'embed': 16} nc: 3.4s
+  d2 env2 C|0.7 s=1 CG CAE2D {'channels': 8} nc: 2.7s
+  d2 env2 C|0.7 s=1 CF CAE2D {'channels': 8} nc: 2.9s
+  d2 env2 C|0.7 s=1 CI CAE2D {'channels': 8} nc: 2.9s
+  d2 env2 C|0.7 s=1 PS CAE2D {'channels': 8} nc: 2.9s
+  d2 env2 C|0.7 s=1 CG TRANAD {'d_model': 32} nc: 10.7s
+  d2 env2 C|0.7 s=1 CF TRANAD {'d_model': 32} nc: 11.2s
+  d2 env2 C|0.7 s=1 CI TRANAD {'d_model': 32} nc: 10.6s
+  d2 env2 C|0.7 s=1 PS TRANAD {'d_model': 32} nc: 11.1s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 C|0.7 s=2 CG OLS {'alpha': 100.0} nc: 1.9s
+  d2 env2 C|0.7 s=2 CF OLS {'alpha': 100.0} nc: 1.9s
+  d2 env2 C|0.7 s=2 CI OLS {'alpha': 100.0} nc: 2.0s
+  d2 env2 C|0.7 s=2 PS OLS {'alpha': 100.0} nc: 2.1s
+  d2 env2 C|0.7 s=2 CG GDN {'embed': 16} nc: 3.4s
+  d2 env2 C|0.7 s=2 CF GDN {'embed': 16} nc: 3.4s
+  d2 env2 C|0.7 s=2 CI GDN {'embed': 16} nc: 3.6s
+  d2 env2 C|0.7 s=2 PS GDN {'embed': 16} nc: 3.3s
+  d2 env2 C|0.7 s=2 CG CAE2D {'channels': 8} nc: 2.7s
+  d2 env2 C|0.7 s=2 CF CAE2D {'channels': 8} nc: 2.9s
+  d2 env2 C|0.7 s=2 CI CAE2D {'channels': 8} nc: 2.7s
+  d2 env2 C|0.7 s=2 PS CAE2D {'channels': 8} nc: 2.7s
+  d2 env2 C|0.7 s=2 CG TRANAD {'d_model': 32} nc: 11.2s
+  d2 env2 C|0.7 s=2 CF TRANAD {'d_model': 32} nc: 10.8s
+  d2 env2 C|0.7 s=2 CI TRANAD {'d_model': 32} nc: 10.9s
+  d2 env2 C|0.7 s=2 PS TRANAD {'d_model': 32} nc: 11.0s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 base|기준 s=None CG OLS {'alpha': 100.0} nc: 1.6s
+  d2 env3 base|기준 s=None CF OLS {'alpha': 100.0} nc: 1.5s
+  d2 env3 base|기준 s=None CI OLS {'alpha': 100.0} nc: 1.6s
+  d2 env3 base|기준 s=None PS OLS {'alpha': 100.0} nc: 1.6s
+  d2 env3 base|기준 s=None CG GDN {'embed': 16} nc: 2.6s
+  d2 env3 base|기준 s=None CF GDN {'embed': 16} nc: 2.5s
+  d2 env3 base|기준 s=None CI GDN {'embed': 16} nc: 2.7s
+  d2 env3 base|기준 s=None PS GDN {'embed': 16} nc: 2.7s
+  d2 env3 base|기준 s=None CG CAE2D {'channels': 8} nc: 2.1s
+  d2 env3 base|기준 s=None CF CAE2D {'channels': 8} nc: 2.1s
+  d2 env3 base|기준 s=None CI CAE2D {'channels': 8} nc: 2.1s
+  d2 env3 base|기준 s=None PS CAE2D {'channels': 8} nc: 2.2s
+  d2 env3 base|기준 s=None CG TRANAD {'d_model': 32} nc: 7.4s
+  d2 env3 base|기준 s=None CF TRANAD {'d_model': 32} nc: 8.1s
+  d2 env3 base|기준 s=None CI TRANAD {'d_model': 32} nc: 7.6s
+  d2 env3 base|기준 s=None PS TRANAD {'d_model': 32} nc: 7.8s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 C|0.7 s=0 CG OLS {'alpha': 100.0} nc: 1.5s
+  d2 env3 C|0.7 s=0 CF OLS {'alpha': 100.0} nc: 1.5s
+  d2 env3 C|0.7 s=0 CI OLS {'alpha': 100.0} nc: 1.6s
+  d2 env3 C|0.7 s=0 PS OLS {'alpha': 100.0} nc: 1.6s
+  d2 env3 C|0.7 s=0 CG GDN {'embed': 16} nc: 2.8s
+  d2 env3 C|0.7 s=0 CF GDN {'embed': 16} nc: 2.4s
+  d2 env3 C|0.7 s=0 CI GDN {'embed': 16} nc: 2.6s
+  d2 env3 C|0.7 s=0 PS GDN {'embed': 16} nc: 2.5s
+  d2 env3 C|0.7 s=0 CG CAE2D {'channels': 8} nc: 2.1s
+  d2 env3 C|0.7 s=0 CF CAE2D {'channels': 8} nc: 2.0s
+  d2 env3 C|0.7 s=0 CI CAE2D {'channels': 8} nc: 2.1s
+  d2 env3 C|0.7 s=0 PS CAE2D {'channels': 8} nc: 2.2s
+  d2 env3 C|0.7 s=0 CG TRANAD {'d_model': 32} nc: 7.4s
+  d2 env3 C|0.7 s=0 CF TRANAD {'d_model': 32} nc: 7.6s
+  d2 env3 C|0.7 s=0 CI TRANAD {'d_model': 32} nc: 7.9s
+  d2 env3 C|0.7 s=0 PS TRANAD {'d_model': 32} nc: 7.6s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 C|0.7 s=1 CG OLS {'alpha': 100.0} nc: 1.6s
+  d2 env3 C|0.7 s=1 CF OLS {'alpha': 100.0} nc: 1.4s
+  d2 env3 C|0.7 s=1 CI OLS {'alpha': 100.0} nc: 1.5s
+  d2 env3 C|0.7 s=1 PS OLS {'alpha': 100.0} nc: 1.6s
+  d2 env3 C|0.7 s=1 CG GDN {'embed': 16} nc: 2.8s
+  d2 env3 C|0.7 s=1 CF GDN {'embed': 16} nc: 2.6s
+  d2 env3 C|0.7 s=1 CI GDN {'embed': 16} nc: 2.5s
+  d2 env3 C|0.7 s=1 PS GDN {'embed': 16} nc: 2.6s
+  d2 env3 C|0.7 s=1 CG CAE2D {'channels': 8} nc: 2.1s
+  d2 env3 C|0.7 s=1 CF CAE2D {'channels': 8} nc: 2.2s
+  d2 env3 C|0.7 s=1 CI CAE2D {'channels': 8} nc: 2.0s
+  d2 env3 C|0.7 s=1 PS CAE2D {'channels': 8} nc: 2.2s
+  d2 env3 C|0.7 s=1 CG TRANAD {'d_model': 32} nc: 8.0s
+  d2 env3 C|0.7 s=1 CF TRANAD {'d_model': 32} nc: 7.8s
+  d2 env3 C|0.7 s=1 CI TRANAD {'d_model': 32} nc: 8.4s
+  d2 env3 C|0.7 s=1 PS TRANAD {'d_model': 32} nc: 8.1s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 C|0.7 s=2 CG OLS {'alpha': 100.0} nc: 1.6s
+  d2 env3 C|0.7 s=2 CF OLS {'alpha': 100.0} nc: 1.6s
+  d2 env3 C|0.7 s=2 CI OLS {'alpha': 100.0} nc: 1.5s
+  d2 env3 C|0.7 s=2 PS OLS {'alpha': 100.0} nc: 1.5s
+  d2 env3 C|0.7 s=2 CG GDN {'embed': 16} nc: 2.8s
+  d2 env3 C|0.7 s=2 CF GDN {'embed': 16} nc: 2.6s
+  d2 env3 C|0.7 s=2 CI GDN {'embed': 16} nc: 2.5s
+  d2 env3 C|0.7 s=2 PS GDN {'embed': 16} nc: 2.5s
+  d2 env3 C|0.7 s=2 CG CAE2D {'channels': 8} nc: 2.1s
+  d2 env3 C|0.7 s=2 CF CAE2D {'channels': 8} nc: 2.1s
+  d2 env3 C|0.7 s=2 CI CAE2D {'channels': 8} nc: 2.1s
+  d2 env3 C|0.7 s=2 PS CAE2D {'channels': 8} nc: 2.2s
+  d2 env3 C|0.7 s=2 CG TRANAD {'d_model': 32} nc: 7.7s
+  d2 env3 C|0.7 s=2 CF TRANAD {'d_model': 32} nc: 7.8s
+  d2 env3 C|0.7 s=2 CI TRANAD {'d_model': 32} nc: 7.7s
+  d2 env3 C|0.7 s=2 PS TRANAD {'d_model': 32} nc: 7.7s
+d2 test: 7680 rows, 1130s
+EXIT 0

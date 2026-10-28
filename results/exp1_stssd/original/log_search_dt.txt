@@ -1,0 +1,2226 @@
+  d1 classroom ('DT', 0.1, 1.0)
+  d1 classroom ('DT', 0.1, 2.0)
+  d1 classroom ('DT', 0.1, 4.0)
+  d1 classroom ('DT', 0.3, 1.0)
+  d1 classroom ('DT', 0.3, 2.0)
+  d1 classroom ('DT', 0.3, 4.0)
+  d1 classroom ('DT', 0.5, 1.0)
+  d1 classroom ('DT', 0.5, 2.0)
+  d1 classroom ('DT', 0.5, 4.0)
+  d1 lab ('DT', 0.1, 1.0)
+  d1 lab ('DT', 0.1, 2.0)
+  d1 lab ('DT', 0.1, 4.0)
+  d1 lab ('DT', 0.3, 1.0)
+  d1 lab ('DT', 0.3, 2.0)
+  d1 lab ('DT', 0.3, 4.0)
+  d1 lab ('DT', 0.5, 1.0)
+  d1 lab ('DT', 0.5, 2.0)
+  d1 lab ('DT', 0.5, 4.0)
+  d1 hallway ('DT', 0.1, 1.0)
+  d1 hallway ('DT', 0.1, 2.0)
+  d1 hallway ('DT', 0.1, 4.0)
+  d1 hallway ('DT', 0.3, 1.0)
+  d1 hallway ('DT', 0.3, 2.0)
+  d1 hallway ('DT', 0.3, 4.0)
+  d1 hallway ('DT', 0.5, 1.0)
+  d1 hallway ('DT', 0.5, 2.0)
+  d1 hallway ('DT', 0.5, 4.0)
+d1: 405 rows, 19.7s
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env0 ('DT', 0.1, 1.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env0 ('DT', 0.1, 2.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env0 ('DT', 0.1, 4.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env0 ('DT', 0.3, 1.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env0 ('DT', 0.3, 2.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env0 ('DT', 0.3, 4.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env0 ('DT', 0.5, 1.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env0 ('DT', 0.5, 2.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env0 ('DT', 0.5, 4.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env1 ('DT', 0.1, 1.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env1 ('DT', 0.1, 2.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env1 ('DT', 0.1, 4.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env1 ('DT', 0.3, 1.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env1 ('DT', 0.3, 2.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env1 ('DT', 0.3, 4.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env1 ('DT', 0.5, 1.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env1 ('DT', 0.5, 2.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env1 ('DT', 0.5, 4.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env2 ('DT', 0.1, 1.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env2 ('DT', 0.1, 2.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env2 ('DT', 0.1, 4.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env2 ('DT', 0.3, 1.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env2 ('DT', 0.3, 2.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env2 ('DT', 0.3, 4.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env2 ('DT', 0.5, 1.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env2 ('DT', 0.5, 2.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env2 ('DT', 0.5, 4.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env3 ('DT', 0.1, 1.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env3 ('DT', 0.1, 2.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env3 ('DT', 0.1, 4.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env3 ('DT', 0.3, 1.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env3 ('DT', 0.3, 2.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env3 ('DT', 0.3, 4.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env3 ('DT', 0.5, 1.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env3 ('DT', 0.5, 2.0)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+<repo>\src\model\bank.py:246: RuntimeWarning: All-NaN slice encountered
+  out[:, j] = np.nanmax(A[:, ix], axis=1)
+  d2 env3 ('DT', 0.5, 4.0)
+d2: 1080 rows, 909.1s
+{"d1": [0.1, 4.0], "d2": [0.1, 1.0], "d1_DT": [0.5, 4.0], "d2_DT": [0.1, 1.0]}

@@ -1,0 +1,55 @@
+  d1 classroom ANOMTRANSFIX raw {'d_model': 16}: 9.7s
+  d1 classroom ANOMTRANSFIX nc {'d_model': 16}: 7.6s
+  d1 classroom ANOMTRANSFIX raw {'d_model': 32}: 7.2s
+  d1 classroom ANOMTRANSFIX nc {'d_model': 32}: 7.6s
+  d1 lab ANOMTRANSFIX raw {'d_model': 16}: 7.2s
+  d1 lab ANOMTRANSFIX nc {'d_model': 16}: 7.2s
+  d1 lab ANOMTRANSFIX raw {'d_model': 32}: 7.2s
+  d1 lab ANOMTRANSFIX nc {'d_model': 32}: 7.4s
+  d1 hallway ANOMTRANSFIX raw {'d_model': 16}: 9.6s
+  d1 hallway ANOMTRANSFIX nc {'d_model': 16}: 10.0s
+  d1 hallway ANOMTRANSFIX raw {'d_model': 32}: 9.5s
+  d1 hallway ANOMTRANSFIX nc {'d_model': 32}: 9.9s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 ANOMTRANSFIX raw {'d_model': 16}: 8.6s
+  d2 env0 ANOMTRANSFIX nc {'d_model': 16}: 9.2s
+  d2 env0 ANOMTRANSFIX raw {'d_model': 32}: 8.8s
+  d2 env0 ANOMTRANSFIX nc {'d_model': 32}: 9.1s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 ANOMTRANSFIX raw {'d_model': 16}: 5.9s
+  d2 env1 ANOMTRANSFIX nc {'d_model': 16}: 6.1s
+  d2 env1 ANOMTRANSFIX raw {'d_model': 32}: 6.2s
+  d2 env1 ANOMTRANSFIX nc {'d_model': 32}: 6.0s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 ANOMTRANSFIX raw {'d_model': 16}: 9.2s
+  d2 env2 ANOMTRANSFIX nc {'d_model': 16}: 8.8s
+  d2 env2 ANOMTRANSFIX raw {'d_model': 32}: 9.1s
+  d2 env2 ANOMTRANSFIX nc {'d_model': 32}: 9.2s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 ANOMTRANSFIX raw {'d_model': 16}: 6.1s
+  d2 env3 ANOMTRANSFIX nc {'d_model': 16}: 6.6s
+  d2 env3 ANOMTRANSFIX raw {'d_model': 32}: 6.0s
+  d2 env3 ANOMTRANSFIX nc {'d_model': 32}: 6.3s
+{
+ "ANOMTRANSFIX": {
+  "d1": {
+   "variant": "nc",
+   "cfg": {
+    "d_model": 16
+   },
+   "val_auc_pr": 0.6523397696294378
+  },
+  "d2": {
+   "variant": "nc",
+   "cfg": {
+    "d_model": 32
+   },
+   "val_auc_pr": 0.32818151508082766
+  }
+ }
+}
+exit 0

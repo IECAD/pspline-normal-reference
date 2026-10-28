@@ -1,0 +1,99 @@
+  d1 classroom TRANAD raw {'d_model': 16}: 11.2s
+  d1 classroom TRANAD nc {'d_model': 16}: 9.4s
+  d1 classroom TRANAD raw {'d_model': 32}: 9.2s
+  d1 classroom TRANAD nc {'d_model': 32}: 9.7s
+  d1 classroom ANOMTRANS raw {'d_model': 16}: 7.3s
+  d1 classroom ANOMTRANS nc {'d_model': 16}: 7.3s
+  d1 classroom ANOMTRANS raw {'d_model': 32}: 6.9s
+  d1 classroom ANOMTRANS nc {'d_model': 32}: 7.4s
+  d1 lab TRANAD raw {'d_model': 16}: 9.0s
+  d1 lab TRANAD nc {'d_model': 16}: 9.2s
+  d1 lab TRANAD raw {'d_model': 32}: 9.1s
+  d1 lab TRANAD nc {'d_model': 32}: 9.0s
+  d1 lab ANOMTRANS raw {'d_model': 16}: 7.7s
+  d1 lab ANOMTRANS nc {'d_model': 16}: 7.4s
+  d1 lab ANOMTRANS raw {'d_model': 32}: 7.5s
+  d1 lab ANOMTRANS nc {'d_model': 32}: 7.6s
+  d1 hallway TRANAD raw {'d_model': 16}: 11.8s
+  d1 hallway TRANAD nc {'d_model': 16}: 11.5s
+  d1 hallway TRANAD raw {'d_model': 32}: 11.8s
+  d1 hallway TRANAD nc {'d_model': 32}: 11.7s
+  d1 hallway ANOMTRANS raw {'d_model': 16}: 9.5s
+  d1 hallway ANOMTRANS nc {'d_model': 16}: 9.7s
+  d1 hallway ANOMTRANS raw {'d_model': 32}: 10.2s
+  d1 hallway ANOMTRANS nc {'d_model': 32}: 9.6s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 TRANAD raw {'d_model': 16}: 10.9s
+  d2 env0 TRANAD nc {'d_model': 16}: 10.4s
+  d2 env0 TRANAD raw {'d_model': 32}: 10.5s
+  d2 env0 TRANAD nc {'d_model': 32}: 10.7s
+  d2 env0 ANOMTRANS raw {'d_model': 16}: 8.7s
+  d2 env0 ANOMTRANS nc {'d_model': 16}: 8.9s
+  d2 env0 ANOMTRANS raw {'d_model': 32}: 8.9s
+  d2 env0 ANOMTRANS nc {'d_model': 32}: 9.1s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 TRANAD raw {'d_model': 16}: 7.6s
+  d2 env1 TRANAD nc {'d_model': 16}: 7.1s
+  d2 env1 TRANAD raw {'d_model': 32}: 7.4s
+  d2 env1 TRANAD nc {'d_model': 32}: 7.5s
+  d2 env1 ANOMTRANS raw {'d_model': 16}: 5.7s
+  d2 env1 ANOMTRANS nc {'d_model': 16}: 6.0s
+  d2 env1 ANOMTRANS raw {'d_model': 32}: 6.0s
+  d2 env1 ANOMTRANS nc {'d_model': 32}: 5.8s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 TRANAD raw {'d_model': 16}: 10.5s
+  d2 env2 TRANAD nc {'d_model': 16}: 11.0s
+  d2 env2 TRANAD raw {'d_model': 32}: 11.5s
+  d2 env2 TRANAD nc {'d_model': 32}: 10.3s
+  d2 env2 ANOMTRANS raw {'d_model': 16}: 8.8s
+  d2 env2 ANOMTRANS nc {'d_model': 16}: 8.1s
+  d2 env2 ANOMTRANS raw {'d_model': 32}: 9.0s
+  d2 env2 ANOMTRANS nc {'d_model': 32}: 8.3s
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 TRANAD raw {'d_model': 16}: 7.5s
+  d2 env3 TRANAD nc {'d_model': 16}: 7.2s
+  d2 env3 TRANAD raw {'d_model': 32}: 7.4s
+  d2 env3 TRANAD nc {'d_model': 32}: 7.9s
+  d2 env3 ANOMTRANS raw {'d_model': 16}: 6.5s
+  d2 env3 ANOMTRANS nc {'d_model': 16}: 5.9s
+  d2 env3 ANOMTRANS raw {'d_model': 32}: 6.0s
+  d2 env3 ANOMTRANS nc {'d_model': 32}: 6.2s
+{
+ "ANOMTRANS": {
+  "d1": {
+   "variant": "nc",
+   "cfg": {
+    "d_model": 32
+   },
+   "val_auc_pr": 0.9393048057126248
+  },
+  "d2": {
+   "variant": "nc",
+   "cfg": {
+    "d_model": 16
+   },
+   "val_auc_pr": 0.3540704974117473
+  }
+ },
+ "TRANAD": {
+  "d1": {
+   "variant": "nc",
+   "cfg": {
+    "d_model": 16
+   },
+   "val_auc_pr": 0.9611985761140476
+  },
+  "d2": {
+   "variant": "nc",
+   "cfg": {
+    "d_model": 32
+   },
+   "val_auc_pr": 0.8685425261329248
+  }
+ }
+}
+exit 0

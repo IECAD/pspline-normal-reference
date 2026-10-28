@@ -1,0 +1,31 @@
+{
+ "id": "E04",
+ "run": "base",
+ "code": {
+  "V": "V5",
+  "S": "S1",
+  "O": "O2",
+  "T": "T2"
+ },
+ "o3_seed": 0,
+ "datasets": [
+  "d4"
+ ],
+ "skipped": [
+  {
+   "dataset": "d4",
+   "reason": "①축은 D4 에서 하지 않음 (계획 5.1절)"
+  }
+ ],
+ "model": {
+  "K_t": 8,
+  "diff_order": 2,
+  "sap": true,
+  "threshold_pct": 97.5,
+  "eps": 1e-06
+ },
+ "exp_config": "configs/exp3.yaml",
+ "data_config": "configs/data.yaml",
+ "data_version": "<repo>\\cache\\windows\\data_config_used.yaml",
+ "elapsed_s": 0.00137039995752275
+}

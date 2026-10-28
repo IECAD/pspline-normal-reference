@@ -1,0 +1,37 @@
+{
+ "id": "C00",
+ "spec": {
+  "node": "node",
+  "time_basis": "pspline",
+  "stats": "val",
+  "K_t": 8,
+  "diff_order": 2,
+  "lam_mode": "sap",
+  "score_set": [
+   "R"
+  ]
+ },
+ "code": {
+  "V": "V5",
+  "V_d1": "V1",
+  "S": "S1",
+  "O": "O1",
+  "T": "T4"
+ },
+ "dataset": "d2",
+ "splits": [
+  "val"
+ ],
+ "model": {
+  "K_t": 8,
+  "diff_order": 2,
+  "sap": true,
+  "threshold_pct": 97.5,
+  "eps": 1e-06
+ },
+ "exp_config": "configs/exp3.yaml",
+ "data_config": "configs/data.yaml",
+ "elapsed_s": 6.581442900002003,
+ "base": "F01",
+ "exp4_config": "configs/exp4.yaml"
+}

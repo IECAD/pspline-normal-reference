@@ -1,0 +1,733 @@
+<repo>\experiments\exp10_d6.py:123: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(np.where(M[ixn][tr[ixn]] > 0, X[ixn][tr[ixn]], np.nan), axis=(0, 2))   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  scan1 done (630 rows)
+<repo>\experiments\exp10_d6.py:123: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(np.where(M[ixn][tr[ixn]] > 0, X[ixn][tr[ixn]], np.nan), axis=(0, 2))   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  scan2 done (630 rows)
+<repo>\experiments\exp10_d6.py:123: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(np.where(M[ixn][tr[ixn]] > 0, X[ixn][tr[ixn]], np.nan), axis=(0, 2))   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  scan3 done (630 rows)
+<repo>\experiments\exp10_d6.py:123: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(np.where(M[ixn][tr[ixn]] > 0, X[ixn][tr[ixn]], np.nan), axis=(0, 2))   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  scan4 done (630 rows)
+<repo>\experiments\exp10_d6.py:123: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(np.where(M[ixn][tr[ixn]] > 0, X[ixn][tr[ixn]], np.nan), axis=(0, 2))   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  scan5 done (630 rows)
+<repo>\experiments\exp10_d6.py:123: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(np.where(M[ixn][tr[ixn]] > 0, X[ixn][tr[ixn]], np.nan), axis=(0, 2))   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  scan6 done (630 rows)
+<repo>\experiments\exp10_d6.py:123: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(np.where(M[ixn][tr[ixn]] > 0, X[ixn][tr[ixn]], np.nan), axis=(0, 2))   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  scan7 done (630 rows)
+<repo>\experiments\exp10_d6.py:123: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(np.where(M[ixn][tr[ixn]] > 0, X[ixn][tr[ixn]], np.nan), axis=(0, 2))   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  scan8 done (630 rows)
+<repo>\experiments\exp10_d6.py:123: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(np.where(M[ixn][tr[ixn]] > 0, X[ixn][tr[ixn]], np.nan), axis=(0, 2))   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  scan9 done (630 rows)
+<repo>\experiments\exp10_d6.py:123: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(np.where(M[ixn][tr[ixn]] > 0, X[ixn][tr[ixn]], np.nan), axis=(0, 2))   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  scan10 done (630 rows)
+<repo>\experiments\exp10_d6.py:123: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(np.where(M[ixn][tr[ixn]] > 0, X[ixn][tr[ixn]], np.nan), axis=(0, 2))   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  scan11 done (630 rows)
+<repo>\experiments\exp10_d6.py:123: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(np.where(M[ixn][tr[ixn]] > 0, X[ixn][tr[ixn]], np.nan), axis=(0, 2))   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<repo>\src\model\pspline.py:108: RuntimeWarning: All-NaN slice encountered
+  scale = 1.4826 * np.nanmedian(np.abs(flat - np.nanmedian(flat, 1)[:, None]), 1)   # (S,)
+<repo>\src\model\compose.py:83: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  scan12 done (630 rows)
+done 7560 rows, 808.9s

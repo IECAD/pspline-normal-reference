@@ -1,0 +1,53 @@
+{
+ "rule": "doc/실험6_계획.md 2절",
+ "tol": {
+  "d1": 0.0165,
+  "d2": 0.0171
+ },
+ "families": [
+  {
+   "family": "P",
+   "any_beats": true,
+   "all_noninferior": true,
+   "conditional_claim": true,
+   "winning_levels": [
+    "P3"
+   ]
+  }
+ ],
+ "switch_default_to_PS": true,
+ "levels": [
+  {
+   "family": "P",
+   "level": "P1",
+   "d1_delta": 0.00625,
+   "d2_delta": 0.0006,
+   "beats": false,
+   "noninferior": true
+  },
+  {
+   "family": "P",
+   "level": "P2",
+   "d1_delta": 0.00997,
+   "d2_delta": 0.00085,
+   "beats": false,
+   "noninferior": true
+  },
+  {
+   "family": "P",
+   "level": "P3",
+   "d1_delta": 0.02037,
+   "d2_delta": -0.00341,
+   "beats": true,
+   "noninferior": true
+  },
+  {
+   "family": "base",
+   "level": "기준",
+   "d1_delta": 0.00664,
+   "d2_delta": 0.00038,
+   "beats": false,
+   "noninferior": true
+  }
+ ]
+}
