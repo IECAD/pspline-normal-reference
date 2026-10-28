@@ -1,0 +1,27 @@
+{
+  "title": "Location-specific P-spline normal references for sensor anomaly detection: code, primary outputs and registrations",
+  "description": "<p>Code, configurations, primary outputs and pre-registration documents (with their chronology) for the manuscript <em>Location-Specific P-Spline Normal References for Sensor Anomaly Detection with Incomplete Training Data</em> (A. Lim and J. H. Cho, submitted to <em>Mathematics</em>, manuscript mathematics-4658477, first revision). Covers every analysis on public data (UWB datasets D2, D5, D6, HYMN; Wi-Fi fingerprints; SMD/ASD) and the simulation study. The in-house dataset D1 and positioning experiments are not included. See README.md and REGISTRATIONS.md.</p>",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Lim, Aaron",
+      "affiliation": "Department of Management Engineering, Dankook University",
+      "orcid": "0009-0000-6308-6276"
+    },
+    {
+      "name": "Cho, Jae Hyung",
+      "affiliation": "Department of Management Engineering, Dankook University",
+      "orcid": "0000-0001-8998-6037"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "P-splines",
+    "restricted maximum likelihood",
+    "anomaly detection",
+    "missing data",
+    "ultra-wideband",
+    "pre-registration"
+  ],
+  "version": "1.0.0"
+}
