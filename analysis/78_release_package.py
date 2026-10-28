@@ -44,7 +44,7 @@ ANALYSIS = [
     "common.py", "fig_style.py", "00_fetch_d2.py", "12_d2_structure.py", "20_d3_structure.py", "21_d4_structure.py",
     "42_d2_nlos_signature.py", "47_reference_error.py", "48_d3_feasibility.py", "49_phy_loss_library.py",
     "60_math_figures.py", "61_huber_synthetic_check.py", "63_math_paired_stats.py", "64_math_fig1.py", "67_math_tables.py",
-    "69_math_fig4_comparators_missing.py", "76_cluster_bootstrap.py", "77_pred_variance.py", "78_release_package.py",
+    "69_math_fig4_comparators_missing.py", "76_cluster_bootstrap.py", "77_pred_variance.py", "78_release_package.py", "81_supp_revision.py",
 ]
 ANALYSIS_OUT = [
     "42_d2_nlos_signature.txt", "43_exp3_paired.csv", "43_exp3_paired.txt", "47_reference_error.csv", "47_reference_error.txt",
@@ -126,8 +126,10 @@ def data_yaml():
 
 
 def main():
-    if DST.exists():
-        shutil.rmtree(DST)
+    if DST.exists():                                          # .git(공개 저장소 기록)은 남기고 나머지만 지운다
+        for c in DST.iterdir():
+            if c.name != ".git":
+                shutil.rmtree(c) if c.is_dir() else c.unlink()
     for r in SRC_FILES:
         copy(ROOT / r, DST / r)
     (DST / "src/data/d1.py").write_text(D1_STUB, encoding="utf-8", newline="\n")
@@ -155,11 +157,13 @@ def main():
     # 남은 개인 경로 확인
     leaks = []
     for p in DST.rglob("*"):
+        if ".git" in p.parts:
+            continue
         if p.is_file() and p.suffix.lower() in TEXT_SUFFIX:
             b = p.read_bytes()
             if Path.home().name.encode() in b or b"Desktop" + BS.encode() in b:
                 leaks.append(p.relative_to(DST).as_posix())
-    files = sorted(p for p in DST.rglob("*") if p.is_file())
+    files = sorted(p for p in DST.rglob("*") if p.is_file() and ".git" not in p.parts)
     size = sum(p.stat().st_size for p in files)
     print(f"files {len(files)}, {size / 1e6:.1f} MB; personal-path leaks: {leaks or 'none'}")
     big = [(p.stat().st_size, p.relative_to(DST).as_posix()) for p in files if p.stat().st_size > 20e6]

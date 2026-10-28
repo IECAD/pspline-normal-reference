@@ -1,0 +1,149 @@
+﻿line,mean,old,new,n_match,match
+199,−0.001,"[−0.005, +0.002]","[−0.008, +0.002]",9,exp6/conditions | PS − cell | d1 | base 기준 ; exp6/missing_patterns | PS − cell | d1 | base 기준 ; exp6/imputation | PS − cell | d1 | base 기준 ; exp6/imputation | PS − cellfill | d1 | base 기준 ; exp6/imputation | PS − cellinterp | d1 | base 기준 ; exp6/phy_masks | PS − cell | d1 | base 기준 ; exp6/phy_masks | PS − cellfill | d1 | base 기준 ; exp6/phy_masks | PS − cellinterp | d1 | base 기준 ; exp6/comparators_missing | PS − cell | d1 | base
+199,+0.000,"[−0.000, +0.001]","[−0.001, +0.002]",16,exp6/conditions | PS − cell | d2 | base 기준 ; exp6/missing_patterns | PS − cell | d2 | base 기준 ; exp6/imputation | PS − cell | d2 | base 기준 ; exp6/imputation | PS − cellfill | d2 | base 기준 ; exp6/imputation | PS − cellinterp | d2 | base 기준 ; exp6/phy_masks | PS − cell | d2 | base 기준 ; exp6/phy_masks | PS − cellfill | d2 | base 기준 ; exp6/phy_masks | PS − cellinterp | d2 | base 기준 ; exp6/phy_masks | PS − cell | d2 | P P1 ; exp6/phy_masks | PS − cellfill | d2 | P P1 ; exp6/phy_masks | PS − cellinterp | d2 | P P1 ; exp6/phy_masks | PS − cell | d2 | P P2 ; exp6/phy_masks | PS − cellfill | d2 | P P2 ; exp6/phy_masks | PS − cellinterp | d2 | P P2 ; exp6/part2 | PS − cell | d2 | base 0.0 ; exp6/comparators_missing | PS − cell | d2 | base
+201,+0.597,"[+0.559, +0.636]","[+0.530, +0.681]",1,exp1_simple/boot | Z1 − Z0 (node bank) | d1 | nan
+201,+0.073,"[+0.059, +0.088]","[+0.036, +0.128]",1,exp1_simple/boot | Z1 − Z0 (node bank) | d2 | nan
+219,-0.001,"[−0.005, +0.002]","[−0.008, +0.002]",9,exp6/conditions | PS − cell | d1 | base 기준 ; exp6/missing_patterns | PS − cell | d1 | base 기준 ; exp6/imputation | PS − cell | d1 | base 기준 ; exp6/imputation | PS − cellfill | d1 | base 기준 ; exp6/imputation | PS − cellinterp | d1 | base 기준 ; exp6/phy_masks | PS − cell | d1 | base 기준 ; exp6/phy_masks | PS − cellfill | d1 | base 기준 ; exp6/phy_masks | PS − cellinterp | d1 | base 기준 ; exp6/comparators_missing | PS − cell | d1 | base
+219,+0.000,"[−0.000, +0.001]","[−0.001, +0.002]",16,exp6/conditions | PS − cell | d2 | base 기준 ; exp6/missing_patterns | PS − cell | d2 | base 기준 ; exp6/imputation | PS − cell | d2 | base 기준 ; exp6/imputation | PS − cellfill | d2 | base 기준 ; exp6/imputation | PS − cellinterp | d2 | base 기준 ; exp6/phy_masks | PS − cell | d2 | base 기준 ; exp6/phy_masks | PS − cellfill | d2 | base 기준 ; exp6/phy_masks | PS − cellinterp | d2 | base 기준 ; exp6/phy_masks | PS − cell | d2 | P P1 ; exp6/phy_masks | PS − cellfill | d2 | P P1 ; exp6/phy_masks | PS − cellinterp | d2 | P P1 ; exp6/phy_masks | PS − cell | d2 | P P2 ; exp6/phy_masks | PS − cellfill | d2 | P P2 ; exp6/phy_masks | PS − cellinterp | d2 | P P2 ; exp6/part2 | PS − cell | d2 | base 0.0 ; exp6/comparators_missing | PS − cell | d2 | base
+221,-0.003,"[−0.009, +0.001]","[−0.013, +0.002]",4,exp1_baselines | PS − OLS | d1 | batch1 ; exp1_baselines | PS − TRANS | d1 | batch2 ; exp6/comparators_missing | PS − OLS | d1 | base ; exp6/comparators_missing | PS − TRANS | d1 | base
+221,+0.010,"[+0.007, +0.013]","[+0.003, +0.016]",1,exp1_baselines | PS − OLS | d2 | batch1
+222,-0.004,"[−0.010, +0.001]","[−0.015, +0.002]",2,exp1_baselines | PS − RRR | d1 | batch2 ; exp6/comparators_missing | PS − RRR | d1 | base
+222,+0.048,"[+0.030, +0.069]","[+0.006, +0.124]",1,exp1_baselines | PS − RRR | d2 | batch2
+223,-0.003,"[−0.009, +0.001]","[−0.013, +0.002]",4,exp1_baselines | PS − OLS | d1 | batch1 ; exp1_baselines | PS − TRANS | d1 | batch2 ; exp6/comparators_missing | PS − OLS | d1 | base ; exp6/comparators_missing | PS − TRANS | d1 | base
+223,+0.375,"[+0.327, +0.424]","[+0.232, +0.531]",1,exp1_baselines | PS − TRANS | d2 | batch2
+224,-0.002,"[−0.008, +0.002]","[−0.011, +0.002]",2,exp1_baselines | PS − RBCPHI | d1 | batch2_fix ; exp6/comparators_missing | PS − RBCPHI | d1 | base
+224,+0.549,"[+0.491, +0.608]","[+0.310, +0.767]",1,exp1_baselines | PS − RBCPHI | d2 | batch2_fix
+225,-0.002,"[−0.007, +0.002]","[−0.010, +0.003]",1,exp1_baselines | PS − GDN | d1 | batch2_fix
+225,+0.062,"[+0.049, +0.077]","[+0.045, +0.081]",1,exp1_baselines | PS − GDN | d2 | batch2_fix
+226,-0.001,"[−0.008, +0.004]","[−0.013, +0.007]",2,exp1_baselines | PS − OMNI | d1 | batch2 ; exp6/comparators_missing | PS − OMNI | d1 | base
+226,+0.065,"[+0.046, +0.089]","[+0.030, +0.109]",1,exp1_baselines | PS − OMNI | d2 | batch2
+227,+0.013,"[+0.005, +0.021]","[−0.010, +0.045]",1,exp1_baselines | PS − LAPRPCA | d1 | batch2_fix
+227,+0.437,"[+0.388, +0.486]","[+0.277, +0.598]",1,exp1_baselines | PS − LAPRPCA | d2 | batch2_fix
+228,+0.016,"[+0.007, +0.026]","[+0.003, +0.030]",1,exp1_baselines | PS − CAE2D | d1 | batch2
+228,+0.369,"[+0.334, +0.402]","[+0.288, +0.448]",1,exp1_baselines | PS − CAE2D | d2 | batch2
+229,+0.023,"[+0.012, +0.036]","[+0.002, +0.045]",1,exp1_baselines | PS − CAE1D | d1 | batch1
+229,+0.246,"[+0.199, +0.293]","[+0.087, +0.403]",1,exp1_baselines | PS − CAE1D | d2 | batch1
+230,+0.024,"[+0.013, +0.036]","[−0.001, +0.062]",1,exp1_baselines | PS − LSTMAE | d1 | batch1
+230,+0.074,"[+0.058, +0.092]","[+0.047, +0.103]",1,exp1_baselines | PS − LSTMAE | d2 | batch1
+231,+0.072,"[+0.055, +0.089]","[+0.048, +0.096]",1,exp1_baselines | PS − USADFIX2 | d1 | batch2_fix2
+231,+0.308,"[+0.272, +0.344]","[+0.203, +0.396]",1,exp1_baselines | PS − USADFIX2 | d2 | batch2_fix2
+232,+0.124,"[+0.084, +0.166]","[+0.073, +0.182]",1,exp1_baselines | PS − IF | d1 | batch1
+232,+0.726,"[+0.697, +0.755]","[+0.668, +0.775]",1,exp1_baselines | PS − IF | d2 | batch1
+233,+0.151,"[+0.118, +0.185]","[+0.085, +0.209]",1,exp1_baselines | PS − RPCA | d1 | batch1
+233,+0.349,"[+0.260, +0.440]","[−0.001, +0.703]",1,exp1_baselines | PS − RPCA | d2 | batch1
+234,+0.232,"[+0.180, +0.290]","[+0.054, +0.387]",1,exp1_baselines | PS − PCA | d1 | batch1
+234,+0.039,"[+0.020, +0.058]","[+0.002, +0.095]",1,exp1_baselines | PS − PCA | d2 | batch1
+235,+0.006,"[−0.000, +0.012]","[−0.001, +0.014]",1,exp1_baselines | PS − TRANAD | d1 | batch3
+235,+0.093,"[+0.073, +0.116]","[+0.050, +0.159]",1,exp1_baselines | PS − TRANAD | d2 | batch3
+236,+0.358,"[+0.310, +0.410]","[+0.269, +0.461]",1,exp1_baselines | PS − ANOMTRANSFIX | d1 | batch3_fix
+236,+0.629,"[+0.599, +0.659]","[+0.541, +0.731]",1,exp1_baselines | PS − ANOMTRANSFIX | d2 | batch3_fix
+250,−0.001,"[−0.005, +0.002]","[−0.008, +0.002]",9,exp6/conditions | PS − cell | d1 | base 기준 ; exp6/missing_patterns | PS − cell | d1 | base 기준 ; exp6/imputation | PS − cell | d1 | base 기준 ; exp6/imputation | PS − cellfill | d1 | base 기준 ; exp6/imputation | PS − cellinterp | d1 | base 기준 ; exp6/phy_masks | PS − cell | d1 | base 기준 ; exp6/phy_masks | PS − cellfill | d1 | base 기준 ; exp6/phy_masks | PS − cellinterp | d1 | base 기준 ; exp6/comparators_missing | PS − cell | d1 | base
+250,+0.000,"[−0.000, +0.001]","[−0.001, +0.002]",16,exp6/conditions | PS − cell | d2 | base 기준 ; exp6/missing_patterns | PS − cell | d2 | base 기준 ; exp6/imputation | PS − cell | d2 | base 기준 ; exp6/imputation | PS − cellfill | d2 | base 기준 ; exp6/imputation | PS − cellinterp | d2 | base 기준 ; exp6/phy_masks | PS − cell | d2 | base 기준 ; exp6/phy_masks | PS − cellfill | d2 | base 기준 ; exp6/phy_masks | PS − cellinterp | d2 | base 기준 ; exp6/phy_masks | PS − cell | d2 | P P1 ; exp6/phy_masks | PS − cellfill | d2 | P P1 ; exp6/phy_masks | PS − cellinterp | d2 | P P1 ; exp6/phy_masks | PS − cell | d2 | P P2 ; exp6/phy_masks | PS − cellfill | d2 | P P2 ; exp6/phy_masks | PS − cellinterp | d2 | P P2 ; exp6/part2 | PS − cell | d2 | base 0.0 ; exp6/comparators_missing | PS − cell | d2 | base
+251,+0.026,"[+0.019, +0.034]","[+0.004, +0.052]",2,exp6/conditions | PS − cell | d1 | C 0.3 ; exp6/imputation | PS − cell | d1 | C r=0.3
+251,+0.001,"[−0.000, +0.002]","[−0.001, +0.002]",1,exp6/conditions | PS − cell | d2 | C 0.3
+252,+0.202,"[+0.171, +0.236]","[+0.004, +0.322]",1,exp6/conditions | PS − cell | d1 | C 0.5
+252,+0.000,"[−0.001, +0.002]","[−0.004, +0.005]",1,exp6/conditions | PS − cell | d2 | C 0.5
+253,+0.357,"[+0.310, +0.404]","[+0.009, +0.570]",2,exp6/conditions | PS − cell | d1 | C 0.7 ; exp6/imputation | PS − cell | d1 | C r=0.7
+253,+0.014,"[+0.007, +0.022]","[−0.014, +0.043]",1,exp6/conditions | PS − cell | d2 | C 0.7
+254,+0.030,"[+0.023, +0.038]","[+0.003, +0.050]",2,"exp6/missing_patterns | PS − cell | d1 | D pi=0.3,L=4 ; exp6/imputation | PS − cell | d1 | D pi=0.3,L=4"
+254,+0.001,"[−0.000, +0.002]","[+0.000, +0.002]",1,"exp6/missing_patterns | PS − cell | d2 | D pi=0.3,L=4"
+255,+0.177,"[+0.147, +0.210]","[+0.001, +0.296]",1,"exp6/missing_patterns | PS − cell | d1 | D pi=0.5,L=4"
+255,−0.000,"[−0.002, +0.001]","[−0.003, +0.004]",1,"exp6/missing_patterns | PS − cell | d2 | D pi=0.5,L=4"
+256,+0.167,"[+0.137, +0.197]","[+0.005, +0.291]",1,"exp6/missing_patterns | PS − cell | d1 | D pi=0.5,L=8"
+256,+0.000,"[−0.002, +0.002]","[−0.006, +0.007]",1,"exp6/missing_patterns | PS − cell | d2 | D pi=0.5,L=8"
+257,+0.365,"[+0.319, +0.411]","[+0.032, +0.582]",1,"exp6/missing_patterns | PS − cell | d1 | D pi=0.7,L=4"
+257,+0.010,"[+0.005, +0.015]","[+0.000, +0.021]",1,"exp6/missing_patterns | PS − cell | d2 | D pi=0.7,L=4"
+258,+0.001,"[−0.001, +0.002]","[−0.002, +0.002]",1,exp6/phy_masks | PS − cell | d1 | P P1
+258,+0.000,"[−0.000, +0.001]","[−0.001, +0.002]",16,exp6/conditions | PS − cell | d2 | base 기준 ; exp6/missing_patterns | PS − cell | d2 | base 기준 ; exp6/imputation | PS − cell | d2 | base 기준 ; exp6/imputation | PS − cellfill | d2 | base 기준 ; exp6/imputation | PS − cellinterp | d2 | base 기준 ; exp6/phy_masks | PS − cell | d2 | base 기준 ; exp6/phy_masks | PS − cellfill | d2 | base 기준 ; exp6/phy_masks | PS − cellinterp | d2 | base 기준 ; exp6/phy_masks | PS − cell | d2 | P P1 ; exp6/phy_masks | PS − cellfill | d2 | P P1 ; exp6/phy_masks | PS − cellinterp | d2 | P P1 ; exp6/phy_masks | PS − cell | d2 | P P2 ; exp6/phy_masks | PS − cellfill | d2 | P P2 ; exp6/phy_masks | PS − cellinterp | d2 | P P2 ; exp6/part2 | PS − cell | d2 | base 0.0 ; exp6/comparators_missing | PS − cell | d2 | base
+259,+0.023,"[+0.017, +0.030]","[+0.002, +0.046]",1,exp6/phy_masks | PS − cell | d1 | P P2
+259,+0.000,"[−0.000, +0.001]","[−0.001, +0.002]",16,exp6/conditions | PS − cell | d2 | base 기준 ; exp6/missing_patterns | PS − cell | d2 | base 기준 ; exp6/imputation | PS − cell | d2 | base 기준 ; exp6/imputation | PS − cellfill | d2 | base 기준 ; exp6/imputation | PS − cellinterp | d2 | base 기준 ; exp6/phy_masks | PS − cell | d2 | base 기준 ; exp6/phy_masks | PS − cellfill | d2 | base 기준 ; exp6/phy_masks | PS − cellinterp | d2 | base 기준 ; exp6/phy_masks | PS − cell | d2 | P P1 ; exp6/phy_masks | PS − cellfill | d2 | P P1 ; exp6/phy_masks | PS − cellinterp | d2 | P P1 ; exp6/phy_masks | PS − cell | d2 | P P2 ; exp6/phy_masks | PS − cellfill | d2 | P P2 ; exp6/phy_masks | PS − cellinterp | d2 | P P2 ; exp6/part2 | PS − cell | d2 | base 0.0 ; exp6/comparators_missing | PS − cell | d2 | base
+260,+0.408,"[+0.364, +0.451]","[+0.094, +0.615]",1,exp6/phy_masks | PS − cell | d1 | P P3
+260,+0.025,"[+0.017, +0.033]","[−0.004, +0.065]",1,exp6/phy_masks | PS − cell | d2 | P P3
+261,+0.001,"[−0.001, +0.003]","[−0.001, +0.003]",1,exp6/missing_patterns | PS − cell | d1 | E q=0.3
+261,+0.001,"[−0.000, +0.002]","[−0.001, +0.002]",1,exp6/missing_patterns | PS − cell | d2 | E q=0.3
+262,+0.009,"[+0.007, +0.012]","[+0.000, +0.024]",1,exp6/missing_patterns | PS − cell | d1 | E q=0.5
+262,+0.001,"[−0.001, +0.002]","[−0.003, +0.005]",1,exp6/missing_patterns | PS − cell | d2 | E q=0.5
+286,−0.001,"[−0.005, +0.002]","[−0.008, +0.002]",9,exp6/conditions | PS − cell | d1 | base 기준 ; exp6/missing_patterns | PS − cell | d1 | base 기준 ; exp6/imputation | PS − cell | d1 | base 기준 ; exp6/imputation | PS − cellfill | d1 | base 기준 ; exp6/imputation | PS − cellinterp | d1 | base 기준 ; exp6/phy_masks | PS − cell | d1 | base 기준 ; exp6/phy_masks | PS − cellfill | d1 | base 기준 ; exp6/phy_masks | PS − cellinterp | d1 | base 기준 ; exp6/comparators_missing | PS − cell | d1 | base
+286,+0.202,"[+0.171, +0.236]","[+0.004, +0.321]",1,exp6/comparators_missing | PS − cell | d1 | C 0.5
+286,+0.357,"[+0.311, +0.403]","[+0.009, +0.572]",1,exp6/comparators_missing | PS − cell | d1 | C 0.7
+286,+0.365,"[+0.321, +0.411]","[+0.031, +0.583]",1,"exp6/comparators_missing | PS − cell | d1 | D pi=0.7,L=4"
+286,+0.408,"[+0.362, +0.453]","[+0.094, +0.612]",1,exp6/comparators_missing | PS − cell | d1 | P P3
+287,−0.003,"[−0.009, +0.001]","[−0.013, +0.002]",4,exp1_baselines | PS − OLS | d1 | batch1 ; exp1_baselines | PS − TRANS | d1 | batch2 ; exp6/comparators_missing | PS − OLS | d1 | base ; exp6/comparators_missing | PS − TRANS | d1 | base
+287,+0.202,"[+0.169, +0.236]","[+0.004, +0.322]",1,exp6/comparators_missing | PS − OLS | d1 | C 0.5
+287,+0.354,"[+0.308, +0.400]","[+0.002, +0.569]",1,exp6/comparators_missing | PS − OLS | d1 | C 0.7
+287,+0.370,"[+0.324, +0.413]","[+0.049, +0.583]",1,"exp6/comparators_missing | PS − OLS | d1 | D pi=0.7,L=4"
+287,+0.411,"[+0.367, +0.456]","[+0.102, +0.613]",1,exp6/comparators_missing | PS − OLS | d1 | P P3
+288,−0.004,"[−0.010, +0.001]","[−0.015, +0.002]",2,exp1_baselines | PS − RRR | d1 | batch2 ; exp6/comparators_missing | PS − RRR | d1 | base
+288,+0.202,"[+0.169, +0.237]","[+0.004, +0.322]",1,exp6/comparators_missing | PS − RRR | d1 | C 0.5
+288,+0.355,"[+0.307, +0.401]","[+0.005, +0.572]",1,exp6/comparators_missing | PS − RRR | d1 | C 0.7
+288,+0.369,"[+0.323, +0.415]","[+0.048, +0.582]",1,"exp6/comparators_missing | PS − RRR | d1 | D pi=0.7,L=4"
+288,+0.415,"[+0.370, +0.460]","[+0.113, +0.614]",1,exp6/comparators_missing | PS − RRR | d1 | P P3
+289,−0.003,"[−0.009, +0.001]","[−0.013, +0.002]",4,exp1_baselines | PS − OLS | d1 | batch1 ; exp1_baselines | PS − TRANS | d1 | batch2 ; exp6/comparators_missing | PS − OLS | d1 | base ; exp6/comparators_missing | PS − TRANS | d1 | base
+289,+0.199,"[+0.166, +0.233]","[+0.003, +0.318]",1,exp6/comparators_missing | PS − TRANS | d1 | C 0.5
+289,+0.351,"[+0.304, +0.399]","[+0.002, +0.564]",1,exp6/comparators_missing | PS − TRANS | d1 | C 0.7
+289,+0.364,"[+0.320, +0.409]","[+0.044, +0.573]",1,"exp6/comparators_missing | PS − TRANS | d1 | D pi=0.7,L=4"
+289,+0.410,"[+0.364, +0.454]","[+0.113, +0.608]",1,exp6/comparators_missing | PS − TRANS | d1 | P P3
+290,−0.002,"[−0.008, +0.002]","[−0.011, +0.002]",2,exp1_baselines | PS − RBCPHI | d1 | batch2_fix ; exp6/comparators_missing | PS − RBCPHI | d1 | base
+290,+0.200,"[+0.167, +0.234]","[−0.001, +0.321]",1,exp6/comparators_missing | PS − RBCPHI | d1 | C 0.5
+290,+0.351,"[+0.303, +0.399]","[−0.004, +0.567]",1,exp6/comparators_missing | PS − RBCPHI | d1 | C 0.7
+290,+0.369,"[+0.324, +0.414]","[+0.046, +0.581]",1,"exp6/comparators_missing | PS − RBCPHI | d1 | D pi=0.7,L=4"
+290,+0.411,"[+0.367, +0.455]","[+0.105, +0.615]",1,exp6/comparators_missing | PS − RBCPHI | d1 | P P3
+291,−0.003,"[−0.009, +0.002]","[−0.013, +0.003]",1,exp6/comparators_missing | PS − GDN | d1 | base
+291,+0.203,"[+0.170, +0.237]","[+0.004, +0.323]",1,exp6/comparators_missing | PS − GDN | d1 | C 0.5
+291,+0.354,"[+0.308, +0.401]","[+0.004, +0.570]",1,exp6/comparators_missing | PS − GDN | d1 | C 0.7
+291,+0.368,"[+0.324, +0.413]","[+0.045, +0.581]",1,"exp6/comparators_missing | PS − GDN | d1 | D pi=0.7,L=4"
+291,+0.414,"[+0.369, +0.457]","[+0.108, +0.611]",1,exp6/comparators_missing | PS − GDN | d1 | P P3
+292,−0.001,"[−0.008, +0.004]","[−0.013, +0.007]",2,exp1_baselines | PS − OMNI | d1 | batch2 ; exp6/comparators_missing | PS − OMNI | d1 | base
+292,+0.192,"[+0.160, +0.226]","[−0.012, +0.315]",1,exp6/comparators_missing | PS − OMNI | d1 | C 0.5
+292,+0.341,"[+0.292, +0.389]","[−0.018, +0.554]",1,exp6/comparators_missing | PS − OMNI | d1 | C 0.7
+292,+0.358,"[+0.313, +0.405]","[+0.021, +0.573]",1,"exp6/comparators_missing | PS − OMNI | d1 | D pi=0.7,L=4"
+292,+0.408,"[+0.365, +0.452]","[+0.105, +0.606]",1,exp6/comparators_missing | PS − OMNI | d1 | P P3
+293,+0.013,"[+0.005, +0.022]","[−0.010, +0.045]",1,exp6/comparators_missing | PS − LAPRPCA | d1 | base
+293,+0.334,"[+0.300, +0.369]","[+0.227, +0.414]",1,exp6/comparators_missing | PS − LAPRPCA | d1 | C 0.5
+293,+0.407,"[+0.372, +0.443]","[+0.213, +0.531]",1,exp6/comparators_missing | PS − LAPRPCA | d1 | C 0.7
+293,+0.446,"[+0.414, +0.479]","[+0.323, +0.540]",1,"exp6/comparators_missing | PS − LAPRPCA | d1 | D pi=0.7,L=4"
+293,+0.424,"[+0.382, +0.464]","[+0.171, +0.597]",1,exp6/comparators_missing | PS − LAPRPCA | d1 | P P3
+294,+0.016,"[+0.007, +0.025]","[+0.004, +0.030]",1,exp6/comparators_missing | PS − CAE2D | d1 | base
+294,+0.199,"[+0.167, +0.234]","[+0.011, +0.316]",1,exp6/comparators_missing | PS − CAE2D | d1 | C 0.5
+294,+0.356,"[+0.310, +0.401]","[+0.020, +0.573]",1,exp6/comparators_missing | PS − CAE2D | d1 | C 0.7
+294,+0.373,"[+0.328, +0.416]","[+0.065, +0.581]",1,"exp6/comparators_missing | PS − CAE2D | d1 | D pi=0.7,L=4"
+294,+0.418,"[+0.374, +0.461]","[+0.127, +0.614]",1,exp6/comparators_missing | PS − CAE2D | d1 | P P3
+295,+0.006,"[−0.001, +0.012]","[−0.002, +0.013]",1,exp6/comparators_missing | PS − TRANAD | d1 | base
+295,+0.207,"[+0.174, +0.239]","[+0.009, +0.325]",1,exp6/comparators_missing | PS − TRANAD | d1 | C 0.5
+295,+0.358,"[+0.311, +0.404]","[+0.009, +0.573]",1,exp6/comparators_missing | PS − TRANAD | d1 | C 0.7
+295,+0.372,"[+0.327, +0.418]","[+0.048, +0.584]",1,"exp6/comparators_missing | PS − TRANAD | d1 | D pi=0.7,L=4"
+295,+0.416,"[+0.371, +0.460]","[+0.121, +0.616]",1,exp6/comparators_missing | PS − TRANAD | d1 | P P3
+304,+0.027,"[+0.021, +0.034]","[+0.004, +0.062]",1,exp6/conditions | PS − cell | d1 | A 0.1
+304,−0.044,"[−0.052, −0.037]","[−0.079, −0.019]",1,exp6/conditions | PS − cell | d2 | A 0.1
+306,+0.015,"[+0.011, +0.019]","[+0.002, +0.037]",1,exp6/part2 | PS − cell | d1 | G1 2.0
+310,−0.008,"[−0.012, −0.006]","[−0.025, +0.002]",1,exp6/part2 | PS − cell | d2 | J1 0.3
+321,+0.087,"[+0.051, +0.126]","[+0.000, +0.236]",1,exp1_stssd/original | PS − R(N) cell | d1 | nan
+321,+0.117,"[+0.091, +0.145]","[+0.065, +0.196]",1,exp1_stssd/original | PS − R(N) cell | d2 | nan
+321,+0.002,"[−0.007, +0.009]","[−0.013, +0.018]",1,exp1_stssd/original | R(N) − PS window | d1 | nan
+321,+0.034,"[+0.022, +0.048]","[+0.019, +0.054]",1,exp1_stssd/original | R(N) − PS window | d2 | nan
+322,+0.059,"[+0.044, +0.075]","[+0.032, +0.087]",1,exp1_stssd/original | PS − DT(G1T4) cell | d1 | nan
+322,+0.433,"[+0.387, +0.478]","[+0.295, +0.568]",1,exp1_stssd/original | PS − DT(G1T4) cell | d2 | nan
+322,-0.024,"[−0.033, −0.015]","[−0.038, −0.013]",1,exp1_stssd/original | DT(G1T4) − PS window | d1 | nan
+322,-0.207,"[−0.238, −0.177]","[−0.283, −0.125]",1,exp1_stssd/original | DT(G1T4) − PS window | d2 | nan
+323,+0.611,"[+0.574, +0.649]","[+0.557, +0.673]",1,exp1_stssd/original | PS − R(G1) cell | d1 | nan
+323,+0.558,"[+0.517, +0.598]","[+0.430, +0.682]",1,exp1_stssd/original | PS − R(G1) cell | d2 | nan
+323,-0.417,"[−0.441, −0.392]","[−0.457, −0.381]",1,exp1_stssd/original | R(G1) − PS window | d1 | nan
+323,-0.153,"[−0.183, −0.124]","[−0.210, −0.093]",1,exp1_stssd/original | R(G1) − PS window | d2 | nan
+324,+0.631,"[+0.592, +0.672]","[+0.573, +0.696]",1,exp1_stssd/original | PS − D(G1) cell | d1 | nan
+324,+0.434,"[+0.386, +0.481]","[+0.300, +0.569]",1,exp1_stssd/original | PS − D(G1) cell | d2 | nan
+324,-0.388,"[−0.415, −0.362]","[−0.428, −0.353]",1,exp1_stssd/original | D(G1) − PS window | d1 | nan
+324,-0.205,"[−0.236, −0.175]","[−0.281, −0.122]",1,exp1_stssd/original | D(G1) − PS window | d2 | nan
+326,+0.031,"[+0.026, +0.036]","[+0.026, +0.036]",1,"exp10 | R − PS window | d6 | x3, full"
+326,+0.000,"[−0.002, +0.002]","[−0.002, +0.003]",1,"exp10 | R − PS window | d6 | main, full"
+335,+0.000,"[−0.002, +0.002]","[−0.002, +0.003]",1,"exp10 | R − PS window | d6 | main, full"
+336,+0.017,"[+0.015, +0.019]","[+0.015, +0.019]",2,"exp10 | PS − cell | d6 | main, full ; exp10/design | PS − cell | d6 | SD, main"
+337,+0.016,"[+0.015, +0.018]","[+0.014, +0.019]",1,"exp10 | PS − cellfill | d6 | main, full"
+338,-0.003,"[−0.003, −0.003]","[−0.003, −0.002]",2,"exp10 | PS − Z1 | d6 | main, full ; exp10/design | PS − Z1 | d6 | SD, main"
+339,+0.024,"[+0.022, +0.025]","[+0.021, +0.027]",1,"exp10 | PS − cell | d6 | main, f=0.1"
+341,+0.029,"[+0.027, +0.032]","[+0.026, +0.034]",1,"exp10 | PS − OLS | d6 | main, full"
+341,+0.060,"[+0.054, +0.066]","[+0.053, +0.067]",1,"exp10 | PS − PCA | d6 | main, full"
+345,−0.065,"[−0.069, −0.062]","[−0.075, −0.055]",1,"exp10/design | PS − Z1 | d6 | outlier-excluded, main"
+360,+0.029,"[+0.026, +0.032]","[+0.026, +0.032]",2,"exp10/design | PSH − PS | d6 | SD, main ; exp10/design | PS1H − PS | d6 | SD, main"
+360,+0.353,"[+0.345, +0.362]","[+0.327, +0.378]",1,"exp10/design | PSH − PS | d6 | outlier-excluded, main"
+360,+0.026,"[+0.024, +0.029]","[+0.024, +0.029]",1,"exp10/design | PS1H − Z1 | d6 | SD, main"
+360,+0.292,"[+0.284, +0.300]","[+0.265, +0.318]",1,"exp10/design | PS1H − Z1 | d6 | outlier-excluded, main"
