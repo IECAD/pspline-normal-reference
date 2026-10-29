@@ -1,0 +1,10 @@
+month 25: per-point 6-sample block means, compared with S3 sets of the same month
+tst06 vs tst01: blocks 96, same position 1.00, mean |dRSS| 1.38 dB, mean per-block corr 0.880
+tst06 vs tst05: blocks 96, same position 1.00, mean |dRSS| 1.89 dB, mean per-block corr 0.846
+tst06 vs trn01: blocks 96, same position 1.00, mean |dRSS| 1.33 dB, mean per-block corr 0.878
+tst10 vs tst01: blocks 96, same position 1.00, mean |dRSS| 1.78 dB, mean per-block corr 0.833
+tst10 vs tst05: blocks 96, same position 1.00, mean |dRSS| 1.30 dB, mean per-block corr 0.910
+tst10 vs trn01: blocks 96, same position 1.00, mean |dRSS| 1.71 dB, mean per-block corr 0.835
+trn02 vs tst01: blocks 96, same position 1.00, mean |dRSS| 1.33 dB, mean per-block corr 0.877
+trn02 vs tst05: blocks 96, same position 1.00, mean |dRSS| 1.82 dB, mean per-block corr 0.840
+trn02 vs trn01: blocks 96, same position 1.00, mean |dRSS| 1.29 dB, mean per-block corr 0.884

@@ -38,14 +38,14 @@ EXPERIMENTS = [
     "exp8_cost.py", "exp9_d4.py", "exp9_summarize.py", "exp10_d6.py", "exp10_design_d1d2.py",
     "expR1_3_thresholds.py", "expR1_3_train_seeds.py", "expR1_4_factorial.py", "expR1_4_factorial_summarize.py",
     "expR1_4_robust.py", "expR1_4_robust_summarize.py", "expR1_5_sim.py", "expR1_5_summarize.py",
-    "expR1_6_uji.py", "expR1_7_hymn.py",
+    "expR1_6_uji.py", "expR1_6b_uji_by_set.py", "expR1_7_hymn.py",
 ]
 ANALYSIS = [
     "common.py", "fig_style.py", "00_fetch_d2.py", "12_d2_structure.py", "20_d3_structure.py", "21_d4_structure.py",
     "42_d2_nlos_signature.py", "47_reference_error.py", "48_d3_feasibility.py", "49_phy_loss_library.py",
     "60_math_figures.py", "61_huber_synthetic_check.py", "63_math_paired_stats.py", "64_math_fig1.py", "67_math_tables.py",
     "72_graphical_abstract.py",
-    "69_math_fig4_comparators_missing.py", "76_cluster_bootstrap.py", "77_pred_variance.py", "78_release_package.py", "81_supp_revision.py",
+    "69_math_fig4_comparators_missing.py", "76_cluster_bootstrap.py", "77_pred_variance.py", "78_release_package.py", "81_supp_revision.py", "85_uji_a5_direction.py",
 ]
 ANALYSIS_OUT = [
     "42_d2_nlos_signature.txt", "43_exp3_paired.csv", "43_exp3_paired.txt", "47_reference_error.csv", "47_reference_error.txt",

@@ -60,6 +60,8 @@ For R1-7 the data loader, the analysis code and the structural note were fixed t
 
 Read-only copies of the five R1-7 files as registered are in `doc/registered/R1-7/`. Two of the seven R1-7 predictions were not borne out; the results are reported as found (Section 4.6 of the paper).
 
+Post hoc note on R1-6 (2026-10-29, appended to the plan after line 103; the registered verdicts are unchanged): reading the dataset description after the runs showed that one of the four registered test sets (Test-05) was recorded at the same points but facing the two other directions. `experiments/expR1_6b_uji_by_set.py` splits the registered test by set with the same injections (it reproduces the pooled values to 1e-16), and `analysis/85_uji_a5_direction.py` checks which orientation the month-25 sets of the second phone correspond to. Both are post hoc and are marked so in the paper (Section 4.7, Table S48).
+
 ## Checking a fingerprint
 
 The files are stored byte for byte (`.gitattributes` turns off line-ending conversion). To recompute the fingerprint of the first *k* lines:

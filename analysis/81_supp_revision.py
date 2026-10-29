@@ -212,9 +212,37 @@ def s48():
         far = g.groupby("ref").far_cell.mean()
         rows.append([lab[(cond, str(lev))], "AUC-PR"] + [f3(a.get(k)) for k in refs])
         rows.append(["", "cell FAR"] + [f3(far.get(k)) for k in refs])
+    b = pd.read_csv(R / "expR1/uji/by_set_test.csv")                  # 사후 분석 expR1_6b (세트별)
+    glab = {"same directions (trn14, trn15, tst01)": "training orientation (trn14, trn15, tst01)",
+            "tst05 (other directions)": "Test-05 (other directions)"}
+    rows2 = []
+    for cond, clab in (("N", "natural missingness"), ("M", "+ 70 % random loss")):
+        for g, gl in glab.items():
+            sub = b[(b.cond == cond) & (b.group == g)]
+            a = sub.groupby("ref").auc_pr.mean(); far = sub.groupby("ref").far_cell.mean()
+            rows2.append([clab, gl, "AUC-PR"] + [f3(a.get(k)) for k in refs])
+            rows2.append(["", "", "cell FAR"] + [f3(far.get(k)) for k in refs])
+    s = pd.read_csv(R / "expR1/uji/shift_far.csv", encoding="utf-8-sig")  # expR1_6_uji shift (서술)
+    s = s[s.month >= 2].copy()
+    s["orient"] = np.where(s.set.isin(["tst05", "tst10"]), "other directions", "training orientation")
+    rows3 = []
+    for (dev, ori), g in s.groupby(["device", "orient"], sort=False):
+        phone = {"S3": "Galaxy S3", "A5": "Galaxy A5 (2017)"}[dev]
+        months = f"{g.month.min()}–{g.month.max()}" if g.month.nunique() > 1 else f"{g.month.min()}"
+        rows3.append([phone, ori, ", ".join(sorted(g.set.unique())), months, len(g),
+                      f3(g.far_cell.min()), f3(g.far_cell.median()), f3(g.far_cell.max())])
     return ("**Table S48.** Wi-Fi fingerprints (D7, Section 4.7), test split: mean cell AUC-PR and realised cell false-alarm rate "
-            "(nominal 0.025) per condition and reference; GM = one global cell mean for all nodes.\n\n"
-            + table(["Condition", "Metric"] + refs, rows))
+            "(nominal 0.025) per condition and reference; GM = one global cell mean for all nodes. The upper part is the registered "
+            "test (sets trn14, trn15, tst01, tst05). The middle part splits it by set (post hoc, same injections): Test-05 was recorded "
+            "at the same points but facing the two other directions (dataset description by Mendoza-Silva et al., 2018, cited in the main text). "
+            "The lower part gives the realised cell false-alarm rate of the first-month P-spline reference (natural missingness, calibrated "
+            "on the validation sets) on the sets of later months at the same points, one value per set and floor; the per-set values are in "
+            "results/expR1/uji/shift_far.csv of the code repository. In month 25 some sets were recorded with another phone; tst06 and tst10 "
+            "are its counterparts of tst01 and tst05 (same points; per point, their RSS is closest to tst01 and to tst05 of the same month, "
+            "respectively).\n\n"
+            + table(["Condition", "Metric"] + refs, rows) + "\n\n"
+            + table(["Condition", "Test sets", "Metric"] + refs, rows2) + "\n\n"
+            + table(["Phone", "Orientation", "Sets", "Months", "Values", "Min", "Median", "Max"], rows3))
 
 
 # ---------------------------------------------------------------- S49 HYMN
