@@ -1,0 +1,190 @@
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<home>\AppData\Local\Programs\Python\Python310\lib\site-packages\numpy\lib\_nanfunctions_impl.py:1217: RuntimeWarning: All-NaN slice encountered
+  return fnb._ureduce(a, func=_nanmedian, keepdims=keepdims,
+<home>\AppData\Local\Programs\Python\Python310\lib\site-packages\numpy\lib\_nanfunctions_impl.py:2019: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+<repo>\experiments\exp7_d2real.py:121: RuntimeWarning: Mean of empty slice
+  mu_b1, sd_b1 = np.nanmean(rx, axis=(0, 2)), np.nanstd(rx, axis=(0, 2))
+  env0 done
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<home>\AppData\Local\Programs\Python\Python310\lib\site-packages\numpy\lib\_nanfunctions_impl.py:1217: RuntimeWarning: All-NaN slice encountered
+  return fnb._ureduce(a, func=_nanmedian, keepdims=keepdims,
+<home>\AppData\Local\Programs\Python\Python310\lib\site-packages\numpy\lib\_nanfunctions_impl.py:2019: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+<repo>\experiments\exp7_d2real.py:121: RuntimeWarning: Mean of empty slice
+  mu_b1, sd_b1 = np.nanmean(rx, axis=(0, 2)), np.nanstd(rx, axis=(0, 2))
+  env1 done
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<home>\AppData\Local\Programs\Python\Python310\lib\site-packages\numpy\lib\_nanfunctions_impl.py:1217: RuntimeWarning: All-NaN slice encountered
+  return fnb._ureduce(a, func=_nanmedian, keepdims=keepdims,
+<home>\AppData\Local\Programs\Python\Python310\lib\site-packages\numpy\lib\_nanfunctions_impl.py:2019: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+<repo>\experiments\exp7_d2real.py:121: RuntimeWarning: Mean of empty slice
+  mu_b1, sd_b1 = np.nanmean(rx, axis=(0, 2)), np.nanstd(rx, axis=(0, 2))
+  env2 done
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+<home>\AppData\Local\Programs\Python\Python310\lib\site-packages\numpy\lib\_nanfunctions_impl.py:1217: RuntimeWarning: All-NaN slice encountered
+  return fnb._ureduce(a, func=_nanmedian, keepdims=keepdims,
+<home>\AppData\Local\Programs\Python\Python310\lib\site-packages\numpy\lib\_nanfunctions_impl.py:2019: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+<repo>\experiments\exp7_d2real.py:121: RuntimeWarning: Mean of empty slice
+  mu_b1, sd_b1 = np.nanmean(rx, axis=(0, 2)), np.nanstd(rx, axis=(0, 2))
+  env3 done
+# 실험 7 P4: D2 실제 NLOS 측위 (테스트)
+
+자동 생성: `experiments/exp7_d2real.py`. 계획: `doc/실험7_계획.md` "P4".
+
+## 공통 시점 (RMSE m)
+
+```
+config  B1-soft  PS-soft(마스크 없음)  PS-soft(마스크 학습, 누수 참고)   none  정답 제외
+solver                                                                
+LS        0.915            0.968                   0.808  0.981  1.056
+WLS       0.961            1.006                   0.769  1.019  1.100
+Huber     0.854            0.877                   0.923  0.882  1.287
+EKF       1.183            1.309                   1.281  1.314  0.652
+```
+
+## 전체 시점 (RMSE m)
+
+```
+config  B1-soft   none  정답 제외
+solver                       
+LS        0.895  0.956  1.027
+WLS       0.940  0.995  1.072
+Huber     0.832  0.859  1.253
+EKF       1.151  1.279  0.634
+```
+
+## 판정 값 (개선율 = 1 − RMSE/RMSE_none, 단위 = (환경, k))
+
+```
+{
+ "공통/LS/B1-soft": {
+  "improvement": 0.06698197218186486,
+  "frac_units": 0.875,
+  "meets": true
+ },
+ "공통/WLS/B1-soft": {
+  "improvement": 0.05671535537641137,
+  "frac_units": 0.5,
+  "meets": false
+ },
+ "공통/Huber/B1-soft": {
+  "improvement": 0.031279481201986425,
+  "frac_units": 0.6666666666666666,
+  "meets": false
+ },
+ "공통/EKF/B1-soft": {
+  "improvement": 0.1002870030641676,
+  "frac_units": 0.7916666666666666,
+  "meets": false
+ },
+ "공통/LS/PS-soft(마스크 없음)": {
+  "improvement": 0.013489263245450522,
+  "frac_units": 1.0,
+  "meets": false
+ },
+ "공통/WLS/PS-soft(마스크 없음)": {
+  "improvement": 0.012824310413854345,
+  "frac_units": 0.875,
+  "meets": false
+ },
+ "공통/Huber/PS-soft(마스크 없음)": {
+  "improvement": 0.005509317201161212,
+  "frac_units": 0.8333333333333334,
+  "meets": false
+ },
+ "공통/EKF/PS-soft(마스크 없음)": {
+  "improvement": 0.004405775897026509,
+  "frac_units": 0.7916666666666666,
+  "meets": false
+ },
+ "공통/LS/PS-soft(마스크 학습, 누수 참고)": {
+  "improvement": 0.17639904475295998,
+  "frac_units": 0.5,
+  "meets": false
+ },
+ "공통/WLS/PS-soft(마스크 학습, 누수 참고)": {
+  "improvement": 0.24473004276217414,
+  "frac_units": 0.75,
+  "meets": false
+ },
+ "공통/Huber/PS-soft(마스크 학습, 누수 참고)": {
+  "improvement": -0.04613851112585721,
+  "frac_units": 0.6666666666666666,
+  "meets": false
+ },
+ "공통/EKF/PS-soft(마스크 학습, 누수 참고)": {
+  "improvement": 0.025814011997337682,
+  "frac_units": 0.75,
+  "meets": false
+ },
+ "공통/LS/정답 제외": {
+  "improvement": -0.07643229893859038,
+  "frac_units": 0.5,
+  "meets": false
+ },
+ "공통/WLS/정답 제외": {
+  "improvement": -0.0801673679374697,
+  "frac_units": 0.5833333333333334,
+  "meets": false
+ },
+ "공통/Huber/정답 제외": {
+  "improvement": -0.4597191918201349,
+  "frac_units": 0.041666666666666664,
+  "meets": false
+ },
+ "공통/EKF/정답 제외": {
+  "improvement": 0.5039799052561804,
+  "frac_units": 0.9166666666666666,
+  "meets": true
+ },
+ "전체/LS/B1-soft": {
+  "improvement": 0.06449380010821981,
+  "frac_units": 0.7916666666666666,
+  "meets": false
+ },
+ "전체/WLS/B1-soft": {
+  "improvement": 0.05509441356599576,
+  "frac_units": 0.5,
+  "meets": false
+ },
+ "전체/Huber/B1-soft": {
+  "improvement": 0.031191558113200957,
+  "frac_units": 0.6666666666666666,
+  "meets": false
+ },
+ "전체/EKF/B1-soft": {
+  "improvement": 0.10014630446392148,
+  "frac_units": 0.7916666666666666,
+  "meets": false
+ },
+ "전체/LS/정답 제외": {
+  "improvement": -0.07374243140727965,
+  "frac_units": 0.5,
+  "meets": false
+ },
+ "전체/WLS/정답 제외": {
+  "improvement": -0.07734050678547777,
+  "frac_units": 0.5833333333333334,
+  "meets": false
+ },
+ "전체/Huber/정답 제외": {
+  "improvement": -0.45994563628658947,
+  "frac_units": 0.041666666666666664,
+  "meets": false
+ },
+ "전체/EKF/정답 제외": {
+  "improvement": 0.5040147106764131,
+  "frac_units": 0.9166666666666666,
+  "meets": true
+ }
+}
+```
+
+**주 판정 (공통 시점, LS, B1-soft): {'improvement': 0.06698197218186486, 'frac_units': 0.875, 'meets': True}**

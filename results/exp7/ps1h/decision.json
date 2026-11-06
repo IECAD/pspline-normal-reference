@@ -1,0 +1,18 @@
+{
+ "rule": "doc/실험7_계획.md 5절",
+ "hard_better_by_5pct": {
+  "SC1": {
+   "LS": false,
+   "WLS": false,
+   "Huber": false,
+   "EKF": false
+  },
+  "SC2": {
+   "LS": false,
+   "WLS": false,
+   "Huber": false,
+   "EKF": false
+  }
+ },
+ "default": "soft"
+}

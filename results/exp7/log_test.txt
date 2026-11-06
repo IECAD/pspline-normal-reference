@@ -1,0 +1,23 @@
+  d1 classroom: dz=<withheld> σ=[0.209 0.273 0.388 0.252]
+  d1 classroom done
+  d1 lab: dz=<withheld> σ=[0.175 0.234 0.2   0.115]
+  d1 lab done
+  d1 hallway: dz=<withheld> σ=[0.088 0.13  0.171 0.127]
+  d1 hallway done
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0: b=[-0.46 -0.58 -0.57 -0.58 -0.45 -0.42 -0.59 -0.52] σ=[0.128 0.26  0.117 0.095 0.062 0.081 0.063 0.149]
+  d2 env0 done
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1: b=[-0.55 -0.68 -0.6  -0.51 -0.39 -0.45 -0.54 -0.55] σ=[0.071 0.081 0.106 0.055 0.1   0.088 0.07  0.139]
+  d2 env1 done
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2: b=[-0.55 -0.64 -0.55 -0.47 -0.21 -0.13 -0.4  -0.42] σ=[0.309 0.081 0.147 0.103 0.122 0.219 0.163 0.091]
+  d2 env2 done
+<repo>\src\model\compose.py:82: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3: b=[-0.58 -0.61 -0.6   0.03 -0.32 -0.34 -0.41 -0.49] σ=[0.075 0.102 0.143 0.739 0.036 0.062 1.962 2.089]
+  d2 env3 done
+done: 9810 rows, 49.2s

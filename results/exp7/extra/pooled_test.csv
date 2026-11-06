@@ -1,0 +1,610 @@
+﻿set,split,scenario,solver,config,subset,n,rmse
+P1,test,SC1,LS,none,all,9000,0.5409699064127143
+P1,test,SC1,LS,none,anom,3507,0.7904624023112318
+P1,test,SC1,LS,none,norm,5493,0.2838431950952735
+P1,test,SC1,WLS,none,all,9000,0.5503456893021267
+P1,test,SC1,WLS,none,anom,3507,0.8119561083419592
+P1,test,SC1,WLS,none,norm,5493,0.2744850909829715
+P1,test,SC1,Huber,none,all,9000,0.5092675008357007
+P1,test,SC1,Huber,none,anom,3507,0.7521185399093552
+P1,test,SC1,Huber,none,norm,5493,0.2525431064774379
+P1,test,SC1,EKF,none,all,9000,0.6004908292675868
+P1,test,SC1,EKF,none,anom,3507,0.7783347596075276
+P1,test,SC1,EKF,none,norm,5493,0.4516984546706636
+P1,test,SC1,LS,PS-soft(정답 노드),all,9000,0.24959323815834183
+P1,test,SC1,LS,PS-soft(정답 노드),anom,3507,0.2893792494378112
+P1,test,SC1,LS,PS-soft(정답 노드),norm,5493,0.22046805436783942
+P1,test,SC1,WLS,PS-soft(정답 노드),all,9000,0.2529315950395431
+P1,test,SC1,WLS,PS-soft(정답 노드),anom,3507,0.2934068723401411
+P1,test,SC1,WLS,PS-soft(정답 노드),norm,5493,0.22328511406301024
+P1,test,SC1,Huber,PS-soft(정답 노드),all,9000,0.2523973613642929
+P1,test,SC1,Huber,PS-soft(정답 노드),anom,3507,0.2961669976858797
+P1,test,SC1,Huber,PS-soft(정답 노드),norm,5493,0.21994311495229701
+P1,test,SC1,EKF,PS-soft(정답 노드),all,9000,0.22177188888134858
+P1,test,SC1,EKF,PS-soft(정답 노드),anom,3507,0.25493870517785355
+P1,test,SC1,EKF,PS-soft(정답 노드),norm,5493,0.1977075416275168
+P1,test,SC1,LS,PS-soft(추정 1단계),all,9000,0.4323223213821233
+P1,test,SC1,LS,PS-soft(추정 1단계),anom,3507,0.6349151380978233
+P1,test,SC1,LS,PS-soft(추정 1단계),norm,5493,0.2210442964556679
+P1,test,SC1,WLS,PS-soft(추정 1단계),all,9000,0.43304586953563806
+P1,test,SC1,WLS,PS-soft(추정 1단계),anom,3507,0.6346704956043175
+P1,test,SC1,WLS,PS-soft(추정 1단계),norm,5493,0.2237962710145882
+P1,test,SC1,Huber,PS-soft(추정 1단계),all,9000,0.4388126760094842
+P1,test,SC1,Huber,PS-soft(추정 1단계),anom,3507,0.6463882277165652
+P1,test,SC1,Huber,PS-soft(추정 1단계),norm,5493,0.22076867195471858
+P1,test,SC1,EKF,PS-soft(추정 1단계),all,9000,0.4181587565799406
+P1,test,SC1,EKF,PS-soft(추정 1단계),anom,3507,0.6217523979286097
+P1,test,SC1,EKF,PS-soft(추정 1단계),norm,5493,0.19921040378542929
+P1,test,SC1,LS,PS-soft(추정 노드),all,9000,0.42703261572596957
+P1,test,SC1,LS,PS-soft(추정 노드),anom,3507,0.6260045401897834
+P1,test,SC1,LS,PS-soft(추정 노드),norm,5493,0.22042221003604875
+P1,test,SC1,WLS,PS-soft(추정 노드),all,9000,0.4254659591713539
+P1,test,SC1,WLS,PS-soft(추정 노드),anom,3507,0.6216920258460922
+P1,test,SC1,WLS,PS-soft(추정 노드),norm,5493,0.22323304306398675
+P1,test,SC1,Huber,PS-soft(추정 노드),all,9000,0.4251184734942429
+P1,test,SC1,Huber,PS-soft(추정 노드),anom,3507,0.6229341799667328
+P1,test,SC1,Huber,PS-soft(추정 노드),norm,5493,0.21991286592192824
+P1,test,SC1,EKF,PS-soft(추정 노드),all,9000,0.41052118668422516
+P1,test,SC1,EKF,PS-soft(추정 노드),anom,3507,0.6087060649353914
+P1,test,SC1,EKF,PS-soft(추정 노드),norm,5493,0.19890670763022522
+P1,test,SC1,LS,cell-soft(추정 노드),all,9000,0.42820413934143475
+P1,test,SC1,LS,cell-soft(추정 노드),anom,3507,0.6266520721329074
+P1,test,SC1,LS,cell-soft(추정 노드),norm,5493,0.22295670773441195
+P1,test,SC1,WLS,cell-soft(추정 노드),all,9000,0.42692457444866766
+P1,test,SC1,WLS,cell-soft(추정 노드),anom,3507,0.62356938463046
+P1,test,SC1,WLS,cell-soft(추정 노드),norm,5493,0.22444937901377704
+P1,test,SC1,Huber,cell-soft(추정 노드),all,9000,0.42530607510943
+P1,test,SC1,Huber,cell-soft(추정 노드),anom,3507,0.6229810137036891
+P1,test,SC1,Huber,cell-soft(추정 노드),norm,5493,0.2204219008248927
+P1,test,SC1,EKF,cell-soft(추정 노드),all,9000,0.41128385638584375
+P1,test,SC1,EKF,cell-soft(추정 노드),anom,3507,0.6098353506041131
+P1,test,SC1,EKF,cell-soft(추정 노드),norm,5493,0.19927931260467593
+P1,test,SC1,LS,시간이력-soft,all,9000,0.5244083756196519
+P1,test,SC1,LS,시간이력-soft,anom,3507,0.7848200535791482
+P1,test,SC1,LS,시간이력-soft,norm,5493,0.23944185904344395
+P1,test,SC1,WLS,시간이력-soft,all,9000,0.5348974118218497
+P1,test,SC1,WLS,시간이력-soft,anom,3507,0.8049326843751654
+P1,test,SC1,WLS,시간이력-soft,norm,5493,0.2347840116089719
+P1,test,SC1,Huber,시간이력-soft,all,9000,0.5017084241518598
+P1,test,SC1,Huber,시간이력-soft,anom,3507,0.7526283076717735
+P1,test,SC1,Huber,시간이력-soft,norm,5493,0.22531574500585141
+P1,test,SC1,EKF,시간이력-soft,all,9000,0.5037077856834691
+P1,test,SC1,EKF,시간이력-soft,anom,3507,0.7652682468132957
+P1,test,SC1,EKF,시간이력-soft,norm,5493,0.20447841327020244
+P1,test,SC1,LS,참거리z-soft(oracle),all,9000,0.27913533286373854
+P1,test,SC1,LS,참거리z-soft(oracle),anom,3507,0.3580646844210163
+P1,test,SC1,LS,참거리z-soft(oracle),norm,5493,0.21402458061607302
+P1,test,SC1,WLS,참거리z-soft(oracle),all,9000,0.28790696250885467
+P1,test,SC1,WLS,참거리z-soft(oracle),anom,3507,0.37072445035961815
+P1,test,SC1,WLS,참거리z-soft(oracle),norm,5493,0.2192383551741751
+P1,test,SC1,Huber,참거리z-soft(oracle),all,9000,0.2605026786374261
+P1,test,SC1,Huber,참거리z-soft(oracle),anom,3507,0.319143607839544
+P1,test,SC1,Huber,참거리z-soft(oracle),norm,5493,0.21484908619791332
+P1,test,SC1,EKF,참거리z-soft(oracle),all,9000,0.26188800204580687
+P1,test,SC1,EKF,참거리z-soft(oracle),anom,3507,0.3436241966993419
+P1,test,SC1,EKF,참거리z-soft(oracle),norm,5493,0.19232015767790894
+P1,test,SC1,Rwgh,none,all,9000,0.4275516233253963
+P1,test,SC1,Rwgh,none,anom,3507,0.6064142339561166
+P1,test,SC1,Rwgh,none,norm,5493,0.25441507106025046
+P1,test,SC2,LS,none,all,9000,0.6886584583257939
+P1,test,SC2,LS,none,anom,3182,1.0998668011678223
+P1,test,SC2,LS,none,norm,5818,0.26835078050865274
+P1,test,SC2,WLS,none,all,9000,0.7161628384289167
+P1,test,SC2,WLS,none,anom,3182,1.150021019125102
+P1,test,SC2,WLS,none,norm,5818,0.2647031027648078
+P1,test,SC2,Huber,none,all,9000,0.7808581716144563
+P1,test,SC2,Huber,none,anom,3182,1.2695878603248973
+P1,test,SC2,Huber,none,norm,5818,0.24831437417378824
+P1,test,SC2,EKF,none,all,9000,0.766954687333942
+P1,test,SC2,EKF,none,anom,3182,1.1655095883445776
+P1,test,SC2,EKF,none,norm,5818,0.4086354172774362
+P1,test,SC2,LS,PS-soft(정답 노드),all,9000,0.331700701436266
+P1,test,SC2,LS,PS-soft(정답 노드),anom,3182,0.4730053842168618
+P1,test,SC2,LS,PS-soft(정답 노드),norm,5818,0.21871303645417986
+P1,test,SC2,WLS,PS-soft(정답 노드),all,9000,0.36203706968005145
+P1,test,SC2,WLS,PS-soft(정답 노드),anom,3182,0.527536697610788
+P1,test,SC2,WLS,PS-soft(정답 노드),norm,5818,0.22483444593805677
+P1,test,SC2,Huber,PS-soft(정답 노드),all,9000,0.4054152768400573
+P1,test,SC2,Huber,PS-soft(정답 노드),anom,3182,0.611709038436374
+P1,test,SC2,Huber,PS-soft(정답 노드),norm,5818,0.22271638994658294
+P1,test,SC2,EKF,PS-soft(정답 노드),all,9000,0.32803490739953106
+P1,test,SC2,EKF,PS-soft(정답 노드),anom,3182,0.47251789672353867
+P1,test,SC2,EKF,PS-soft(정답 노드),norm,5818,0.2105856638997468
+P1,test,SC2,LS,PS-soft(추정 1단계),all,9000,0.5439654021618414
+P1,test,SC2,LS,PS-soft(추정 1단계),anom,3182,0.8657345516617382
+P1,test,SC2,LS,PS-soft(추정 1단계),norm,5818,0.21866652570531248
+P1,test,SC2,WLS,PS-soft(추정 1단계),all,9000,0.5659394043301299
+P1,test,SC2,WLS,PS-soft(추정 1단계),anom,3182,0.9019443855423457
+P1,test,SC2,WLS,PS-soft(추정 1단계),norm,5818,0.22480196079956405
+P1,test,SC2,Huber,PS-soft(추정 1단계),all,9000,0.5930935505753296
+P1,test,SC2,Huber,PS-soft(추정 1단계),anom,3182,0.9508967162626123
+P1,test,SC2,Huber,PS-soft(추정 1단계),norm,5818,0.2227444955757887
+P1,test,SC2,EKF,PS-soft(추정 1단계),all,9000,0.5461053181281085
+P1,test,SC2,EKF,PS-soft(추정 1단계),anom,3182,0.870758284131972
+P1,test,SC2,EKF,PS-soft(추정 1단계),norm,5818,0.215991466356486
+P1,test,SC2,LS,PS-soft(추정 노드),all,9000,0.534342432266711
+P1,test,SC2,LS,PS-soft(추정 노드),anom,3182,0.8483935944042007
+P1,test,SC2,LS,PS-soft(추정 노드),norm,5818,0.21913569457502338
+P1,test,SC2,WLS,PS-soft(추정 노드),all,9000,0.5511988857248556
+P1,test,SC2,WLS,PS-soft(추정 노드),anom,3182,0.8755215843871554
+P1,test,SC2,WLS,PS-soft(추정 노드),norm,5818,0.225275449703459
+P1,test,SC2,Huber,PS-soft(추정 노드),all,9000,0.5850880857070779
+P1,test,SC2,Huber,PS-soft(추정 노드),anom,3182,0.9364942988419239
+P1,test,SC2,Huber,PS-soft(추정 노드),norm,5818,0.2233645235427332
+P1,test,SC2,EKF,PS-soft(추정 노드),all,9000,0.5285715976454584
+P1,test,SC2,EKF,PS-soft(추정 노드),anom,3182,0.8393727902269648
+P1,test,SC2,EKF,PS-soft(추정 노드),norm,5818,0.21646868421975674
+P1,test,SC2,LS,cell-soft(추정 노드),all,9000,0.5450932814037506
+P1,test,SC2,LS,cell-soft(추정 노드),anom,3182,0.8666012908797075
+P1,test,SC2,LS,cell-soft(추정 노드),norm,5818,0.22111983256688958
+P1,test,SC2,WLS,cell-soft(추정 노드),all,9000,0.5450043772340505
+P1,test,SC2,WLS,cell-soft(추정 노드),anom,3182,0.8640364691831534
+P1,test,SC2,WLS,cell-soft(추정 노드),norm,5818,0.22621169813572448
+P1,test,SC2,Huber,cell-soft(추정 노드),all,9000,0.59159596253468
+P1,test,SC2,Huber,cell-soft(추정 노드),anom,3182,0.9478267850296068
+P1,test,SC2,Huber,cell-soft(추정 노드),norm,5818,0.22373775689620098
+P1,test,SC2,EKF,cell-soft(추정 노드),all,9000,0.5206296991213029
+P1,test,SC2,EKF,cell-soft(추정 노드),anom,3182,0.8279257745158369
+P1,test,SC2,EKF,cell-soft(추정 노드),norm,5818,0.21072986578331504
+P1,test,SC2,LS,시간이력-soft,all,9000,0.6756482441040933
+P1,test,SC2,LS,시간이력-soft,anom,3182,1.091307117676014
+P1,test,SC2,LS,시간이력-soft,norm,5818,0.2341203373263178
+P1,test,SC2,WLS,시간이력-soft,all,9000,0.7023058823979818
+P1,test,SC2,WLS,시간이력-soft,anom,3182,1.1376111757863732
+P1,test,SC2,WLS,시간이력-soft,norm,5818,0.23492260018327285
+P1,test,SC2,Huber,시간이력-soft,all,9000,0.7688636846991019
+P1,test,SC2,Huber,시간이력-soft,anom,3182,1.2555247470727267
+P1,test,SC2,Huber,시간이력-soft,norm,5818,0.2287518272247244
+P1,test,SC2,EKF,시간이력-soft,all,9000,0.6976650809657529
+P1,test,SC2,EKF,시간이력-soft,anom,3182,1.1347170108381814
+P1,test,SC2,EKF,시간이력-soft,norm,5818,0.22076033191992092
+P1,test,SC2,LS,참거리z-soft(oracle),all,9000,0.4436581690462851
+P1,test,SC2,LS,참거리z-soft(oracle),anom,3182,0.6879053994513382
+P1,test,SC2,LS,참거리z-soft(oracle),norm,5818,0.2137129022310068
+P1,test,SC2,WLS,참거리z-soft(oracle),all,9000,0.4096436097561075
+P1,test,SC2,WLS,참거리z-soft(oracle),anom,3182,0.6202604838654993
+P1,test,SC2,WLS,참거리z-soft(oracle),norm,5818,0.2217474047726355
+P1,test,SC2,Huber,참거리z-soft(oracle),all,9000,0.44294312854957063
+P1,test,SC2,Huber,참거리z-soft(oracle),anom,3182,0.6842903050856572
+P1,test,SC2,Huber,참거리z-soft(oracle),norm,5818,0.21772827264445524
+P1,test,SC2,EKF,참거리z-soft(oracle),all,9000,0.37473805844531505
+P1,test,SC2,EKF,참거리z-soft(oracle),anom,3182,0.5681533336854684
+P1,test,SC2,EKF,참거리z-soft(oracle),norm,5818,0.20170875656833376
+P1,test,SC2,Rwgh,none,all,9000,0.7127233376245952
+P1,test,SC2,Rwgh,none,anom,3182,1.147083496510601
+P1,test,SC2,Rwgh,none,norm,5818,0.25720743619175673
+P1,test,SC3,LS,none,all,9000,0.33200621561306665
+P1,test,SC3,LS,none,anom,496,0.9060562661657666
+P1,test,SC3,LS,none,norm,8504,0.2622510731096107
+P1,test,SC3,WLS,none,all,9000,0.3275720693146095
+P1,test,SC3,WLS,none,anom,496,0.9005892012735862
+P1,test,SC3,WLS,none,norm,8504,0.25740330187304533
+P1,test,SC3,Huber,none,all,9000,0.3073987892371826
+P1,test,SC3,Huber,none,anom,496,0.8470589928769541
+P1,test,SC3,Huber,none,norm,8504,0.24115630328328658
+P1,test,SC3,EKF,none,all,9000,0.38694632294808584
+P1,test,SC3,EKF,none,anom,496,0.3662104838966574
+P1,test,SC3,EKF,none,norm,8504,0.38812156061490866
+P1,test,SC3,LS,PS-soft(정답 노드),all,9000,0.22068291028047549
+P1,test,SC3,LS,PS-soft(정답 노드),anom,496,0.2871750561475974
+P1,test,SC3,LS,PS-soft(정답 노드),norm,8504,0.21617441708277105
+P1,test,SC3,WLS,PS-soft(정답 노드),all,9000,0.22502746661600717
+P1,test,SC3,WLS,PS-soft(정답 노드),anom,496,0.29160090330561844
+P1,test,SC3,WLS,PS-soft(정답 노드),norm,8504,0.2205251225407705
+P1,test,SC3,Huber,PS-soft(정답 노드),all,9000,0.22257235320704316
+P1,test,SC3,Huber,PS-soft(정답 노드),anom,496,0.29384474153332457
+P1,test,SC3,Huber,PS-soft(정답 노드),norm,8504,0.21769636645953688
+P1,test,SC3,EKF,PS-soft(정답 노드),all,9000,0.19426984620539217
+P1,test,SC3,EKF,PS-soft(정답 노드),anom,496,0.19278018635752514
+P1,test,SC3,EKF,PS-soft(정답 노드),norm,8504,0.19435637896243566
+P1,test,SC3,LS,PS-soft(추정 1단계),all,9000,0.22068291028047549
+P1,test,SC3,LS,PS-soft(추정 1단계),anom,496,0.2871750561475974
+P1,test,SC3,LS,PS-soft(추정 1단계),norm,8504,0.21617441708277105
+P1,test,SC3,WLS,PS-soft(추정 1단계),all,9000,0.22502746661600717
+P1,test,SC3,WLS,PS-soft(추정 1단계),anom,496,0.29160090330561844
+P1,test,SC3,WLS,PS-soft(추정 1단계),norm,8504,0.2205251225407705
+P1,test,SC3,Huber,PS-soft(추정 1단계),all,9000,0.22257235320704316
+P1,test,SC3,Huber,PS-soft(추정 1단계),anom,496,0.29384474153332457
+P1,test,SC3,Huber,PS-soft(추정 1단계),norm,8504,0.21769636645953688
+P1,test,SC3,EKF,PS-soft(추정 1단계),all,9000,0.19426984620539217
+P1,test,SC3,EKF,PS-soft(추정 1단계),anom,496,0.19278018635752514
+P1,test,SC3,EKF,PS-soft(추정 1단계),norm,8504,0.19435637896243566
+P1,test,SC3,LS,PS-soft(추정 노드),all,9000,0.22068291028047549
+P1,test,SC3,LS,PS-soft(추정 노드),anom,496,0.2871750561475974
+P1,test,SC3,LS,PS-soft(추정 노드),norm,8504,0.21617441708277105
+P1,test,SC3,WLS,PS-soft(추정 노드),all,9000,0.22502746661600717
+P1,test,SC3,WLS,PS-soft(추정 노드),anom,496,0.29160090330561844
+P1,test,SC3,WLS,PS-soft(추정 노드),norm,8504,0.2205251225407705
+P1,test,SC3,Huber,PS-soft(추정 노드),all,9000,0.22257235320704316
+P1,test,SC3,Huber,PS-soft(추정 노드),anom,496,0.29384474153332457
+P1,test,SC3,Huber,PS-soft(추정 노드),norm,8504,0.21769636645953688
+P1,test,SC3,EKF,PS-soft(추정 노드),all,9000,0.19426984620539217
+P1,test,SC3,EKF,PS-soft(추정 노드),anom,496,0.19278018635752514
+P1,test,SC3,EKF,PS-soft(추정 노드),norm,8504,0.19435637896243566
+P1,test,SC3,LS,cell-soft(추정 노드),all,9000,0.22289425006480346
+P1,test,SC3,LS,cell-soft(추정 노드),anom,496,0.2924731736358686
+P1,test,SC3,LS,cell-soft(추정 노드),norm,8504,0.2181521709885368
+P1,test,SC3,WLS,cell-soft(추정 노드),all,9000,0.22599023283370043
+P1,test,SC3,WLS,cell-soft(추정 노드),anom,496,0.2936008320750954
+P1,test,SC3,WLS,cell-soft(추정 노드),norm,8504,0.22141052077878048
+P1,test,SC3,Huber,cell-soft(추정 노드),all,9000,0.22274714987947944
+P1,test,SC3,Huber,cell-soft(추정 노드),anom,496,0.2922208860084074
+P1,test,SC3,Huber,cell-soft(추정 노드),norm,8504,0.21801283440528654
+P1,test,SC3,EKF,cell-soft(추정 노드),all,9000,0.1945624401311377
+P1,test,SC3,EKF,cell-soft(추정 노드),anom,496,0.19394656302682
+P1,test,SC3,EKF,cell-soft(추정 노드),norm,8504,0.1945983013089619
+P1,test,SC3,LS,시간이력-soft,all,9000,0.23769207641386728
+P1,test,SC3,LS,시간이력-soft,anom,496,0.33002325921720205
+P1,test,SC3,LS,시간이력-soft,norm,8504,0.23117142439779953
+P1,test,SC3,WLS,시간이력-soft,all,9000,0.2369720319673452
+P1,test,SC3,WLS,시간이력-soft,anom,496,0.33926501627160754
+P1,test,SC3,WLS,시간이력-soft,norm,8504,0.22960345657258938
+P1,test,SC3,Huber,시간이력-soft,all,9000,0.22927249738374691
+P1,test,SC3,Huber,시간이력-soft,anom,496,0.3329980442819017
+P1,test,SC3,Huber,시간이력-soft,norm,8504,0.22173008170637523
+P1,test,SC3,EKF,시간이력-soft,all,9000,0.19664329492153065
+P1,test,SC3,EKF,시간이력-soft,anom,496,0.20493498735354168
+P1,test,SC3,EKF,시간이력-soft,norm,8504,0.19614886013146166
+P1,test,SC3,LS,참거리z-soft(oracle),all,9000,0.22359837559563367
+P1,test,SC3,LS,참거리z-soft(oracle),anom,496,0.3774373672593392
+P1,test,SC3,LS,참거리z-soft(oracle),norm,8504,0.21119493133622264
+P1,test,SC3,WLS,참거리z-soft(oracle),all,9000,0.22935587971947566
+P1,test,SC3,WLS,참거리z-soft(oracle),anom,496,0.37664324146104555
+P1,test,SC3,WLS,참거리z-soft(oracle),norm,8504,0.21771131939522748
+P1,test,SC3,Huber,참거리z-soft(oracle),all,9000,0.22144151358088712
+P1,test,SC3,Huber,참거리z-soft(oracle),anom,496,0.3285092831224508
+P1,test,SC3,Huber,참거리z-soft(oracle),norm,8504,0.21354629920709853
+P1,test,SC3,EKF,참거리z-soft(oracle),all,9000,0.18996071331699105
+P1,test,SC3,EKF,참거리z-soft(oracle),anom,496,0.19993566507363472
+P1,test,SC3,EKF,참거리z-soft(oracle),norm,8504,0.1893627028618129
+P1,test,SC3,Rwgh,none,all,9000,0.29420210933709673
+P1,test,SC3,Rwgh,none,anom,496,0.6772195634737771
+P1,test,SC3,Rwgh,none,norm,8504,0.2546637581318342
+P2,test,nlos_static,LS,none,all,1836,0.2778985654412834
+P2,test,nlos_static,LS,none,anom,416,0.31074426719215
+P2,test,nlos_static,LS,none,norm,1420,0.26751346555480104
+P2,test,nlos_static,WLS,none,all,1836,0.31911681068607983
+P2,test,nlos_static,WLS,none,anom,416,0.39857275308254525
+P2,test,nlos_static,WLS,none,norm,1420,0.2917699625905768
+P2,test,nlos_static,Huber,none,all,1836,0.32680380780706864
+P2,test,nlos_static,Huber,none,anom,416,0.41676925873620324
+P2,test,nlos_static,Huber,none,norm,1420,0.29530164360947336
+P2,test,nlos_static,EKF,none,all,1836,0.2556806907696427
+P2,test,nlos_static,EKF,none,anom,416,0.342645209563261
+P2,test,nlos_static,EKF,none,norm,1420,0.22389530786042103
+P2,test,nlos_static,LS,PS-soft(정답 노드),all,1836,0.2594440201808972
+P2,test,nlos_static,LS,PS-soft(정답 노드),anom,416,0.24935975340704677
+P2,test,nlos_static,LS,PS-soft(정답 노드),norm,1420,0.2623248755152423
+P2,test,nlos_static,WLS,PS-soft(정답 노드),all,1836,0.29089555016099095
+P2,test,nlos_static,WLS,PS-soft(정답 노드),anom,416,0.2970758471467948
+P2,test,nlos_static,WLS,PS-soft(정답 노드),norm,1420,0.28905995944532986
+P2,test,nlos_static,Huber,PS-soft(정답 노드),all,1836,0.29115144660560577
+P2,test,nlos_static,Huber,PS-soft(정답 노드),anom,416,0.2898195463954064
+P2,test,nlos_static,Huber,PS-soft(정답 노드),norm,1420,0.2915404846904673
+P2,test,nlos_static,EKF,PS-soft(정답 노드),all,1836,0.22568386631351192
+P2,test,nlos_static,EKF,PS-soft(정답 노드),anom,416,0.2397303953832024
+P2,test,nlos_static,EKF,PS-soft(정답 노드),norm,1420,0.2214001116587103
+P2,test,nlos_static,LS,PS-soft(추정 1단계),all,1836,0.2594440201808972
+P2,test,nlos_static,LS,PS-soft(추정 1단계),anom,416,0.24935975340704677
+P2,test,nlos_static,LS,PS-soft(추정 1단계),norm,1420,0.2623248755152423
+P2,test,nlos_static,WLS,PS-soft(추정 1단계),all,1836,0.29089555016099095
+P2,test,nlos_static,WLS,PS-soft(추정 1단계),anom,416,0.2970758471467948
+P2,test,nlos_static,WLS,PS-soft(추정 1단계),norm,1420,0.28905995944532986
+P2,test,nlos_static,Huber,PS-soft(추정 1단계),all,1836,0.29115144660560577
+P2,test,nlos_static,Huber,PS-soft(추정 1단계),anom,416,0.2898195463954064
+P2,test,nlos_static,Huber,PS-soft(추정 1단계),norm,1420,0.2915404846904673
+P2,test,nlos_static,EKF,PS-soft(추정 1단계),all,1836,0.22568386631351192
+P2,test,nlos_static,EKF,PS-soft(추정 1단계),anom,416,0.2397303953832024
+P2,test,nlos_static,EKF,PS-soft(추정 1단계),norm,1420,0.2214001116587103
+P2,test,nlos_static,LS,PS-soft(추정 노드),all,1836,0.2594440201808972
+P2,test,nlos_static,LS,PS-soft(추정 노드),anom,416,0.24935975340704677
+P2,test,nlos_static,LS,PS-soft(추정 노드),norm,1420,0.2623248755152423
+P2,test,nlos_static,WLS,PS-soft(추정 노드),all,1836,0.29089555016099095
+P2,test,nlos_static,WLS,PS-soft(추정 노드),anom,416,0.2970758471467948
+P2,test,nlos_static,WLS,PS-soft(추정 노드),norm,1420,0.28905995944532986
+P2,test,nlos_static,Huber,PS-soft(추정 노드),all,1836,0.29115144660560577
+P2,test,nlos_static,Huber,PS-soft(추정 노드),anom,416,0.2898195463954064
+P2,test,nlos_static,Huber,PS-soft(추정 노드),norm,1420,0.2915404846904673
+P2,test,nlos_static,EKF,PS-soft(추정 노드),all,1836,0.22568386631351192
+P2,test,nlos_static,EKF,PS-soft(추정 노드),anom,416,0.2397303953832024
+P2,test,nlos_static,EKF,PS-soft(추정 노드),norm,1420,0.2214001116587103
+P2,test,nlos_static,LS,cell-soft(추정 노드),all,1836,0.2624617882928384
+P2,test,nlos_static,LS,cell-soft(추정 노드),anom,416,0.2582110019415396
+P2,test,nlos_static,LS,cell-soft(추정 노드),norm,1420,0.26369411171091756
+P2,test,nlos_static,WLS,cell-soft(추정 노드),all,1836,0.2954785393793481
+P2,test,nlos_static,WLS,cell-soft(추정 노드),anom,416,0.3171891148727688
+P2,test,nlos_static,WLS,cell-soft(추정 노드),norm,1420,0.28880932918947505
+P2,test,nlos_static,Huber,cell-soft(추정 노드),all,1836,0.2945108738037028
+P2,test,nlos_static,Huber,cell-soft(추정 노드),anom,416,0.30508099906056024
+P2,test,nlos_static,Huber,cell-soft(추정 노드),norm,1420,0.2913416526176626
+P2,test,nlos_static,EKF,cell-soft(추정 노드),all,1836,0.23100517829853878
+P2,test,nlos_static,EKF,cell-soft(추정 노드),anom,416,0.2599285640011307
+P2,test,nlos_static,EKF,cell-soft(추정 노드),norm,1420,0.22181872969875918
+P2,test,nlos_static,LS,시간이력-soft,all,1836,0.2781320471518161
+P2,test,nlos_static,LS,시간이력-soft,anom,416,0.31190624996845046
+P2,test,nlos_static,LS,시간이력-soft,norm,1420,0.2674310233704716
+P2,test,nlos_static,WLS,시간이력-soft,all,1836,0.3188201093776319
+P2,test,nlos_static,WLS,시간이력-soft,anom,416,0.39912680743232354
+P2,test,nlos_static,WLS,시간이력-soft,norm,1420,0.2911279891283481
+P2,test,nlos_static,Huber,시간이력-soft,all,1836,0.3265389226505011
+P2,test,nlos_static,Huber,시간이력-soft,anom,416,0.417612384230626
+P2,test,nlos_static,Huber,시간이력-soft,norm,1420,0.2945729248265549
+P2,test,nlos_static,EKF,시간이력-soft,all,1836,0.25812705127963
+P2,test,nlos_static,EKF,시간이력-soft,anom,416,0.34902024188824005
+P2,test,nlos_static,EKF,시간이력-soft,norm,1420,0.22463868517067812
+P2,test,nlos_static,LS,참거리z-soft(oracle),all,1836,0.263529182851857
+P2,test,nlos_static,LS,참거리z-soft(oracle),anom,416,0.2700602030863255
+P2,test,nlos_static,LS,참거리z-soft(oracle),norm,1420,0.26158498948094366
+P2,test,nlos_static,WLS,참거리z-soft(oracle),all,1836,0.2972401358858707
+P2,test,nlos_static,WLS,참거리z-soft(oracle),anom,416,0.3387771076478943
+P2,test,nlos_static,WLS,참거리z-soft(oracle),norm,1420,0.2839230057097337
+P2,test,nlos_static,Huber,참거리z-soft(oracle),all,1836,0.29294970203607895
+P2,test,nlos_static,Huber,참거리z-soft(oracle),anom,416,0.3214079185301469
+P2,test,nlos_static,Huber,참거리z-soft(oracle),norm,1420,0.284073220609301
+P2,test,nlos_static,EKF,참거리z-soft(oracle),all,1836,0.23371397588448917
+P2,test,nlos_static,EKF,참거리z-soft(oracle),anom,416,0.28205595748276174
+P2,test,nlos_static,EKF,참거리z-soft(oracle),norm,1420,0.21752656674813417
+P2,test,nlos_static,Rwgh,none,all,1836,0.3446834580670214
+P2,test,nlos_static,Rwgh,none,anom,416,0.42558036666871024
+P2,test,nlos_static,Rwgh,none,norm,1420,0.3170992182768735
+P2,test,nlos_dynamic,LS,none,all,1848,0.621779938389089
+P2,test,nlos_dynamic,LS,none,anom,882,0.839551305916814
+P2,test,nlos_dynamic,LS,none,norm,966,0.30991433163116017
+P2,test,nlos_dynamic,WLS,none,all,1848,0.8006465123449724
+P2,test,nlos_dynamic,WLS,none,anom,882,1.1014833742130994
+P2,test,nlos_dynamic,WLS,none,norm,966,0.3443301476340011
+P2,test,nlos_dynamic,Huber,none,all,1848,0.8410491920115233
+P2,test,nlos_dynamic,Huber,none,anom,882,1.161229222677916
+P2,test,nlos_dynamic,Huber,none,norm,966,0.3493151840286382
+P2,test,nlos_dynamic,EKF,none,all,1848,0.6906687579470794
+P2,test,nlos_dynamic,EKF,none,anom,882,0.9605553873189593
+P2,test,nlos_dynamic,EKF,none,norm,966,0.26482372863654297
+P2,test,nlos_dynamic,LS,PS-soft(정답 노드),all,1848,0.27906357359210276
+P2,test,nlos_dynamic,LS,PS-soft(정답 노드),anom,882,0.2978225851214862
+P2,test,nlos_dynamic,LS,PS-soft(정답 노드),norm,966,0.26075983455433
+P2,test,nlos_dynamic,WLS,PS-soft(정답 노드),all,1848,0.3303412281003536
+P2,test,nlos_dynamic,WLS,PS-soft(정답 노드),anom,882,0.3790840013378458
+P2,test,nlos_dynamic,WLS,PS-soft(정답 노드),norm,966,0.2784831667513546
+P2,test,nlos_dynamic,Huber,PS-soft(정답 노드),all,1848,0.291276486973467
+P2,test,nlos_dynamic,Huber,PS-soft(정답 노드),anom,882,0.3077570299913566
+P2,test,nlos_dynamic,Huber,PS-soft(정답 노드),norm,966,0.27536895899608166
+P2,test,nlos_dynamic,EKF,PS-soft(정답 노드),all,1848,0.2710006501751872
+P2,test,nlos_dynamic,EKF,PS-soft(정답 노드),anom,882,0.3163939335923463
+P2,test,nlos_dynamic,EKF,PS-soft(정답 노드),norm,966,0.22157656051495522
+P2,test,nlos_dynamic,LS,PS-soft(추정 1단계),all,1848,0.35891163652384406
+P2,test,nlos_dynamic,LS,PS-soft(추정 1단계),anom,882,0.44123481567751577
+P2,test,nlos_dynamic,LS,PS-soft(추정 1단계),norm,966,0.2620588509022236
+P2,test,nlos_dynamic,WLS,PS-soft(추정 1단계),all,1848,0.4843934572960013
+P2,test,nlos_dynamic,WLS,PS-soft(추정 1단계),anom,882,0.636472101050315
+P2,test,nlos_dynamic,WLS,PS-soft(추정 1단계),norm,966,0.28106919316812545
+P2,test,nlos_dynamic,Huber,PS-soft(추정 1단계),all,1848,0.383080051072133
+P2,test,nlos_dynamic,Huber,PS-soft(추정 1단계),anom,882,0.47327582440075533
+P2,test,nlos_dynamic,Huber,PS-soft(추정 1단계),norm,966,0.27609262765839754
+P2,test,nlos_dynamic,EKF,PS-soft(추정 1단계),all,1848,0.455172926910157
+P2,test,nlos_dynamic,EKF,PS-soft(추정 1단계),anom,882,0.6145974717031724
+P2,test,nlos_dynamic,EKF,PS-soft(추정 1단계),norm,966,0.2268589115789078
+P2,test,nlos_dynamic,LS,PS-soft(추정 노드),all,1848,0.2953020823251156
+P2,test,nlos_dynamic,LS,PS-soft(추정 노드),anom,882,0.3289988544360088
+P2,test,nlos_dynamic,LS,PS-soft(추정 노드),norm,966,0.26075983467216357
+P2,test,nlos_dynamic,WLS,PS-soft(추정 노드),all,1848,0.35757741556378975
+P2,test,nlos_dynamic,WLS,PS-soft(추정 노드),anom,882,0.4277401666277062
+P2,test,nlos_dynamic,WLS,PS-soft(추정 노드),norm,966,0.27848316663322903
+P2,test,nlos_dynamic,Huber,PS-soft(추정 노드),all,1848,0.31020016380498266
+P2,test,nlos_dynamic,Huber,PS-soft(추정 노드),anom,882,0.34432935293716094
+P2,test,nlos_dynamic,Huber,PS-soft(추정 노드),norm,966,0.27536895899608166
+P2,test,nlos_dynamic,EKF,PS-soft(추정 노드),all,1848,0.3023341465362431
+P2,test,nlos_dynamic,EKF,PS-soft(추정 노드),anom,882,0.3711404066507383
+P2,test,nlos_dynamic,EKF,PS-soft(추정 노드),norm,966,0.2215765605925695
+P2,test,nlos_dynamic,LS,cell-soft(추정 노드),all,1848,0.3062263290582134
+P2,test,nlos_dynamic,LS,cell-soft(추정 노드),anom,882,0.3459585257318663
+P2,test,nlos_dynamic,LS,cell-soft(추정 노드),norm,966,0.2647925776178609
+P2,test,nlos_dynamic,WLS,cell-soft(추정 노드),all,1848,0.3865383396536303
+P2,test,nlos_dynamic,WLS,cell-soft(추정 노드),anom,882,0.47453230898009807
+P2,test,nlos_dynamic,WLS,cell-soft(추정 노드),norm,966,0.2832516100257787
+P2,test,nlos_dynamic,Huber,cell-soft(추정 노드),all,1848,0.3218795946025996
+P2,test,nlos_dynamic,Huber,cell-soft(추정 노드),anom,882,0.36387352113232146
+P2,test,nlos_dynamic,Huber,cell-soft(추정 노드),norm,966,0.27805239602742177
+P2,test,nlos_dynamic,EKF,cell-soft(추정 노드),all,1848,0.32987207021250964
+P2,test,nlos_dynamic,EKF,cell-soft(추정 노드),anom,882,0.4165741320516003
+P2,test,nlos_dynamic,EKF,cell-soft(추정 노드),norm,966,0.22299068821377274
+P2,test,nlos_dynamic,LS,시간이력-soft,all,1848,0.612246483332499
+P2,test,nlos_dynamic,LS,시간이력-soft,anom,882,0.829303698702199
+P2,test,nlos_dynamic,LS,시간이력-soft,norm,966,0.2985891579927192
+P2,test,nlos_dynamic,WLS,시간이력-soft,all,1848,0.7904213100286099
+P2,test,nlos_dynamic,WLS,시간이력-soft,anom,882,1.0899958109457337
+P2,test,nlos_dynamic,WLS,시간이력-soft,norm,966,0.3323034926231121
+P2,test,nlos_dynamic,Huber,시간이력-soft,all,1848,0.8238063998979018
+P2,test,nlos_dynamic,Huber,시간이력-soft,anom,882,1.140817248062438
+P2,test,nlos_dynamic,Huber,시간이력-soft,norm,966,0.33167319271082407
+P2,test,nlos_dynamic,EKF,시간이력-soft,all,1848,0.6976025508259758
+P2,test,nlos_dynamic,EKF,시간이력-soft,anom,882,0.971929425510439
+P2,test,nlos_dynamic,EKF,시간이력-soft,norm,966,0.26168243788141243
+P2,test,nlos_dynamic,LS,참거리z-soft(oracle),all,1848,0.30623773556987266
+P2,test,nlos_dynamic,LS,참거리z-soft(oracle),anom,882,0.3407172995958627
+P2,test,nlos_dynamic,LS,참거리z-soft(oracle),norm,966,0.27095117377446987
+P2,test,nlos_dynamic,WLS,참거리z-soft(oracle),all,1848,0.4007325179911084
+P2,test,nlos_dynamic,WLS,참거리z-soft(oracle),anom,882,0.49483212014250083
+P2,test,nlos_dynamic,WLS,참거리z-soft(oracle),norm,966,0.28920978344316417
+P2,test,nlos_dynamic,Huber,참거리z-soft(oracle),all,1848,0.3186262613028259
+P2,test,nlos_dynamic,Huber,참거리z-soft(oracle),anom,882,0.35509967413870114
+P2,test,nlos_dynamic,Huber,참거리z-soft(oracle),norm,966,0.2812230433998182
+P2,test,nlos_dynamic,EKF,참거리z-soft(oracle),all,1848,0.33243477177092445
+P2,test,nlos_dynamic,EKF,참거리z-soft(oracle),anom,882,0.42011584960523607
+P2,test,nlos_dynamic,EKF,참거리z-soft(oracle),norm,966,0.2242012624896479
+P2,test,nlos_dynamic,Rwgh,none,all,1848,0.43541776392595855
+P2,test,nlos_dynamic,Rwgh,none,anom,882,0.540518064449957
+P2,test,nlos_dynamic,Rwgh,none,norm,966,0.30973651806495933
+P2,test,cad_dynamic_NLOS,LS,none,all,3948,0.1622417631151237
+P2,test,cad_dynamic_NLOS,LS,none,anom,81,0.35404280787676634
+P2,test,cad_dynamic_NLOS,LS,none,norm,3867,0.1557182972992123
+P2,test,cad_dynamic_NLOS,WLS,none,all,3948,0.17375011959675069
+P2,test,cad_dynamic_NLOS,WLS,none,anom,81,0.45594527437366056
+P2,test,cad_dynamic_NLOS,WLS,none,norm,3867,0.1626867523304832
+P2,test,cad_dynamic_NLOS,Huber,none,all,3948,0.18156313645270317
+P2,test,cad_dynamic_NLOS,Huber,none,anom,81,0.4536981594074596
+P2,test,cad_dynamic_NLOS,Huber,none,norm,3867,0.1713009422023884
+P2,test,cad_dynamic_NLOS,EKF,none,all,3948,0.15342600002785076
+P2,test,cad_dynamic_NLOS,EKF,none,anom,81,0.33593169387355243
+P2,test,cad_dynamic_NLOS,EKF,none,norm,3867,0.14720324858028186
+P2,test,cad_dynamic_NLOS,LS,PS-soft(정답 노드),all,3948,0.1402758009655477
+P2,test,cad_dynamic_NLOS,LS,PS-soft(정답 노드),anom,81,0.1414325267473195
+P2,test,cad_dynamic_NLOS,LS,PS-soft(정답 노드),norm,3867,0.14025146963484136
+P2,test,cad_dynamic_NLOS,WLS,PS-soft(정답 노드),all,3948,0.13838224979381236
+P2,test,cad_dynamic_NLOS,WLS,PS-soft(정답 노드),anom,81,0.1394198494490111
+P2,test,cad_dynamic_NLOS,WLS,PS-soft(정답 노드),norm,3867,0.13836043254207556
+P2,test,cad_dynamic_NLOS,Huber,PS-soft(정답 노드),all,3948,0.1392314774492614
+P2,test,cad_dynamic_NLOS,Huber,PS-soft(정답 노드),anom,81,0.1388077508840187
+P2,test,cad_dynamic_NLOS,Huber,PS-soft(정답 노드),norm,3867,0.13924033923745865
+P2,test,cad_dynamic_NLOS,EKF,PS-soft(정답 노드),all,3948,0.1310590592194561
+P2,test,cad_dynamic_NLOS,EKF,PS-soft(정답 노드),anom,81,0.1124734298864538
+P2,test,cad_dynamic_NLOS,EKF,PS-soft(정답 노드),norm,3867,0.1314202610421598
+P2,test,cad_dynamic_NLOS,LS,PS-soft(추정 1단계),all,3948,0.1402758009655477
+P2,test,cad_dynamic_NLOS,LS,PS-soft(추정 1단계),anom,81,0.1414325267473195
+P2,test,cad_dynamic_NLOS,LS,PS-soft(추정 1단계),norm,3867,0.14025146963484136
+P2,test,cad_dynamic_NLOS,WLS,PS-soft(추정 1단계),all,3948,0.13838224979381236
+P2,test,cad_dynamic_NLOS,WLS,PS-soft(추정 1단계),anom,81,0.1394198494490111
+P2,test,cad_dynamic_NLOS,WLS,PS-soft(추정 1단계),norm,3867,0.13836043254207556
+P2,test,cad_dynamic_NLOS,Huber,PS-soft(추정 1단계),all,3948,0.1392314774492614
+P2,test,cad_dynamic_NLOS,Huber,PS-soft(추정 1단계),anom,81,0.1388077508840187
+P2,test,cad_dynamic_NLOS,Huber,PS-soft(추정 1단계),norm,3867,0.13924033923745865
+P2,test,cad_dynamic_NLOS,EKF,PS-soft(추정 1단계),all,3948,0.1310590592194561
+P2,test,cad_dynamic_NLOS,EKF,PS-soft(추정 1단계),anom,81,0.1124734298864538
+P2,test,cad_dynamic_NLOS,EKF,PS-soft(추정 1단계),norm,3867,0.1314202610421598
+P2,test,cad_dynamic_NLOS,LS,PS-soft(추정 노드),all,3948,0.1402758009655477
+P2,test,cad_dynamic_NLOS,LS,PS-soft(추정 노드),anom,81,0.1414325267473195
+P2,test,cad_dynamic_NLOS,LS,PS-soft(추정 노드),norm,3867,0.14025146963484136
+P2,test,cad_dynamic_NLOS,WLS,PS-soft(추정 노드),all,3948,0.13838224979381236
+P2,test,cad_dynamic_NLOS,WLS,PS-soft(추정 노드),anom,81,0.1394198494490111
+P2,test,cad_dynamic_NLOS,WLS,PS-soft(추정 노드),norm,3867,0.13836043254207556
+P2,test,cad_dynamic_NLOS,Huber,PS-soft(추정 노드),all,3948,0.1392314774492614
+P2,test,cad_dynamic_NLOS,Huber,PS-soft(추정 노드),anom,81,0.1388077508840187
+P2,test,cad_dynamic_NLOS,Huber,PS-soft(추정 노드),norm,3867,0.13924033923745865
+P2,test,cad_dynamic_NLOS,EKF,PS-soft(추정 노드),all,3948,0.1310590592194561
+P2,test,cad_dynamic_NLOS,EKF,PS-soft(추정 노드),anom,81,0.1124734298864538
+P2,test,cad_dynamic_NLOS,EKF,PS-soft(추정 노드),norm,3867,0.1314202610421598
+P2,test,cad_dynamic_NLOS,LS,cell-soft(추정 노드),all,3948,0.13997110216959707
+P2,test,cad_dynamic_NLOS,LS,cell-soft(추정 노드),anom,81,0.14253092189717384
+P2,test,cad_dynamic_NLOS,LS,cell-soft(추정 노드),norm,3867,0.13991698222011376
+P2,test,cad_dynamic_NLOS,WLS,cell-soft(추정 노드),all,3948,0.13832546259238282
+P2,test,cad_dynamic_NLOS,WLS,cell-soft(추정 노드),anom,81,0.14236475020797115
+P2,test,cad_dynamic_NLOS,WLS,cell-soft(추정 노드),norm,3867,0.13823959177615355
+P2,test,cad_dynamic_NLOS,Huber,cell-soft(추정 노드),all,3948,0.13891436870389515
+P2,test,cad_dynamic_NLOS,Huber,cell-soft(추정 노드),anom,81,0.14106307641881438
+P2,test,cad_dynamic_NLOS,Huber,cell-soft(추정 노드),norm,3867,0.1388690053676331
+P2,test,cad_dynamic_NLOS,EKF,cell-soft(추정 노드),all,3948,0.13089949831690392
+P2,test,cad_dynamic_NLOS,EKF,cell-soft(추정 노드),anom,81,0.11392102412708958
+P2,test,cad_dynamic_NLOS,EKF,cell-soft(추정 노드),norm,3867,0.1312316517098416
+P2,test,cad_dynamic_NLOS,LS,시간이력-soft,all,3948,0.1401742230557895
+P2,test,cad_dynamic_NLOS,LS,시간이력-soft,anom,81,0.20388627860068118
+P2,test,cad_dynamic_NLOS,LS,시간이력-soft,norm,3867,0.13852671002115077
+P2,test,cad_dynamic_NLOS,WLS,시간이력-soft,all,3948,0.14406572419029212
+P2,test,cad_dynamic_NLOS,WLS,시간이력-soft,anom,81,0.22396822611535885
+P2,test,cad_dynamic_NLOS,WLS,시간이력-soft,norm,3867,0.14191181602850972
+P2,test,cad_dynamic_NLOS,Huber,시간이력-soft,all,3948,0.1493846553422063
+P2,test,cad_dynamic_NLOS,Huber,시간이력-soft,anom,81,0.2112048397838303
+P2,test,cad_dynamic_NLOS,Huber,시간이력-soft,norm,3867,0.14781354008660122
+P2,test,cad_dynamic_NLOS,EKF,시간이력-soft,all,3948,0.13732329814830208
+P2,test,cad_dynamic_NLOS,EKF,시간이력-soft,anom,81,0.17387234770532847
+P2,test,cad_dynamic_NLOS,EKF,시간이력-soft,norm,3867,0.13645308736426426
+P2,test,cad_dynamic_NLOS,LS,참거리z-soft(oracle),all,3948,0.14634052908498626
+P2,test,cad_dynamic_NLOS,LS,참거리z-soft(oracle),anom,81,0.21289967060872483
+P2,test,cad_dynamic_NLOS,LS,참거리z-soft(oracle),norm,3867,0.14461917329795154
+P2,test,cad_dynamic_NLOS,WLS,참거리z-soft(oracle),all,3948,0.1492105327264699
+P2,test,cad_dynamic_NLOS,WLS,참거리z-soft(oracle),anom,81,0.23878349340020846
+P2,test,cad_dynamic_NLOS,WLS,참거리z-soft(oracle),norm,3867,0.14675085756108855
+P2,test,cad_dynamic_NLOS,Huber,참거리z-soft(oracle),all,3948,0.1522432723791374
+P2,test,cad_dynamic_NLOS,Huber,참거리z-soft(oracle),anom,81,0.2174601797269379
+P2,test,cad_dynamic_NLOS,Huber,참거리z-soft(oracle),norm,3867,0.15057548076438185
+P2,test,cad_dynamic_NLOS,EKF,참거리z-soft(oracle),all,3948,0.13952575377268164
+P2,test,cad_dynamic_NLOS,EKF,참거리z-soft(oracle),anom,81,0.1932617155311689
+P2,test,cad_dynamic_NLOS,EKF,참거리z-soft(oracle),norm,3867,0.1381769064379985
+P2,test,cad_dynamic_NLOS,Rwgh,none,all,3948,0.17361478343326034
+P2,test,cad_dynamic_NLOS,Rwgh,none,anom,81,0.2813181309084214
+P2,test,cad_dynamic_NLOS,Rwgh,none,norm,3867,0.1706334144282813
+P2,test,hallway_dynamic_NLOS,LS,none,all,4644,0.4309971704549727
+P2,test,hallway_dynamic_NLOS,LS,none,anom,228,0.936886199848385
+P2,test,hallway_dynamic_NLOS,LS,none,norm,4416,0.38733763711390573
+P2,test,hallway_dynamic_NLOS,WLS,none,all,4644,0.4115297792888013
+P2,test,hallway_dynamic_NLOS,WLS,none,anom,228,0.9084800194921318
+P2,test,hallway_dynamic_NLOS,WLS,none,norm,4416,0.36808731115087856
+P2,test,hallway_dynamic_NLOS,Huber,none,all,4644,0.4048121310119193
+P2,test,hallway_dynamic_NLOS,Huber,none,anom,228,0.921502113378617
+P2,test,hallway_dynamic_NLOS,Huber,none,norm,4416,0.35845623335532345
+P2,test,hallway_dynamic_NLOS,EKF,none,all,4644,0.3596272294117889
+P2,test,hallway_dynamic_NLOS,EKF,none,anom,228,0.8356063254682062
+P2,test,hallway_dynamic_NLOS,EKF,none,norm,4416,0.3161627276381953
+P2,test,hallway_dynamic_NLOS,LS,PS-soft(정답 노드),all,4644,0.3535639039933357
+P2,test,hallway_dynamic_NLOS,LS,PS-soft(정답 노드),anom,228,0.8277278414409652
+P2,test,hallway_dynamic_NLOS,LS,PS-soft(정답 노드),norm,4416,0.3099804640919998
+P2,test,hallway_dynamic_NLOS,WLS,PS-soft(정답 노드),all,4644,0.3515289139837662
+P2,test,hallway_dynamic_NLOS,WLS,PS-soft(정답 노드),anom,228,0.8336845933868577
+P2,test,hallway_dynamic_NLOS,WLS,PS-soft(정답 노드),norm,4416,0.30670504089715483
+P2,test,hallway_dynamic_NLOS,Huber,PS-soft(정답 노드),all,4644,0.3598501934147659
+P2,test,hallway_dynamic_NLOS,Huber,PS-soft(정답 노드),anom,228,0.8587661893340061
+P2,test,hallway_dynamic_NLOS,Huber,PS-soft(정답 노드),norm,4416,0.313211618398927
+P2,test,hallway_dynamic_NLOS,EKF,PS-soft(정답 노드),all,4644,0.29532954320100463
+P2,test,hallway_dynamic_NLOS,EKF,PS-soft(정답 노드),anom,228,0.6996087677977201
+P2,test,hallway_dynamic_NLOS,EKF,PS-soft(정답 노드),norm,4416,0.2577830098162962
+P2,test,hallway_dynamic_NLOS,LS,PS-soft(추정 1단계),all,4644,0.3660208648056905
+P2,test,hallway_dynamic_NLOS,LS,PS-soft(추정 1단계),anom,228,0.9224516481155809
+P2,test,hallway_dynamic_NLOS,LS,PS-soft(추정 1단계),norm,4416,0.3113760614933994
+P2,test,hallway_dynamic_NLOS,WLS,PS-soft(추정 1단계),all,4644,0.36434184932080577
+P2,test,hallway_dynamic_NLOS,WLS,PS-soft(추정 1단계),anom,228,0.9333249843396806
+P2,test,hallway_dynamic_NLOS,WLS,PS-soft(추정 1단계),norm,4416,0.30760953105806527
+P2,test,hallway_dynamic_NLOS,Huber,PS-soft(추정 1단계),all,4644,0.37037156195583526
+P2,test,hallway_dynamic_NLOS,Huber,PS-soft(추정 1단계),anom,228,0.9429935162690622
+P2,test,hallway_dynamic_NLOS,Huber,PS-soft(추정 1단계),norm,4416,0.3136013751507258
+P2,test,hallway_dynamic_NLOS,EKF,PS-soft(추정 1단계),all,4644,0.3390570828131238
+P2,test,hallway_dynamic_NLOS,EKF,PS-soft(추정 1단계),anom,228,0.9112789073924665
+P2,test,hallway_dynamic_NLOS,EKF,PS-soft(추정 1단계),norm,4416,0.2793200707011667
+P2,test,hallway_dynamic_NLOS,LS,PS-soft(추정 노드),all,4644,0.3669247861064393
+P2,test,hallway_dynamic_NLOS,LS,PS-soft(추정 노드),anom,228,0.9221654656373042
+P2,test,hallway_dynamic_NLOS,LS,PS-soft(추정 노드),norm,4416,0.31253646007682095
+P2,test,hallway_dynamic_NLOS,WLS,PS-soft(추정 노드),all,4644,0.36581526990865937
+P2,test,hallway_dynamic_NLOS,WLS,PS-soft(추정 노드),anom,228,0.9333910348224672
+P2,test,hallway_dynamic_NLOS,WLS,PS-soft(추정 노드),norm,4416,0.30943275799633096
+P2,test,hallway_dynamic_NLOS,Huber,PS-soft(추정 노드),all,4644,0.3717097731388108
+P2,test,hallway_dynamic_NLOS,Huber,PS-soft(추정 노드),anom,228,0.9411978694380173
+P2,test,hallway_dynamic_NLOS,Huber,PS-soft(추정 노드),norm,4416,0.31553896696028594
+P2,test,hallway_dynamic_NLOS,EKF,PS-soft(추정 노드),all,4644,0.3463394518467805
+P2,test,hallway_dynamic_NLOS,EKF,PS-soft(추정 노드),anom,228,0.9358112623192862
+P2,test,hallway_dynamic_NLOS,EKF,PS-soft(추정 노드),norm,4416,0.2844805119617292
+P2,test,hallway_dynamic_NLOS,LS,cell-soft(추정 노드),all,4644,0.3651238314036942
+P2,test,hallway_dynamic_NLOS,LS,cell-soft(추정 노드),anom,228,0.919760795209263
+P2,test,hallway_dynamic_NLOS,LS,cell-soft(추정 노드),norm,4416,0.3106787190297163
+P2,test,hallway_dynamic_NLOS,WLS,cell-soft(추정 노드),all,4644,0.3630217904337912
+P2,test,hallway_dynamic_NLOS,WLS,cell-soft(추정 노드),anom,228,0.928719220430343
+P2,test,hallway_dynamic_NLOS,WLS,cell-soft(추정 노드),norm,4416,0.3066866100215562
+P2,test,hallway_dynamic_NLOS,Huber,cell-soft(추정 노드),all,4644,0.3689581393231463
+P2,test,hallway_dynamic_NLOS,Huber,cell-soft(추정 노드),anom,228,0.9377140570354475
+P2,test,hallway_dynamic_NLOS,Huber,cell-soft(추정 노드),norm,4416,0.3126652024860532
+P2,test,hallway_dynamic_NLOS,EKF,cell-soft(추정 노드),all,4644,0.34256382081323317
+P2,test,hallway_dynamic_NLOS,EKF,cell-soft(추정 노드),anom,228,0.9285299989058595
+P2,test,hallway_dynamic_NLOS,EKF,cell-soft(추정 노드),norm,4416,0.2808819944383561
+P2,test,hallway_dynamic_NLOS,LS,시간이력-soft,all,4644,0.4065980343108386
+P2,test,hallway_dynamic_NLOS,LS,시간이력-soft,anom,228,0.9507818936362769
+P2,test,hallway_dynamic_NLOS,LS,시간이력-soft,norm,4416,0.35662922655772505
+P2,test,hallway_dynamic_NLOS,WLS,시간이력-soft,all,4644,0.3896358350418465
+P2,test,hallway_dynamic_NLOS,WLS,시간이력-soft,anom,228,0.9266811003801234
+P2,test,hallway_dynamic_NLOS,WLS,시간이력-soft,norm,4416,0.33958416512098144
+P2,test,hallway_dynamic_NLOS,Huber,시간이력-soft,all,4644,0.39088048043105994
+P2,test,hallway_dynamic_NLOS,Huber,시간이력-soft,anom,228,0.9326563828553864
+P2,test,hallway_dynamic_NLOS,Huber,시간이력-soft,norm,4416,0.34024316433212476
+P2,test,hallway_dynamic_NLOS,EKF,시간이력-soft,all,4644,0.3651058074368648
+P2,test,hallway_dynamic_NLOS,EKF,시간이력-soft,anom,228,0.8597552418573868
+P2,test,hallway_dynamic_NLOS,EKF,시간이력-soft,norm,4416,0.31940658526454996
+P2,test,hallway_dynamic_NLOS,LS,참거리z-soft(oracle),all,4644,0.3653036717039165
+P2,test,hallway_dynamic_NLOS,LS,참거리z-soft(oracle),anom,228,0.7254791027463837
+P2,test,hallway_dynamic_NLOS,LS,참거리z-soft(oracle),norm,4416,0.3363964338450445
+P2,test,hallway_dynamic_NLOS,WLS,참거리z-soft(oracle),all,4644,0.35132856262295203
+P2,test,hallway_dynamic_NLOS,WLS,참거리z-soft(oracle),anom,228,0.7206852058012517
+P2,test,hallway_dynamic_NLOS,WLS,참거리z-soft(oracle),norm,4416,0.32091807225452185
+P2,test,hallway_dynamic_NLOS,Huber,참거리z-soft(oracle),all,4644,0.3441778628802776
+P2,test,hallway_dynamic_NLOS,Huber,참거리z-soft(oracle),anom,228,0.6780381830576292
+P2,test,hallway_dynamic_NLOS,Huber,참거리z-soft(oracle),norm,4416,0.31755015662489156
+P2,test,hallway_dynamic_NLOS,EKF,참거리z-soft(oracle),all,4644,0.33160029906628075
+P2,test,hallway_dynamic_NLOS,EKF,참거리z-soft(oracle),anom,228,0.6988935274304663
+P2,test,hallway_dynamic_NLOS,EKF,참거리z-soft(oracle),norm,4416,0.30069416241797875
+P2,test,hallway_dynamic_NLOS,Rwgh,none,all,4644,0.5050541901590927
+P2,test,hallway_dynamic_NLOS,Rwgh,none,anom,228,1.043015868004256
+P2,test,hallway_dynamic_NLOS,Rwgh,none,norm,4416,0.46052338350757543

@@ -1,0 +1,48 @@
+{
+ "rq6_realistic": true,
+ "normal_model_needed": true,
+ "claims": {
+  "SC1/LS": {
+   "improvement": 0.21061668927627963,
+   "frac_units": 0.8666666666666667,
+   "meets": true,
+   "better_than_timehist": 0.18568688911312892,
+   "needed": true
+  },
+  "SC1/WLS": {
+   "improvement": 0.2269114350457223,
+   "frac_units": 0.9333333333333333,
+   "meets": true,
+   "better_than_timehist": 0.20458400102885987,
+   "needed": true
+  },
+  "SC2/LS": {
+   "improvement": 0.22408208915961403,
+   "frac_units": 0.8666666666666667,
+   "meets": true,
+   "better_than_timehist": 0.20914109238121859,
+   "needed": true
+  },
+  "SC2/WLS": {
+   "improvement": 0.23034419527540828,
+   "frac_units": 0.9333333333333333,
+   "meets": true,
+   "better_than_timehist": 0.21515838107062446,
+   "needed": true
+  },
+  "SC3/LS": {
+   "improvement": 0.33530488315415097,
+   "frac_units": 1.0,
+   "meets": true,
+   "better_than_timehist": 0.0715596682481564,
+   "needed": true
+  },
+  "SC3/WLS": {
+   "improvement": 0.31304440245213827,
+   "frac_units": 1.0,
+   "meets": true,
+   "better_than_timehist": 0.050404958138621114,
+   "needed": true
+  }
+ }
+}

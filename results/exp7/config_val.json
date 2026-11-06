@@ -1,0 +1,25 @@
+{
+ "plan": "doc/실험7_계획.md",
+ "detectors": {
+  "PS": {
+   "K_t": 12
+  },
+  "cell": {
+   "time_basis": "cell"
+  }
+ },
+ "q": {
+  "d1": 0.05,
+  "d2": 0.3
+ },
+ "splits": [
+  "val"
+ ],
+ "datasets": [
+  "d1",
+  "d2"
+ ],
+ "exp_config": "configs/exp3.yaml",
+ "data_config": "configs/data.yaml",
+ "elapsed_s": 28.4652653997764
+}

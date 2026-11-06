@@ -2,8 +2,8 @@
 
 원본 프로젝트는 읽기만 하고 release/pspline-normal-reference/ 에 복사본을 만든다.
 - 넣는 것: 공개 데이터 경로(D2·D3·D4·D5·D6·D7·D8)와 시뮬레이션의 코드·설정, 원고에 쓰인 1차 출력, 등록 문서.
-- 빼는 것: D1 원자료·D1 로더(대신 안내만 하는 stub)·D1 설정 세부(앵커 좌표·파일 목록), Sensors 원고 전용(측위: 실험 2·5·7,
-  src/positioning), 내려받은 원자료, 캐시, 점수 배열(npz, 다시 만들 수 있음), 중간 저장(.partial.csv), 원고 초안, 저작권 PDF.
+- 빼는 것: D1 원자료·D1 로더(대신 안내만 하는 stub)·D1 설정 세부(앵커 좌표·파일 목록, cache/d1_geometry.json), Sensors 원고 전용(실험 2·5),
+  내려받은 원자료, 캐시, 점수 배열(npz, 다시 만들 수 있음), 중간 저장(.partial.csv), 원고 초안, 저작권 PDF.
 - 텍스트 파일 안의 이 PC 절대 경로는 '<repo>' 로 바꾼다. 그 밖의 바이트는 그대로 둔다(등록 문서 지문 검증을 위해).
 사용법: python -I analysis/78_release_package.py   → release/pspline-normal-reference/, 끝에 SHA256SUMS.txt
 """
@@ -25,6 +25,7 @@ SRC_FILES = [
     "src/metrics/__init__.py", "src/metrics/anomaly.py",
     "src/model/__init__.py", "src/model/bank.py", "src/model/compose.py", "src/model/interp.py", "src/model/pspline.py",
     "src/model/stssd.py",
+    "src/positioning/solvers.py",                       # 2차 수정(2026-11-06): 측위(원고 4.9절)
 ]
 EXPERIMENTS = [
     "node_model_eval.py",
@@ -39,6 +40,7 @@ EXPERIMENTS = [
     "expR1_3_thresholds.py", "expR1_3_train_seeds.py", "expR1_4_factorial.py", "expR1_4_factorial_summarize.py",
     "expR1_4_robust.py", "expR1_4_robust_summarize.py", "expR1_5_sim.py", "expR1_5_summarize.py",
     "expR1_6_uji.py", "expR1_6b_uji_by_set.py", "expR1_7_hymn.py",
+    "exp7_positioning.py", "exp7_extra.py", "exp7_d2real.py", "exp7_summarize.py", "expR2_1_positioning_missing.py",
 ]
 ANALYSIS = [
     "common.py", "fig_style.py", "00_fetch_d2.py", "12_d2_structure.py", "20_d3_structure.py", "21_d4_structure.py",
@@ -46,6 +48,7 @@ ANALYSIS = [
     "60_math_figures.py", "61_huber_synthetic_check.py", "63_math_paired_stats.py", "64_math_fig1.py", "67_math_tables.py",
     "72_graphical_abstract.py",
     "69_math_fig4_comparators_missing.py", "76_cluster_bootstrap.py", "77_pred_variance.py", "78_release_package.py", "81_supp_revision.py", "85_uji_a5_direction.py",
+    "90_supp_revision2.py",
 ]
 ANALYSIS_OUT = [
     "42_d2_nlos_signature.txt", "43_exp3_paired.csv", "43_exp3_paired.txt", "47_reference_error.csv", "47_reference_error.txt",
@@ -54,7 +57,7 @@ ANALYSIS_OUT = [
 CONFIGS = ["exp1_simple.yaml", "exp3.yaml", "exp4.yaml"]
 RESULT_DIRS = (["B0", "D1CFG", "F01", "F02", "H01", "H03", "M01", "M02", "P01", "Z0", "Z0s", "Z1", "Z1t", "Z2", "ZF01"]
                + [f"C{i:02d}" for i in range(16)] + [f"E{i:02d}" for i in range(1, 19)]
-               + ["exp1_baselines", "exp1_simple", "exp1_stssd", "exp3", "exp4", "exp6", "exp8", "exp9", "exp10", "expR1"])
+               + ["exp1_baselines", "exp1_simple", "exp1_stssd", "exp3", "exp4", "exp6", "exp7", "exp8", "exp9", "exp10", "expR1", "expR2"])
 RESULT_SKIP_DIRS = {"expR1/hymn_smoke"}
 PAPER_FILES = {"paper/mathematics/paired_values.csv": "results/paper/paired_values.csv",
                "paper/mathematics/paired_stats.csv": "results/paper/paired_stats.csv"}
@@ -62,7 +65,7 @@ DOCS = [
     "합성방식_실험계획_최종.md", "결정기록_실험3이후.md",
     "실험1_ST-SSD_계획.md", "실험1_비교모델_계획.md", "실험4_계획.md", "실험6_계획.md", "실험8_계획.md", "실험9_계획.md",
     "실험10_계획.md", "분석R1-3_계획.md", "실험R1-4_계획.md", "실험R1-5_계획.md", "실험R1-6_계획.md", "실험R1-7_계획.md",
-    "R1_등록_지문.md",
+    "R1_등록_지문.md", "실험7_계획.md", "실험R2-1_계획.md", "R2_등록_지문.md",
 ]
 DATA_NOTES = ["data_ext/D7_uji/STRUCTURE.md", "data_ext/D8_hymn/STRUCTURE.md", "data_ext/D8_hymn/README.md",
               "data_ext/D4a_SMD/SOURCE.txt", "data_ext/D4b_ASD/SOURCE.txt"]
@@ -74,10 +77,22 @@ ROOT_STR = str(ROOT)                                     # C:\Users\...\uwb_bspl
 PATH_FORMS = [ROOT_STR.replace(BS, BS + BS), ROOT_STR, ROOT_STR.replace(BS, "/")]
 
 
+HOME_STR = str(Path.home())                              # 2차 수정(2026-11-06): 경고 메시지의 Python 설치 경로(사용자 이름) 가리기
+HOME_FORMS = [HOME_STR.replace(BS, BS + BS), HOME_STR, HOME_STR.replace(BS, "/")]
+
+
 def sanitize(b: bytes) -> bytes:
     for form in PATH_FORMS:
         b = b.replace(form.encode("utf-8"), b"<repo>")
+    for form in HOME_FORMS:
+        b = b.replace(form.encode("utf-8"), b"<home>")
     return b
+
+
+def redact_d1_geometry(b: bytes) -> bytes:
+    """실험 7 로그의 D1 높이 차(dz)는 D1 기하라 가린다 (data.yaml 에서 앵커 좌표·높이를 뺀 것과 같은 이유)."""
+    import re
+    return re.sub(rb"(d1 \w+: dz=)[0-9.]+", rb"\1<withheld>", b)
 
 
 def copy(src: Path, dst: Path):
@@ -85,6 +100,8 @@ def copy(src: Path, dst: Path):
     data = src.read_bytes()
     if src.suffix.lower() in TEXT_SUFFIX:
         data = sanitize(data)
+    if src.name.startswith("log") and "exp7" in src.as_posix():
+        data = redact_d1_geometry(data)
     dst.write_bytes(data)
 
 

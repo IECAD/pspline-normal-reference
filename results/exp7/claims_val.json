@@ -1,0 +1,276 @@
+{
+ "default": "soft",
+ "rq6": true,
+ "claims": {
+  "P1/SC1/LS": {
+   "improvement": 0.5673132477847989,
+   "frac_units": 1.0,
+   "ps_vs_cell": -0.019219682847943842,
+   "normal_cost": -0.04809191788806488,
+   "anom_improvement": 0.6422804514806374,
+   "meets": true,
+   "oracle_gap": -0.05196415152667799
+  },
+  "P1/SC1/WLS": {
+   "improvement": 0.5678269665270614,
+   "frac_units": 1.0,
+   "ps_vs_cell": -0.019470128562086852,
+   "normal_cost": -0.02826719628339791,
+   "anom_improvement": 0.6498281516025972,
+   "meets": true,
+   "oracle_gap": -0.039373364777243514
+  },
+  "P1/SC1/Huber": {
+   "improvement": 0.5494185785810367,
+   "frac_units": 1.0,
+   "ps_vs_cell": -0.012909447357556503,
+   "normal_cost": -0.015484864909235174,
+   "anom_improvement": 0.6350192376295194,
+   "meets": true,
+   "oracle_gap": -0.032710380263919925
+  },
+  "P1/SC1/EKF": {
+   "improvement": 0.597294834811801,
+   "frac_units": 1.0,
+   "ps_vs_cell": -0.021185153113768007,
+   "normal_cost": -0.054596867553826756,
+   "anom_improvement": 0.6739715119458272,
+   "meets": true,
+   "oracle_gap": -0.034196696817808125
+  },
+  "P1/SC1/EKFseq": {
+   "improvement": 0.6344959812361847,
+   "frac_units": 1.0,
+   "ps_vs_cell": -0.02179487021744242,
+   "normal_cost": -0.13154839603026125,
+   "anom_improvement": 0.7038444015465917,
+   "meets": true,
+   "oracle_gap": -0.06527594970202
+  },
+  "P1/SC2/LS": {
+   "improvement": 0.5619675936948882,
+   "frac_units": 1.0,
+   "ps_vs_cell": -0.07885983713440115,
+   "normal_cost": -0.08916001542166374,
+   "anom_improvement": 0.6011628203973776,
+   "meets": true,
+   "oracle_gap": -0.4444746539478226
+  },
+  "P1/SC2/WLS": {
+   "improvement": 0.5175127196727338,
+   "frac_units": 1.0,
+   "ps_vs_cell": 0.01974910869189217,
+   "normal_cost": -0.05587505936839621,
+   "anom_improvement": 0.5538567131253183,
+   "meets": true,
+   "oracle_gap": -0.40474971875724264
+  },
+  "P1/SC2/Huber": {
+   "improvement": 0.4566403070073508,
+   "frac_units": 0.9333333333333333,
+   "ps_vs_cell": -0.012537635243023093,
+   "normal_cost": -0.025270828400210665,
+   "anom_improvement": 0.4835518229805208,
+   "meets": true,
+   "oracle_gap": -0.28634346724447446
+  },
+  "P1/SC2/EKF": {
+   "improvement": 0.5683594981996427,
+   "frac_units": 1.0,
+   "ps_vs_cell": -0.008918821820859346,
+   "normal_cost": -0.2093842160068805,
+   "anom_improvement": 0.5977172853895152,
+   "meets": true,
+   "oracle_gap": -0.4317790546657352
+  },
+  "P1/SC2/EKFseq": {
+   "improvement": 0.5927440651045148,
+   "frac_units": 1.0,
+   "ps_vs_cell": -0.016075777389837786,
+   "normal_cost": -0.20764915053095634,
+   "anom_improvement": 0.6210619207682511,
+   "meets": true,
+   "oracle_gap": -0.457817453821762
+  },
+  "P1/SC3/LS": {
+   "improvement": 0.2970973718557868,
+   "frac_units": 1.0,
+   "ps_vs_cell": -0.021258598736998646,
+   "normal_cost": -0.07968966291760893,
+   "anom_improvement": 0.6669320623903947,
+   "meets": true,
+   "oracle_gap": -0.07664669872658236
+  },
+  "P1/SC3/WLS": {
+   "improvement": 0.2850948328560915,
+   "frac_units": 1.0,
+   "ps_vs_cell": -0.017209794377157417,
+   "normal_cost": -0.05069134720794222,
+   "anom_improvement": 0.68070599941299,
+   "meets": true,
+   "oracle_gap": -0.04983768845177017
+  },
+  "P1/SC3/Huber": {
+   "improvement": 0.25251295903547666,
+   "frac_units": 1.0,
+   "ps_vs_cell": -0.006997529135916447,
+   "normal_cost": -0.021723959938567017,
+   "anom_improvement": 0.6619502332095091,
+   "meets": true,
+   "oracle_gap": -0.02054500466191278
+  },
+  "P1/SC3/EKF": {
+   "improvement": 0.17140455521001485,
+   "frac_units": 1.0,
+   "ps_vs_cell": -0.008275102108180943,
+   "normal_cost": -0.14617811386016122,
+   "anom_improvement": 0.3752037971241501,
+   "meets": true,
+   "oracle_gap": -0.027434261926059467
+  },
+  "P1/SC3/EKFseq": {
+   "improvement": 0.22914678482966166,
+   "frac_units": 1.0,
+   "ps_vs_cell": -0.008950137147783033,
+   "normal_cost": -0.2014586759263004,
+   "anom_improvement": 0.44053719554298976,
+   "meets": true,
+   "oracle_gap": -0.058144918376499155
+  },
+  "P3/SC1m/LS": {
+   "improvement": 0.6886423068384957,
+   "frac_units": 1.0,
+   "ps_vs_cell": 0.00157308353516461,
+   "normal_cost": -0.037855403425651746,
+   "anom_improvement": 0.7785796569806045,
+   "meets": true,
+   "oracle_gap": 0.0036123611767979735
+  },
+  "P3/SC1m/WLS": {
+   "improvement": 0.2709769331671992,
+   "frac_units": 0.9333333333333333,
+   "ps_vs_cell": 0.003973103954204804,
+   "normal_cost": 0.012855927211380624,
+   "anom_improvement": 0.5782217660255751,
+   "meets": true,
+   "oracle_gap": 0.0559870454008482
+  },
+  "P3/SC1m/Huber": {
+   "improvement": 0.11471049575692771,
+   "frac_units": 0.8666666666666667,
+   "ps_vs_cell": -0.00077340334444298,
+   "normal_cost": -0.03397546100904991,
+   "anom_improvement": 0.21994847049094413,
+   "meets": true,
+   "oracle_gap": -8.931428309166822e-05
+  },
+  "P3/SC1m/EKF": {
+   "improvement": 0.021972985555103186,
+   "frac_units": 0.8666666666666667,
+   "ps_vs_cell": -0.0007793196122530821,
+   "normal_cost": 0.005878042004943573,
+   "anom_improvement": 0.058495182188872286,
+   "meets": false,
+   "oracle_gap": 0.02024467492381632
+  },
+  "P3/SC1m/EKFseq": {
+   "improvement": 0.1425465500150106,
+   "frac_units": 1.0,
+   "ps_vs_cell": -0.0014612291958655543,
+   "normal_cost": -0.0371446785509546,
+   "anom_improvement": 0.21979508155756589,
+   "meets": true,
+   "oracle_gap": -0.08994512095592966
+  },
+  "P3/SC2m/LS": {
+   "improvement": 0.6434538145599789,
+   "frac_units": 1.0,
+   "ps_vs_cell": 0.0017251164702298816,
+   "normal_cost": -0.04118551520241065,
+   "anom_improvement": 0.7108529202817357,
+   "meets": true,
+   "oracle_gap": -0.20543576984867085
+  },
+  "P3/SC2m/WLS": {
+   "improvement": 0.49426000627890676,
+   "frac_units": 0.7333333333333333,
+   "ps_vs_cell": 0.0001758731617234055,
+   "normal_cost": 0.02136868044549356,
+   "anom_improvement": 0.698240830755307,
+   "meets": false,
+   "oracle_gap": -0.35969138943577605
+  },
+  "P3/SC2m/Huber": {
+   "improvement": 0.3178399909625391,
+   "frac_units": 0.6666666666666666,
+   "ps_vs_cell": -0.0009814598668728136,
+   "normal_cost": -0.025185916165729738,
+   "anom_improvement": 0.6395887430072766,
+   "meets": false,
+   "oracle_gap": -0.272707075817632
+  },
+  "P3/SC2m/EKF": {
+   "improvement": 0.14592993260531306,
+   "frac_units": 0.7333333333333333,
+   "ps_vs_cell": -0.004103750911772952,
+   "normal_cost": -0.008643222117851734,
+   "anom_improvement": 0.5828667512084509,
+   "meets": false,
+   "oracle_gap": -0.06835886022265036
+  },
+  "P3/SC2m/EKFseq": {
+   "improvement": 0.17915736346826472,
+   "frac_units": 0.6,
+   "ps_vs_cell": -0.0004334461987101079,
+   "normal_cost": -6.918984855519561e-05,
+   "anom_improvement": 0.5650479994358482,
+   "meets": false,
+   "oracle_gap": 0.0004253704048025053
+  },
+  "P3/SC3m/LS": {
+   "improvement": 0.2999565294700949,
+   "frac_units": 0.7333333333333333,
+   "ps_vs_cell": 0.00287873610426459,
+   "normal_cost": -0.030815116944679755,
+   "anom_improvement": 0.7403732852728389,
+   "meets": false,
+   "oracle_gap": -0.0389614556412603
+  },
+  "P3/SC3m/WLS": {
+   "improvement": 0.05840544486403343,
+   "frac_units": 0.9333333333333333,
+   "ps_vs_cell": 0.0045058594083353665,
+   "normal_cost": 0.021465314616522235,
+   "anom_improvement": 0.5001531567205744,
+   "meets": true,
+   "oracle_gap": 0.031862551550084994
+  },
+  "P3/SC3m/Huber": {
+   "improvement": 0.02556697496506377,
+   "frac_units": 0.6,
+   "ps_vs_cell": -0.0009139381378302502,
+   "normal_cost": -0.02879849634919418,
+   "anom_improvement": -0.01821443476614837,
+   "meets": false,
+   "oracle_gap": -0.05528067589579466
+  },
+  "P3/SC3m/EKF": {
+   "improvement": -0.004428083640804825,
+   "frac_units": 0.8,
+   "ps_vs_cell": -2.1154237744736015e-05,
+   "normal_cost": 0.006286884432220585,
+   "anom_improvement": 0.017732407224826607,
+   "meets": false,
+   "oracle_gap": 0.013261778676442404
+  },
+  "P3/SC3m/EKFseq": {
+   "improvement": 0.002450807006937339,
+   "frac_units": 0.6666666666666666,
+   "ps_vs_cell": -3.053522439622203e-05,
+   "normal_cost": 9.262236113816158e-05,
+   "anom_improvement": 0.03648999705261491,
+   "meets": false,
+   "oracle_gap": 1.0434696671612897e-05
+  }
+ }
+}

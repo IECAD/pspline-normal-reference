@@ -1,0 +1,64 @@
+  d1 classroom base 기준 s=-1 (train missing 0.000) done
+  d1 classroom C 0.5 s=0 (train missing 0.501) done
+  d1 classroom C 0.5 s=1 (train missing 0.498) done
+  d1 classroom C 0.5 s=2 (train missing 0.492) done
+  d1 classroom C 0.7 s=0 (train missing 0.697) done
+  d1 classroom C 0.7 s=1 (train missing 0.705) done
+  d1 classroom C 0.7 s=2 (train missing 0.700) done
+  d1 classroom D pi=0.7,L=4 s=0 (train missing 0.695) done
+  d1 classroom D pi=0.7,L=4 s=1 (train missing 0.710) done
+  d1 classroom D pi=0.7,L=4 s=2 (train missing 0.698) done
+  d1 classroom P P3 s=0 (train missing 0.743) done
+  d1 classroom P P3 s=1 (train missing 0.728) done
+  d1 classroom P P3 s=2 (train missing 0.731) done
+  d1 lab base 기준 s=-1 (train missing 0.000) done
+  d1 lab C 0.5 s=0 (train missing 0.496) done
+  d1 lab C 0.5 s=1 (train missing 0.495) done
+  d1 lab C 0.5 s=2 (train missing 0.494) done
+  d1 lab C 0.7 s=0 (train missing 0.699) done
+  d1 lab C 0.7 s=1 (train missing 0.703) done
+  d1 lab C 0.7 s=2 (train missing 0.702) done
+  d1 lab D pi=0.7,L=4 s=0 (train missing 0.699) done
+  d1 lab D pi=0.7,L=4 s=1 (train missing 0.704) done
+  d1 lab D pi=0.7,L=4 s=2 (train missing 0.714) done
+  d1 lab P P3 s=0 (train missing 0.750) done
+  d1 lab P P3 s=1 (train missing 0.726) done
+  d1 lab P P3 s=2 (train missing 0.734) done
+  d1 hallway base 기준 s=-1 (train missing 0.000) done
+  d1 hallway C 0.5 s=0 (train missing 0.501) done
+  d1 hallway C 0.5 s=1 (train missing 0.498) done
+  d1 hallway C 0.5 s=2 (train missing 0.492) done
+  d1 hallway C 0.7 s=0 (train missing 0.696) done
+  d1 hallway C 0.7 s=1 (train missing 0.705) done
+  d1 hallway C 0.7 s=2 (train missing 0.700) done
+  d1 hallway D pi=0.7,L=4 s=0 (train missing 0.705) done
+  d1 hallway D pi=0.7,L=4 s=1 (train missing 0.703) done
+  d1 hallway D pi=0.7,L=4 s=2 (train missing 0.705) done
+  d1 hallway P P3 s=0 (train missing 0.742) done
+  d1 hallway P P3 s=1 (train missing 0.728) done
+  d1 hallway P P3 s=2 (train missing 0.731) done
+<repo>\src\model\compose.py:84: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env0 base 기준 s=-1 (train missing 0.000) done
+  d2 env0 C 0.7 s=0 (train missing 0.694) done
+  d2 env0 C 0.7 s=1 (train missing 0.717) done
+  d2 env0 C 0.7 s=2 (train missing 0.701) done
+<repo>\src\model\compose.py:84: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env1 base 기준 s=-1 (train missing 0.000) done
+  d2 env1 C 0.7 s=0 (train missing 0.696) done
+  d2 env1 C 0.7 s=1 (train missing 0.703) done
+  d2 env1 C 0.7 s=2 (train missing 0.702) done
+<repo>\src\model\compose.py:84: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env2 base 기준 s=-1 (train missing 0.000) done
+  d2 env2 C 0.7 s=0 (train missing 0.695) done
+  d2 env2 C 0.7 s=1 (train missing 0.714) done
+  d2 env2 C 0.7 s=2 (train missing 0.710) done
+<repo>\src\model\compose.py:84: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(x[ix], axis=(0, 2), keepdims=True)
+  d2 env3 base 기준 s=-1 (train missing 0.000) done
+  d2 env3 C 0.7 s=0 (train missing 0.699) done
+  d2 env3 C 0.7 s=1 (train missing 0.710) done
+  d2 env3 C 0.7 s=2 (train missing 0.703) done
+done: 66780 unit rows, 424s
