@@ -35,7 +35,7 @@ def table_s50():
     P = read(R21 / "pooled_test.csv")
     P = P[P.subset == "all"]
     L = ["**Table S50.** Positioning (main text Section 4.9, Table 15): position RMSE (m), test split. Each anchor's range is "
-         "weighted by 1 if its anchor score is at most the validation threshold θ and by (θ/A)² otherwise. Positioning "
+         "weighted by 1 if its anchor score is at most the validation threshold $\\theta$ and by $(\\theta/A)^{2}$ otherwise. Positioning "
          "parameters (anchor geometry, range biases, noise SDs) come from the complete training records; only the detector's "
          "training records change between rows. Estimated node: the training node nearest to the window median of the "
          "unweighted LS fix, refined once with the weighted fix, using each detector's own scores. Known node: the tag's "
@@ -47,15 +47,17 @@ def table_s50():
          "(e) D2 persistent real NLOS, LS (1,872 common steps). (f) D1 injected anomalies, LS: 90th percentile of the "
          "position error (descriptive measure of reliability), entries SC1 / SC2. (g) The same runs: RMSE at steps without "
          "injected anomalies (no false-alarm cost if not higher than without weighting). Unit-level values are in the code repository.", ""]
-    # (a)
-    L += ["| (a) Training records, solver | none | " + " | ".join(f"{d} est." for d, _ in DET) + " | "
-          + " | ".join(f"{d} known" for d, _ in DET) + " |", "|" + "---|" * 10]
-    for fam, lvl, name in COND:
-        for sv in ("LS", "WLS", "Huber", "EKF"):
-            d = P[(P.set == "P1") & (P.family == fam) & (P.level == lvl) & (P.solver == sv)]
-            cell = lambda cfg: " / ".join(f3(d[(d.scenario == s) & (d.config == cfg)].rmse.iloc[0]) for s in ("SC1", "SC2", "SC3"))
-            L.append(f"| {name}, {sv} | {cell('none')} | " + " | ".join(cell(f"{k}-soft({EST})") for k, _ in DET) + " | "
-                     + " | ".join(cell(f"{k}-soft({KNOWN})") for k, _ in DET) + " |")
+    # (a) — 7열 이하로 나눔(추정 노드 / 정답 노드): 8열 이상은 70 이 통째로 축소해 읽기 어렵다 (2026-11-06)
+    for node, lab in ((EST, "estimated node"), (KNOWN, "known node")):
+        head = "(a) Training records, solver" if node == EST else "(a, continued) Training records, solver"
+        L += ["" if node == KNOWN else None, f"| {head} | none | " + " | ".join(f"{d} ({lab})" for d, _ in DET) + " |",
+              "|" + "---|" * 6]
+        L = [x for x in L if x is not None]
+        for fam, lvl, name in COND:
+            for sv in ("LS", "WLS", "Huber", "EKF"):
+                d = P[(P.set == "P1") & (P.family == fam) & (P.level == lvl) & (P.solver == sv)]
+                cell = lambda cfg: " / ".join(f3(d[(d.scenario == s) & (d.config == cfg)].rmse.iloc[0]) for s in ("SC1", "SC2", "SC3"))
+                L.append(f"| {name}, {sv} | {cell('none')} | " + " | ".join(cell(f"{k}-soft({node})") for k, _ in DET) + " |")
     # (b)
     X = read(E7 / "extra/pooled_test.csv")
     X = X[(X.set == "P1") & (X.subset == "all")]
@@ -88,15 +90,15 @@ def table_s50():
     # (f) P90, (g) 정상 스텝 RMSE — 신뢰도 서술 지표 (계획서 2.4절), D1 주입, LS
     for part, metric, sub, title in (("f", "p90", "all", "90th percentile of the position error (m), all steps"),
                                      ("g", "rmse", "norm", "RMSE (m) at steps without injected anomalies")):
-        L += ["", f"| ({part}) {title}; training records | none | " + " | ".join(f"{d} est." for d, _ in DET) + " | "
-              + " | ".join(f"{d} known" for d, _ in DET) + " |", "|" + "---|" * 10]
         Q = read(R21 / "pooled_test.csv")
         Q = Q[(Q.set == "P1") & (Q.subset == sub) & (Q.solver == "LS")]
-        for fam, lvl, name in COND:
-            d = Q[(Q.family == fam) & (Q.level == lvl)]
-            cell = lambda cfg: " / ".join(f3(d[(d.scenario == s) & (d.config == cfg)][metric].iloc[0]) for s in ("SC1", "SC2"))
-            L.append(f"| {name} | {cell('none')} | " + " | ".join(cell(f"{k}-soft({EST})") for k, _ in DET) + " | "
-                     + " | ".join(cell(f"{k}-soft({KNOWN})") for k, _ in DET) + " |")
+        for node, lab in ((EST, "estimated node"), (KNOWN, "known node")):     # 7열 이하로 나눔 (2026-11-06)
+            head = f"({part}) {title}" if node == EST else f"({part}, continued)"
+            L += ["", f"| {head}; training records | none | " + " | ".join(f"{d} ({lab})" for d, _ in DET) + " |", "|" + "---|" * 6]
+            for fam, lvl, name in COND:
+                d = Q[(Q.family == fam) & (Q.level == lvl)]
+                cell = lambda cfg: " / ".join(f3(d[(d.scenario == s) & (d.config == cfg)][metric].iloc[0]) for s in ("SC1", "SC2"))
+                L.append(f"| {name} | {cell('none')} | " + " | ".join(cell(f"{k}-soft({node})") for k, _ in DET) + " |")
     return L
 
 
@@ -118,9 +120,9 @@ def table_s51():
          "rows, five seeds per direction (30 pairs). Tolerance 0.017 (that of D2). Mean empty-cell fraction of the cell mean at "
          "training nodes: Random 0.47 (1 m) and 0.54 (0.5 m), Tour 0.00. Registered prediction: on Random the cell mean "
          "collapses and the P-spline wins; on Tour all references tie. Differences are PS − reference (fraction of positive pairs).", "",
-         "| Recording, grid | Evaluated windows (dir. 1 / 2), coverage | Positive rate | AUC-PR: cell / cell + fill / cell + interp. / PS / node mean "
-         "| PS − cell | PS − cell + fill | PS − cell + interp. | PS − node mean |",
-         "|---|---|---|---|---|---|---|---|"]
+         "| Recording, grid | Evaluated windows (dir. 1 / 2), coverage | Positive rate | AUC-PR: cell / cell + fill / cell + interp. / PS / node mean |",
+         "|---|---|---|---|"]
+    D_ = ["", "| Recording, grid (continued) | PS − cell | PS − cell + fill | PS − cell + interp. | PS − node mean |", "|---|---|---|---|---|"]   # 7열 이하로 나눔 (2026-11-06)
     name = {"cell": "cell", "cellfill": "cell + fill", "cellinterp": "cell + interp.", "const": "node mean"}
     for rec, rl in (("TDoA_Random", "Random"), ("TDoA_Tour", "Tour")):
         for grid in (1.0, 0.5):
@@ -135,7 +137,9 @@ def table_s51():
                 cells.append(f"{d.mean():+.3f}".replace("-", "−") + f" ({(d > 0).mean():.2f}) {v}")
             cov = " / ".join(str(int(x)) for x in c.covered_windows) + f", {c.covered_windows.sum() / c.eval_windows.sum():.2f}"
             L.append(f"| {rl}, {grid:g} m | {cov} | {m.pos_rate.mean():.3f} | "
-                     + " / ".join(f"{mean[b]:.3f}" for b in ("cell", "cellfill", "cellinterp", "PS", "const")) + " | " + " | ".join(cells) + " |")
+                     + " / ".join(f"{mean[b]:.3f}" for b in ("cell", "cellfill", "cellinterp", "PS", "const")) + " |")
+            D_.append(f"| {rl}, {grid:g} m | " + " | ".join(cells) + " |")
+    L += D_
     L += ["", "Outcome. The registered prediction was not supported: on Random every reference was within the tolerance of the "
           "P-spline. Detection was weak for every reference (AUC-PR 0.15–0.28 at a positive rate of about 0.05). After the run we "
           "judged the data unsuitable for the question, and this judgement was made after seeing the results. The tag moves, so a "

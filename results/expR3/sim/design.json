@@ -1,0 +1,242 @@
+[
+ {
+  "id": 100,
+  "tags": [
+   "A"
+  ],
+  "cfg": {
+   "N": 5,
+   "L": "L1",
+   "noise": "G",
+   "miss": "MCAR",
+   "r": 0.5,
+   "p": 0.0,
+   "atype": "spike",
+   "mag": 1.0
+  }
+ },
+ {
+  "id": 101,
+  "tags": [
+   "A"
+  ],
+  "cfg": {
+   "N": 5,
+   "L": "L1",
+   "noise": "G",
+   "miss": "MCAR",
+   "r": 0.5,
+   "p": 0.0,
+   "atype": "spike",
+   "mag": 3.0
+  }
+ },
+ {
+  "id": 102,
+  "tags": [
+   "A"
+  ],
+  "cfg": {
+   "N": 5,
+   "L": "L1",
+   "noise": "G",
+   "miss": "MCAR",
+   "r": 0.5,
+   "p": 0.0,
+   "atype": "shift",
+   "mag": 1.0
+  }
+ },
+ {
+  "id": 103,
+  "tags": [
+   "A"
+  ],
+  "cfg": {
+   "N": 5,
+   "L": "L1",
+   "noise": "G",
+   "miss": "MCAR",
+   "r": 0.5,
+   "p": 0.0,
+   "atype": "shift",
+   "mag": 3.0
+  }
+ },
+ {
+  "id": 104,
+  "tags": [
+   "A"
+  ],
+  "cfg": {
+   "N": 5,
+   "L": "L1",
+   "noise": "G",
+   "miss": "MCAR",
+   "r": 0.5,
+   "p": 0.0,
+   "atype": "drift",
+   "mag": 1.0
+  }
+ },
+ {
+  "id": 105,
+  "tags": [
+   "A"
+  ],
+  "cfg": {
+   "N": 5,
+   "L": "L1",
+   "noise": "G",
+   "miss": "MCAR",
+   "r": 0.5,
+   "p": 0.0,
+   "atype": "drift",
+   "mag": 3.0
+  }
+ },
+ {
+  "id": 106,
+  "tags": [
+   "B"
+  ],
+  "cfg": {
+   "N": 5,
+   "L": "L1",
+   "noise": "G",
+   "miss": "MCAR",
+   "r": 0.0,
+   "p": 0.0,
+   "atype": "mix",
+   "mag": 2.0
+  }
+ },
+ {
+  "id": 107,
+  "tags": [
+   "B"
+  ],
+  "cfg": {
+   "N": 5,
+   "L": "L1",
+   "noise": "G",
+   "miss": "END",
+   "r": 1.0,
+   "p": 0.0,
+   "atype": "mix",
+   "mag": 2.0
+  }
+ },
+ {
+  "id": 108,
+  "tags": [
+   "B"
+  ],
+  "cfg": {
+   "N": 5,
+   "L": "L1",
+   "noise": "G",
+   "miss": "END",
+   "r": 2.0,
+   "p": 0.0,
+   "atype": "mix",
+   "mag": 2.0
+  }
+ },
+ {
+  "id": 109,
+  "tags": [
+   "B"
+  ],
+  "cfg": {
+   "N": 5,
+   "L": "L1",
+   "noise": "G",
+   "miss": "END",
+   "r": 3.0,
+   "p": 0.0,
+   "atype": "mix",
+   "mag": 2.0
+  }
+ },
+ {
+  "id": 110,
+  "tags": [
+   "B"
+  ],
+  "cfg": {
+   "N": 5,
+   "L": "L1",
+   "noise": "G",
+   "miss": "END",
+   "r": 4.0,
+   "p": 0.0,
+   "atype": "mix",
+   "mag": 2.0
+  }
+ },
+ {
+  "id": 111,
+  "tags": [
+   "C"
+  ],
+  "cfg": {
+   "N": 5,
+   "L": "L1",
+   "noise": "G@0.5",
+   "miss": "MCAR",
+   "r": 0.0,
+   "p": 0.0,
+   "atype": "mix",
+   "mag": 1.0
+  }
+ },
+ {
+  "id": 112,
+  "tags": [
+   "C"
+  ],
+  "cfg": {
+   "N": 5,
+   "L": "L1",
+   "noise": "G@2.0",
+   "miss": "MCAR",
+   "r": 0.0,
+   "p": 0.0,
+   "atype": "mix",
+   "mag": 4.0
+  }
+ },
+ {
+  "id": 113,
+  "tags": [
+   "C"
+  ],
+  "cfg": {
+   "N": 10,
+   "L": "L1",
+   "noise": "G@0.5",
+   "miss": "MCAR",
+   "r": 0.5,
+   "p": 0.0,
+   "atype": "mix",
+   "mag": 1.0
+  }
+ },
+ {
+  "id": 114,
+  "tags": [
+   "C"
+  ],
+  "cfg": {
+   "N": 10,
+   "L": "L1",
+   "noise": "G@2.0",
+   "miss": "MCAR",
+   "r": 0.5,
+   "p": 0.0,
+   "atype": "mix",
+   "mag": 4.0
+  }
+ }
+]

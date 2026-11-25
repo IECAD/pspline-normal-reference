@@ -1,0 +1,2198 @@
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+200/1500 반복, 20 s
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+400/1500 반복, 33 s
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+600/1500 반복, 44 s
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+800/1500 반복, 54 s
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+1000/1500 반복, 67 s
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+1200/1500 반복, 76 s
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+1400/1500 반복, 86 s
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+<repo>\experiments\expR1_5_sim.py:177: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(x, axis=0)                 # (S, T)
+반복 1500개, 92 s

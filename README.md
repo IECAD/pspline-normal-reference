@@ -2,7 +2,7 @@
 
 This repository accompanies the manuscript
 
-> A. Lim and J. H. Cho, *Location-Specific P-Spline Normal References for Sensor Anomaly Detection with Incomplete Training Data*, submitted to *Mathematics* (MDPI), manuscript mathematics-4658477, second revision.
+> A. Lim and J. H. Cho, *Location-Specific P-Spline Normal References for Sensor Anomaly Detection with Incomplete Training Data*, submitted to *Mathematics* (MDPI), manuscript mathematics-4658477, resubmission.
 
 It contains the code for every analysis on public data, the configurations, the primary outputs behind the tables and figures, and the pre-registration documents with their amendments. [`REGISTRATIONS.md`](REGISTRATIONS.md) gives the chronology of every registration and how to check the recorded SHA-256 fingerprints.
 
@@ -23,7 +23,7 @@ It contains the code for every analysis on public data, the configurations, the 
 | `analysis/` | Figures, tables, cluster bootstrap, prediction variance, data checks; `analysis/out/` has their text outputs |
 | `configs/` | Data and experiment settings |
 | `results/` | Primary outputs: metrics per evaluation unit, scenario and seed; summaries; selections |
-| `doc/` | Registration documents in their original language (Korean), unedited; `doc/registered/` holds read-only copies made at registration |
+| `doc/` | Registration documents in their original language (Korean), unedited; `doc/registered/` holds read-only copies made at registration; `정리1_유도.md` is the derivation note of Theorem 1 that was fixed with the R3-1 registration |
 | `data_ext/*/` | Notes on the downloaded data (`STRUCTURE.md`: values seen before registration) |
 
 ## Data sources
@@ -60,7 +60,7 @@ The Wi-Fi loader (`src/data/d7_uji.py`) reads the extracted CSVs directly.
 
 ## Paper item → script → primary output
 
-Section and table numbers refer to the revised manuscript; table numbers may shift in the typeset version.
+Section and table numbers refer to the resubmitted manuscript; table numbers may shift in the typeset version.
 
 | Paper item | Script | Output |
 |---|---|---|
@@ -77,8 +77,10 @@ Section and table numbers refer to the revised manuscript; table numbers may shi
 | Wi-Fi fingerprints (Section 4.7, Table S48); split of the registered test by set and orientation check of the month-25 sets (post hoc) | `expR1_6_uji.py`; `expR1_6b_uji_by_set.py`, `analysis/85_uji_a5_direction.py` | `results/expR1/uji/` (`by_set_test.*`, `a5_direction.txt`, `shift_far.csv`) |
 | Scope limit, SMD/ASD (Section 4.7) | `exp9_d4.py` | `results/exp9/` |
 | Simulation study (Section 4.8, Table 14) | `expR1_5_sim.py`, `expR1_5_summarize.py` | `results/expR1/sim/` |
+| Retrospective checks of Theorem 1 on the saved outputs (Section 3.6, Table 1; Table S53) | `analysis/91_theorem1_sim_check.py` (simulation outputs); `92_theorem1_d1_check.py`, `92b_theorem1_d1_class.py` (D1 outputs; 92 reads the D1 windows and cannot be re-run here) | `analysis/out/91_theorem1_sim_check.md`, `91_theorem1_sim_points.csv`, `92_theorem1_d1_check.md`, `92_theorem1_d1_points.csv`, `92b_theorem1_d1_class.md` |
+| Registered simulation R3-1, predictions of Theorem 1 (Section 4.8, Table 15; Table S52) | `expR3_1_sim.py` (reuses `expR1_5_sim.py`); predictions written before the run `analysis/93_r3_predictions.py`; verdicts `analysis/94_r3_judge.py` | `results/expR3/sim/` (`quick_*` = code check after registration, before the full run); `analysis/out/93_r3_predictions.{md,json}`, `94_r3_judge.md` |
 | Effect on positioning, complete training records (Section 4.9; Table S50 b–e) | `exp7_positioning.py`, `exp7_extra.py`, `exp7_d2real.py`, `exp7_summarize.py` | `results/exp7/` (`extra/`, `d2_real/`) |
-| Effect on positioning with training-cell loss (Section 4.9, Table 15; Table S50 a, c, d) | `expR2_1_positioning_missing.py` | `results/expR2/positioning_missing/` |
+| Effect on positioning with training-cell loss (Section 4.9, Table 16; Table S50 a, c, d) | `expR2_1_positioning_missing.py` | `results/expR2/positioning_missing/` |
 | Empty-cell fraction and residual-scale inflation (Section 3.6, Figure 2) | `analysis/47_reference_error.py` | `analysis/out/47_reference_error.*` |
 | Prediction variance at empty cells (Remark 3) | `analysis/77_pred_variance.py` | `results/expR1/pred_var/` |
 | Huber synthetic check (Remark 4) | `analysis/61_huber_synthetic_check.py` | `analysis/out/61_huber_synthetic_check.txt` |
@@ -88,12 +90,13 @@ Section and table numbers refer to the revised manuscript; table numbers may shi
 | Figures, graphical abstract and tables | `analysis/60_math_figures.py`, `64_math_fig1.py`, `69_math_fig4_comparators_missing.py`, `72_graphical_abstract.py`, `67_math_tables.py` | — |
 | Supplementary Tables S41–S49 (first revision) | `analysis/81_supp_revision.py` | generated from the outputs above |
 | Supplementary Tables S50–S51 (second revision; S51 = registered check on D3) | `analysis/90_supp_revision2.py`; `experiments/exp6_d3.py` | generated from the outputs above; `results/exp6/d3_real_missing/` |
+| Supplementary Tables S52–S53 (resubmission) | `analysis/95_supp_resubmit.py` | generated from the outputs above |
 
 Each script's docstring states its registration document, options and outputs. Validation runs choose settings; the test split was scored once after the choice was fixed.
 
 ## Registrations
 
-Every experiment was registered in writing before it was run; results were appended to the same document afterwards, never edited above. Post-hoc or exploratory additions are marked as such in the documents. [`REGISTRATIONS.md`](REGISTRATIONS.md) lists them in time order, with what was seen before each, and explains how the fingerprints recorded for the revision can be checked against the files here.
+Every experiment was registered in writing before it was run; results were appended to the same document afterwards, never edited above. Post-hoc or exploratory additions are marked as such in the documents. [`REGISTRATIONS.md`](REGISTRATIONS.md) lists them in time order, with what was seen before each, and explains how the fingerprints recorded for the revisions and the resubmission can be checked against the files here.
 
 ## Licence and use of AI tools
 

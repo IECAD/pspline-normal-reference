@@ -1,4 +1,6 @@
 """공개 저장소용 패키지 만들기 (1차 수정 결정 D2 (가), 2026-10-29).
+재투고 v1.0.4 (2026-11-25): R3-1 등록 시뮬레이션(expR3_1_sim, results/expR3), 정리 1 회고 검증·예측·판정·S8(analysis 91–95 와 analysis/out),
+  등록 문서(실험R3-1_계획, R3_등록_지문, 정리1_유도)와 doc/registered/R3-1 을 더함. 추적 스크립트(62·62b·62c·62d)와 보충 md 는 이전 판과 같이 넣지 않음.
 
 원본 프로젝트는 읽기만 하고 release/pspline-normal-reference/ 에 복사본을 만든다.
 - 넣는 것: 공개 데이터 경로(D2·D3·D4·D5·D6·D7·D8)와 시뮬레이션의 코드·설정, 원고에 쓰인 1차 출력, 등록 문서.
@@ -41,6 +43,7 @@ EXPERIMENTS = [
     "expR1_4_robust.py", "expR1_4_robust_summarize.py", "expR1_5_sim.py", "expR1_5_summarize.py",
     "expR1_6_uji.py", "expR1_6b_uji_by_set.py", "expR1_7_hymn.py",
     "exp7_positioning.py", "exp7_extra.py", "exp7_d2real.py", "exp7_summarize.py", "expR2_1_positioning_missing.py",
+    "expR3_1_sim.py",                                   # 재투고(2026-11-25): R3-1 등록 시뮬레이션 (4.8절 표 15)
 ]
 ANALYSIS = [
     "common.py", "fig_style.py", "00_fetch_d2.py", "12_d2_structure.py", "20_d3_structure.py", "21_d4_structure.py",
@@ -49,15 +52,19 @@ ANALYSIS = [
     "72_graphical_abstract.py",
     "69_math_fig4_comparators_missing.py", "76_cluster_bootstrap.py", "77_pred_variance.py", "78_release_package.py", "81_supp_revision.py", "85_uji_a5_direction.py",
     "90_supp_revision2.py",
+    "91_theorem1_sim_check.py", "92_theorem1_d1_check.py", "92b_theorem1_d1_class.py", "93_r3_predictions.py", "94_r3_judge.py",   # 재투고(2026-11-25)
+    "95_supp_resubmit.py",
 ]
 ANALYSIS_OUT = [
     "42_d2_nlos_signature.txt", "43_exp3_paired.csv", "43_exp3_paired.txt", "47_reference_error.csv", "47_reference_error.txt",
     "48_d3_feasibility.txt", "49_phy_loss_library.txt", "61_huber_synthetic_check.txt",
+    "91_theorem1_sim_check.md", "91_theorem1_sim_points.csv", "92_theorem1_d1_check.md", "92_theorem1_d1_points.csv",   # 재투고 (92_run_log.txt 는 cp949 진행 로그라 넣지 않음)
+    "92b_theorem1_d1_class.md", "93_r3_predictions.md", "93_r3_predictions.json", "94_r3_judge.md",
 ]
 CONFIGS = ["exp1_simple.yaml", "exp3.yaml", "exp4.yaml"]
 RESULT_DIRS = (["B0", "D1CFG", "F01", "F02", "H01", "H03", "M01", "M02", "P01", "Z0", "Z0s", "Z1", "Z1t", "Z2", "ZF01"]
                + [f"C{i:02d}" for i in range(16)] + [f"E{i:02d}" for i in range(1, 19)]
-               + ["exp1_baselines", "exp1_simple", "exp1_stssd", "exp3", "exp4", "exp6", "exp7", "exp8", "exp9", "exp10", "expR1", "expR2"])
+               + ["exp1_baselines", "exp1_simple", "exp1_stssd", "exp3", "exp4", "exp6", "exp7", "exp8", "exp9", "exp10", "expR1", "expR2", "expR3"])
 RESULT_SKIP_DIRS = {"expR1/hymn_smoke"}
 PAPER_FILES = {"paper/mathematics/paired_values.csv": "results/paper/paired_values.csv",
                "paper/mathematics/paired_stats.csv": "results/paper/paired_stats.csv"}
@@ -66,6 +73,7 @@ DOCS = [
     "실험1_ST-SSD_계획.md", "실험1_비교모델_계획.md", "실험4_계획.md", "실험6_계획.md", "실험8_계획.md", "실험9_계획.md",
     "실험10_계획.md", "분석R1-3_계획.md", "실험R1-4_계획.md", "실험R1-5_계획.md", "실험R1-6_계획.md", "실험R1-7_계획.md",
     "R1_등록_지문.md", "실험7_계획.md", "실험R2-1_계획.md", "R2_등록_지문.md",
+    "실험R3-1_계획.md", "R3_등록_지문.md", "정리1_유도.md",       # 재투고(2026-11-25); 유도 문서는 R3-1 등록 지문에 들어 있어 함께 공개
 ]
 DATA_NOTES = ["data_ext/D7_uji/STRUCTURE.md", "data_ext/D8_hymn/STRUCTURE.md", "data_ext/D8_hymn/README.md",
               "data_ext/D4a_SMD/SOURCE.txt", "data_ext/D4b_ASD/SOURCE.txt"]

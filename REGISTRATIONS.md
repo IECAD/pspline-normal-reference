@@ -6,7 +6,7 @@ This file lists every registration behind the results in the paper, grouped by e
 
 - **Rule.** Each experiment was written down (purpose, conditions, decision rules, expected outcomes) before it was run. Results were appended to the end of the same document after the run, with a date; text above was not changed. Settings were chosen on the validation split, and the test split was scored once after the choice was fixed.
 - **Original submission (2026-10-08 to 2026-10-14).** There was no version control. The dates are those written in the documents and the file dates. We cannot prove from these files which edits preceded which run, and we say so.
-- **Revision (from 2026-10-28).** Each registration document was fixed before any run and its SHA-256 fingerprint was recorded with the time in [`doc/R1_등록_지문.md`](doc/R1_등록_지문.md). Amendments made before running were appended with a new fingerprint. These times are self-recorded; no third-party time stamp was obtained. Because results were only appended, the registered version of each document is the first *k* lines of the file in this repository, and its fingerprint can be recomputed (see below).
+- **Revision (from 2026-10-28).** Each registration document was fixed before any run and its SHA-256 fingerprint was recorded with the time in [`doc/R1_등록_지문.md`](doc/R1_등록_지문.md). Amendments made before running were appended with a new fingerprint. These times are self-recorded; no third-party time stamp was obtained. Because results were only appended, the registered version of each document is the first *k* lines of the file in this repository, and its fingerprint can be recomputed (see below). The same procedure was used for the second revision ([`doc/R2_등록_지문.md`](doc/R2_등록_지문.md)) and for the resubmission ([`doc/R3_등록_지문.md`](doc/R3_등록_지문.md)).
 - **Not included.** Internal Experiment 0 (inspection and labelling of the private D1 data) and Experiments 2 and 5 (generalisation, a separate manuscript) are not part of this package. Experiment 7 (positioning) is included since the second revision. Some documents refer to internal planning files (`doc/PROJECT_BRIEF.md`, `doc/문헌대조_결과.md`) and to revision notes under `paper/` that are not included either.
 
 ## Original submission
@@ -80,6 +80,25 @@ R2-1 (positioning with training-cell loss) was registered on 2026-11-06 at 11:00
 | `src/positioning/solvers.py` (reused, unchanged) | `2d9030d30aab6c0567daaf9a7c524ed006e3941dc9f96977b8823952aed1c1a4` |
 
 One of the three R2-1 predictions (a tie with row-mean fill and interpolation in every loss condition) was not borne out; the results are reported as found (Section 4.9 of the paper).
+
+## Resubmission
+
+R3-1 (registered predictions of Theorem 1; simulation only) was registered on 2026-11-13 at 00:21:09 (self-recorded, as before). Theorem 1 was formulated after all results of the simulation R1-5 and the retrospective checks on the saved outputs (`analysis/91_theorem1_sim_check.py`, `92_theorem1_d1_check.py`, `92b_theorem1_d1_class.py`) had been seen; the predictions were computed from those outputs and the formulas of the theorem (`analysis/93_r3_predictions.py`, fixed with the plan), and no R3-1 cell had been run before registration; the `--quick` code check (`results/expR3/sim/quick_*`) came after it. The plan, the prediction file and the fingerprints were written by the AI assistant (Claude Code) and registered before the authors had reviewed them; the quick check, the full run (15 cells × 100 replicates, 92 s) and the rule-based judgement (`analysis/94_r3_judge.py`) followed the same day. The authors reviewed the registration, the run and the outcome afterwards and left the registered text unchanged; the post-run record was appended to the plan. Fingerprints are in [`doc/R3_등록_지문.md`](doc/R3_등록_지문.md); read-only copies of the registered files are in `doc/registered/R3-1/`.
+
+| Registration | Registered version = first *k* lines of | *k* | SHA-256 (recorded) | Recorded at | Runs |
+|---|---|---|---|---|---|
+| R3-1 registered predictions of Theorem 1 | `doc/실험R3-1_계획.md` | 74 | `7993da43ea555b7ac3db0326452fb507330df2992d8c63c92705e1c36c4fdb9f` | 2026-11-13 00:21:09 | quick check, then full run and judgement, 2026-11-13 |
+| Derivation note of Theorem 1 (fixed with the plan) | `doc/정리1_유도.md` | 79 | `f1717a762101076b20b0175b0d00cf78bed00ab17adc41577d7d2b697dcf6116` | 2026-11-13 00:21:09 | |
+
+| File fixed with the R3-1 plan | SHA-256 |
+|---|---|
+| `experiments/expR3_1_sim.py` | `e2274eed6fb99d402c8c3bca9de4c3fb76de1deb2803dbc9c22e492833d0c1c2` |
+| `analysis/93_r3_predictions.py` | `cb29e24af87de3b7a27b7b376696f18e1ea07a474bd0d6ae3f45f7f2db2eb873` |
+| `analysis/out/93_r3_predictions.md` | `d5b29bcef0ca3872360a03912673c402d80cda0cf7f22cc2053e6dd41a928852` |
+| `analysis/out/93_r3_predictions.json` | `739e97e6bee5da72db9b74474b5842f0011a8b472659c11b04b63670af1c958f` |
+| `experiments/expR1_5_sim.py` (reused, unchanged) | `b36d43b6b6395b5e983dc39800680f746accfdf03321323a92eed6f290c93f97` |
+
+Seven of the nine registered predictions held. Two failed by the registered rules and are reported as failed (Section 4.8, Table 15; Supplementary Table S52): A2, the unit-fill ratio at anomaly size 3 (1.85–2.07 against the registered 1.56), and C1, scale invariance (16 of 20 values within ±0.01 against the required 18; the four misses are at most 0.013, within 1.8 Monte Carlo standard errors).
 
 ## Checking a fingerprint
 
