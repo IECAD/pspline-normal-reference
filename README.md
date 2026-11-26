@@ -2,7 +2,7 @@
 
 This repository accompanies the manuscript
 
-> A. Lim and J. H. Cho, *Location-Specific P-Spline Normal References for Sensor Anomaly Detection with Incomplete Training Data*, submitted to *Mathematics* (MDPI), manuscript mathematics-4658477, resubmission.
+> A. Lim and J. H. Cho, *How Reference Error Enters Location-Specific Anomaly Detection with Incomplete Training Data*, submitted to *Mathematics* (MDPI), manuscript mathematics-4658477, resubmission.
 
 It contains the code for every analysis on public data, the configurations, the primary outputs behind the tables and figures, and the pre-registration documents with their amendments. [`REGISTRATIONS.md`](REGISTRATIONS.md) gives the chronology of every registration and how to check the recorded SHA-256 fingerprints.
 
@@ -98,8 +98,8 @@ Each script's docstring states its registration document, options and outputs. V
 
 Every experiment was registered in writing before it was run; results were appended to the same document afterwards, never edited above. Post-hoc or exploratory additions are marked as such in the documents. [`REGISTRATIONS.md`](REGISTRATIONS.md) lists them in time order, with what was seen before each, and explains how the fingerprints recorded for the revisions and the resubmission can be checked against the files here.
 
-## Licence and use of AI tools
+## Licence
 
-Code and documents: MIT (see `LICENSE`). The datasets keep their own licences. As stated in the paper (Section 3.7 and Acknowledgments): Claude Code (Anthropic; Claude Fable 5.1 for the original submission and Claude Opus 5.5 for the revision, 2026) was used under the authors' direction. It was used to write and run the analysis and figure code, to draft the pre-registered plans and the text, and for language editing; it was not used to collect data. All numbers were regenerated from the primary outputs by versioned scripts. The authors reviewed and edited all output and take full responsibility for the content.
+Code and documents: MIT (see `LICENSE`). The datasets keep their own licences.
 
 `SHA256SUMS.txt` lists the fingerprint of every file in this release.
